@@ -1,0 +1,1844 @@
+{
+  "schemaVersion": 1,
+  "id": "olympic-national-park",
+  "title": "Olympic National Park",
+  "edition": "An in-depth field guide · Reading edition",
+  "authored": "2026-09-07",
+  "root": "one-peninsula",
+  "narrationReady": false,
+  "points": [
+    {
+      "id": "one-peninsula",
+      "title": "One peninsula, many worlds",
+      "chapter": "A connected place",
+      "deck": "Follow water through a landscape that changes with height, exposure and time.",
+      "paragraphs": [
+        "A snowy ridge, a moss-draped valley and an ocean headland can look like separate destinations. Olympic National Park brings them into one connected story. Its protected landscape includes a mountainous interior and a Pacific coastal strip, while the wider peninsula includes Tribal lands, towns, working forests and other public lands. The park boundary is useful for administration; water, wildlife and cultural relationships cross it.",
+        "Start with the Pacific. Moist air moves toward the mountains, water gathers as snow and rain, and rivers carry it back toward salt water. Along that route, temperature, rock, slope and living organisms change what happens next. This ORB follows those connections, then descends into questions that evidence has not completely resolved. The sphere is a map of ideas, not a geographic map: a nearby point can be connected by explanation even when the places themselves are far apart."
+      ],
+      "media": "mountains",
+      "sources": [
+        "overview",
+        "ecology"
+      ],
+      "notice": "Trace a connection between two habitats before thinking of them as separate scenes.",
+      "bridge": "Before following the water, we need to recognize whose homelands it passes through.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": null,
+          "label": "This edition is anchored on Olympic. Broader geography can continue in Orbiverse."
+        },
+        "down": {
+          "to": "river-continuum",
+          "label": "Deepen how the landscape is connected"
+        },
+        "left": {
+          "to": "living-homelands",
+          "label": "Human relationships within the whole"
+        },
+        "right": {
+          "to": "rain-shadow",
+          "label": "Physical relationships within the whole"
+        },
+        "forward": {
+          "to": "living-homelands",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "mountains",
+        "forest",
+        "coast",
+        "lake"
+      ]
+    },
+    {
+      "id": "living-homelands",
+      "title": "Living homelands",
+      "chapter": "A connected place",
+      "deck": "The human story belongs in the present tense.",
+      "paragraphs": [
+        "Eight contemporary Tribes have longstanding connections with the lands and waters of Olympic National Park: the Lower Elwha Klallam, Jamestown S’Klallam, Port Gamble S’Klallam, Skokomish, Quinault, Hoh, Quileute and Makah. These are distinct communities and governments, with their own histories and relationships to place. One generalized account cannot speak for them all.",
+        "Read the peninsula through more than a scenic lens. A river can be a fishery, a place of family connection, a travel corridor and a focus of present-day restoration. A national park designation did not begin human history here or end those relationships. This reading uses NPS orientation alongside direct Tribal sources elsewhere in the ORB; follow those sources to hear institutions describe their own work. Cultural knowledge is not an empty space for this guide to fill with invented stories."
+      ],
+      "media": "lake",
+      "sources": [
+        "tribes"
+      ],
+      "notice": "Ask who is speaking in a source, and whose perspective is still missing.",
+      "bridge": "Recognizing living homelands changes how we understand stewardship.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "shared-stewardship",
+          "label": "Examine contemporary coordination"
+        },
+        "left": {
+          "to": "ozette-memory",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "shared-stewardship",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "shared-stewardship",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        },
+        "backward": {
+          "to": "one-peninsula",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        }
+      },
+      "mediaPack": [
+        "lake"
+      ]
+    },
+    {
+      "id": "shared-stewardship",
+      "title": "Stewardship across boundaries",
+      "chapter": "A connected place",
+      "deck": "A watershed connects jurisdictions as well as ecosystems.",
+      "paragraphs": [
+        "Managing Olympic involves relationships among governments. The park’s memorandum of understanding with eight peninsula Tribes establishes a framework for government-to-government coordination. That matters because resources and responsibilities extend across lines on a map. A salmon’s route can connect a protected headwater with downstream communities and the ocean.",
+        "The Lower Elwha Klallam Tribe’s restoration program makes this connection tangible. Removing the Elwha dams was one part of a wider effort that includes rebuilding floodplain connections and vegetation. Read such work as active stewardship by a contemporary government, with goals extending beyond a visitor’s view of a river. The useful question is not simply whether a place is protected, but how connected places are cared for and by whom. This ORB offers an introduction; the linked governments remain the authoritative voices on their own roles."
+      ],
+      "media": "river",
+      "sources": [
+        "mou",
+        "elwha"
+      ],
+      "notice": "Look for the people and institutions maintaining a process after its headline event.",
+      "bridge": "Stewardship also includes deciding how the past is preserved and interpreted.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "living-homelands",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "elwha-reconnection",
+          "label": "A concrete restoration example"
+        },
+        "left": {
+          "to": "living-homelands",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "ozette-memory",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "elwha-reconnection",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        },
+        "backward": {
+          "to": "living-homelands",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "ozette-memory",
+      "title": "Ozette and the care of memory",
+      "chapter": "A connected place",
+      "deck": "Objects carry evidence; communities give that evidence context.",
+      "paragraphs": [
+        "The Makah Cultural and Research Center’s museum interprets materials from the Ozette village archaeological site. The museum connects those objects with Makah life, presenting a cultural history through a Makah institution. An artifact can tell us about materials and techniques, but its meaning is not exhausted by describing its shape.",
+        "This is a useful pause before the ORB turns toward rocks and ice. Different kinds of evidence answer different questions. A preserved object, an oral account and a geological exposure are not interchangeable records. Good interpretation names the source and respects the limits of what that source can support. Follow the Makah museum’s own account rather than treating an archaeological site as a vanished world without descendants. In Olympic’s wider history, continuity and change belong together."
+      ],
+      "media": "coast",
+      "sources": [
+        "makah",
+        "history"
+      ],
+      "notice": "Separate an observation about an object from an interpretation of its cultural meaning.",
+      "bridge": "We now turn to a much older record: rocks that began beneath the sea.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "reading-the-evidence",
+          "label": "Examine how evidence supports interpretation"
+        },
+        "left": {
+          "to": "shared-stewardship",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "living-homelands",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "reading-the-evidence",
+          "label": "Logical thread: records → interpretation → open investigation"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "coast"
+      ]
+    },
+    {
+      "id": "seafloor-to-summit",
+      "title": "From seafloor to summit",
+      "chapter": "Rock, weather & ice",
+      "deck": "Oceanic rocks can form mountains without making a volcanic mountain range.",
+      "paragraphs": [
+        "The Olympic Mountains contain basalt and sedimentary rocks with origins offshore. At the Cascadia subduction zone, the Juan de Fuca plate descends beneath North America. Material can be scraped and compressed at that converging margin, becoming part of an accretionary complex. Uplift, folding and erosion helped transform the Olympic rocks into the range we see.",
+        "This explains an apparent contradiction: basalt can record volcanic activity on an ancient seafloor, while the Olympic range itself is not a chain of volcanoes like the nearby Cascades. Rock origin and the process that builds a mountain are different questions. Imagine first the formation of the material, then its movement and deformation, then the removal of material by water and ice. The visible landscape is the combined result, not the product of a single event."
+      ],
+      "media": "mountains",
+      "sources": [
+        "geo",
+        "tectonic"
+      ],
+      "notice": "Distinguish what a rock is made of from how it arrived at its present elevation.",
+      "bridge": "Once rock is raised into mountains, moving ice and water begin to reshape it.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "ice-carved-land",
+          "label": "Examine how raised terrain is sculpted"
+        },
+        "left": {
+          "to": "glacier-budget",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "ice-carved-land",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "ice-carved-land",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "mountains"
+      ]
+    },
+    {
+      "id": "ice-carved-land",
+      "title": "A landscape carved by ice",
+      "chapter": "Rock, weather & ice",
+      "deck": "Ridges, valleys and lake basins preserve the work of moving ice.",
+      "paragraphs": [
+        "Olympic’s landforms include broad glacial valleys, sharp ridges, cirques and lake basins. Ice carrying rock fragments can abrade a surface; flowing glaciers can also remove and transport rock. The valley left behind is evidence of a moving body that may be much smaller today, or absent altogether.",
+        "Two glacial stories meet on the peninsula. Mountain glaciers developed in the high country, while the great continental ice sheet spread around parts of the Olympic Mountains during the last ice age. Do not imagine a single uniform blanket covering every summit. A landscape retains traces of different ice movements and different times. When you see a lake tucked beneath a steep headwall, ask about the basin’s history as well as today’s water. Present scenery can preserve processes that operate on timescales far longer than a visit."
+      ],
+      "media": "ice",
+      "sources": [
+        "atlas",
+        "ice"
+      ],
+      "notice": "A landform records past processes; it does not by itself reveal an exact date.",
+      "bridge": "The same mountain relief also redirects the weather arriving from the ocean.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "glacier-budget",
+          "label": "Examine the ice process"
+        },
+        "left": {
+          "to": "seafloor-to-summit",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "rain-shadow",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "rain-shadow",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        },
+        "backward": {
+          "to": "seafloor-to-summit",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        }
+      },
+      "mediaPack": [
+        "ice"
+      ]
+    },
+    {
+      "id": "rain-shadow",
+      "title": "The mountains divide the weather",
+      "chapter": "Rock, weather & ice",
+      "deck": "Exposure matters as much as distance.",
+      "paragraphs": [
+        "Pacific weather meets a steep mountain barrier on the peninsula. Moist air rises over the terrain, cools and releases precipitation. The western slopes intercept much of that moisture; the northeastern side lies in a rain shadow. The contrast helps explain how lush western valleys and much drier northeastern environments can occur within the same region.",
+        "This pattern is a regional tendency, not a promise about a particular afternoon. Elevation, slope direction and individual storms add local differences. The important connection is between landform and water supply: the mountains influence where moisture is delivered, and moisture influences which communities can thrive. Our imagined drop of water now has several possible paths. It may fall as rain into a lowland forest, remain temporarily in seasonal snow, or become part of a glacier’s longer-lived store of ice."
+      ],
+      "media": "mountains",
+      "sources": [
+        "mountains"
+      ],
+      "notice": "Compare windward and leeward exposure, rather than assuming the whole park has one climate.",
+      "bridge": "Where precipitation falls as snow, the balance between accumulation and loss becomes crucial.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "rainforest-layers",
+          "label": "Examine a resulting forest environment"
+        },
+        "left": {
+          "to": "ice-carved-land",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "glacier-budget",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "rainforest-layers",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        },
+        "backward": {
+          "to": "ice-carved-land",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        }
+      },
+      "mediaPack": [
+        "mountains"
+      ]
+    },
+    {
+      "id": "glacier-budget",
+      "title": "A glacier keeps a water budget",
+      "chapter": "Rock, weather & ice",
+      "deck": "Accumulation and loss leave a measurable balance.",
+      "paragraphs": [
+        "A glacier gains mass through processes such as snowfall and loses it through melting and other forms of ablation. If losses repeatedly exceed gains, the ice reservoir diminishes. Length alone cannot describe that change: a glacier can thin as well as retreat. Monitoring therefore uses more than a photograph of the terminus.",
+        "For Olympic, this connects a high mountain process to life downstream. Stored ice contributes water during the relatively dry summer season. The historical Blue Glacier photographs shown here document change between 1899 and 2008; they are not an image of the glacier today. Long-term observations make the direction of ice loss clear, while the timing and size of future effects in individual streams require more detailed evidence. That distinction will become our first knowledge-floor question."
+      ],
+      "media": "ice",
+      "sources": [
+        "ice",
+        "ice-monitor"
+      ],
+      "notice": "Read both dates on a comparison photograph; do not confuse a historical baseline with a current inventory.",
+      "bridge": "Below the snow and ice, a different pattern appears in the forests of mountain slopes.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "floor-ice",
+          "label": "Investigate downstream effects of ice loss"
+        },
+        "left": {
+          "to": "rain-shadow",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "seafloor-to-summit",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "river-continuum",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "ice"
+      ]
+    },
+    {
+      "id": "forest-mosaic",
+      "title": "Forests change with the slope",
+      "chapter": "Forests & high-country life",
+      "deck": "There is no single Olympic forest.",
+      "paragraphs": [
+        "Climbing out of a river valley changes temperature, snow persistence and exposure. Even at similar elevations, a sunny slope and a shaded slope can support different growing conditions. Olympic’s montane forests reflect those differences in their tree communities and disturbance histories.",
+        "Treat the forest as a mosaic rather than a green surface painted uniformly over the mountains. Douglas-fir can be prominent in settings shaped by fire and exposure; cooler or wetter settings support different mixtures. A species list becomes more useful when paired with a question about conditions. What lets a seedling establish here? What stresses a mature tree? What happened before this stand grew? The landscape contains overlapping answers. Following one slope downward now brings us into the exceptionally wet western valley forests, where large trees and layers of smaller plants reshape the experience of space."
+      ],
+      "media": "forest",
+      "sources": [
+        "montane",
+        "ecology"
+      ],
+      "notice": "Compare slope direction, moisture and disturbance before attributing a forest difference to elevation alone.",
+      "bridge": "In the western valleys, abundant moisture supports the layered architecture of temperate rainforest.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "floor-forest",
+          "label": "Investigate causes of vegetation change"
+        },
+        "left": {
+          "to": "olympic-marmot",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "rainforest-layers",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "fire-in-wet-country",
+          "label": "Logical thread: patterns → disturbance → attribution"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "forest"
+      ]
+    },
+    {
+      "id": "rainforest-layers",
+      "title": "The forest above the forest",
+      "chapter": "Forests & high-country life",
+      "deck": "Trunks and branches become places for other plants to live.",
+      "paragraphs": [
+        "The Quinault, Queets, Hoh and Bogachiel valleys contain Olympic’s celebrated temperate rainforests. Sitka spruce and western hemlock are prominent trees, while mosses, ferns and other epiphytes occupy trunks and branches. An epiphyte grows on another plant; the word describes its growing position, not a claim that it is parasitic.",
+        "Look past the tallest tree to the layers around it. A branch can support a smaller community; a canopy changes the light reaching the ground. The result is a forest with many surfaces and microhabitats, rather than a collection of isolated trunks. The photograph here is from Quinault, not the Hoh. It supplies a close view of one western forest while the reading describes a broader ecological pattern."
+      ],
+      "media": "forest",
+      "sources": [
+        "forest",
+        "ecology"
+      ],
+      "notice": "Look for smaller plants using a tree as a place to grow.",
+      "bridge": "The structure continues downward, where even a fallen tree can support another generation.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "forest-mosaic",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "fallen-wood",
+          "label": "Finer scale: regeneration on a log"
+        },
+        "left": {
+          "to": "forest-mosaic",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "fallen-wood",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "fallen-wood",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        },
+        "backward": {
+          "to": "rain-shadow",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        }
+      },
+      "mediaPack": [
+        "forest",
+        "wood"
+      ]
+    },
+    {
+      "id": "fallen-wood",
+      "title": "A fallen tree is still habitat",
+      "chapter": "Forests & high-country life",
+      "deck": "Decay is a long transition, not an instant disappearance.",
+      "paragraphs": [
+        "A fallen rainforest tree can become a nurse log. Seedlings establish on its decaying surface, and their roots may eventually reach the soil. As the wood disappears, a line of trees can remain, recording the position of a predecessor.",
+        "During decomposition, dead wood also provides habitat for fungi, invertebrates and other organisms. Large pieces can persist for a long time. The living forest therefore includes material from earlier generations. Think of a log as a changing habitat: its texture, moisture and accessibility change as it decays. This offers a way to read time without a dated sign. The forest’s past is partly present in the structures through which its next generation grows."
+      ],
+      "media": "wood",
+      "sources": [
+        "forest"
+      ],
+      "notice": "Look for a row of seedlings or roots that reveal the outline of an older log.",
+      "bridge": "A forest’s history also includes disturbances that can be hard to imagine on a wet day.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "rainforest-layers",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-forest",
+          "label": "Deepen the question of forest change"
+        },
+        "left": {
+          "to": "rainforest-layers",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "fire-in-wet-country",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "rainforest-layers",
+          "label": "Explanatory thread: terrain → conditions → forest structure"
+        }
+      },
+      "mediaPack": [
+        "wood"
+      ]
+    },
+    {
+      "id": "fire-in-wet-country",
+      "title": "Even wet forests have fire histories",
+      "chapter": "Forests & high-country life",
+      "deck": "A rainy reputation does not erase disturbance.",
+      "paragraphs": [
+        "Olympic’s fire history varies with climate and exposure. Drier eastern forests have generally experienced fire more frequently than the wetter western forests. Tree rings, scars and charcoal can help reconstruct those histories. A forest seen today is one moment in a much longer sequence of growth, disturbance and recovery.",
+        "The useful distinction is between a historical pattern and a prediction for a specific stand. A wet forest is not incapable of burning, and a past fire interval is not a schedule. Weather, available fuels and the surrounding landscape influence what happens in a particular event. These differences also caution against one universal story about all Olympic forests. To understand change, we need repeated observations and evidence of past conditions, not just a dramatic photograph or the absence of smoke on a visit."
+      ],
+      "media": "forest",
+      "sources": [
+        "fire"
+      ],
+      "notice": "Ask whether a statement describes a long-term pattern or predicts a particular event.",
+      "bridge": "In the high-country meadows, another life history depends on the rhythm of the seasons.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "forest-mosaic",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-forest",
+          "label": "Investigate interacting influences"
+        },
+        "left": {
+          "to": "fallen-wood",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "olympic-marmot",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "floor-forest",
+          "label": "Logical thread: patterns → disturbance → attribution"
+        },
+        "backward": {
+          "to": "forest-mosaic",
+          "label": "Logical thread: patterns → disturbance → attribution"
+        }
+      },
+      "mediaPack": [
+        "forest"
+      ]
+    },
+    {
+      "id": "olympic-marmot",
+      "title": "A life found only here",
+      "chapter": "Forests & high-country life",
+      "deck": "The Olympic marmot makes the peninsula’s distinctiveness tangible.",
+      "paragraphs": [
+        "The Olympic marmot is endemic to the Olympic Mountains: it occurs naturally here and nowhere else. It lives in mountain meadows, using burrows for shelter and a long hibernation. Its active season is a limited opportunity to feed, reproduce and build reserves.",
+        "That life history makes population change a question requiring care. Olympic marmots mature relatively slowly for rodents, so the loss of breeding adults can take time to replace. The park has documented concerns about predation and changing habitat conditions. A single cheerful encounter says little about the status of the whole species. Repeated surveys across meadow patches provide a different kind of evidence: where marmots continue to occur, disappear or recolonize. At the knowledge floor, we will separate detecting such change from explaining its causes."
+      ],
+      "media": "mountains",
+      "sources": [
+        "marmot"
+      ],
+      "notice": "Endemic describes a restricted natural range; it does not mean every individual is easy to find.",
+      "bridge": "From these uplands, water descends through a network of connected channels.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "floor-marmot",
+          "label": "Investigate causes of occupancy change"
+        },
+        "left": {
+          "to": "fire-in-wet-country",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "forest-mosaic",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "floor-marmot",
+          "label": "Logical thread: species ecology → population question"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "mountains"
+      ]
+    },
+    {
+      "id": "river-continuum",
+      "title": "A river is more than its channel",
+      "chapter": "Rivers & returning life",
+      "deck": "Water, sediment, wood and organisms move together.",
+      "paragraphs": [
+        "Olympic’s rivers connect mountain headwaters with lowland valleys and the sea. Their water arrives through rain, snowmelt, glacier melt and flows stored or delayed within the landscape. These contributions vary among watersheds and seasons; one river cannot stand in for every other one.",
+        "Look beyond the current ribbon of water. Floodplains, side channels, vegetation and lakes influence how a watershed stores and moves material. Channels can migrate, and floods can rearrange habitat. A river is therefore a process unfolding across a corridor, not only a fixed line on a map. This wider view matters for salmon, which need different conditions at different life stages. It also explains why restoring one barrier or one bank may be valuable without resolving every pressure experienced across an entire life cycle."
+      ],
+      "media": "river",
+      "sources": [
+        "rivers"
+      ],
+      "notice": "Include the floodplain in your mental picture of the river.",
+      "bridge": "Salmon make the connection between freshwater corridors and the ocean visible.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "wood-and-cold-water",
+          "label": "Examine habitat-forming processes"
+        },
+        "left": {
+          "to": "wood-and-cold-water",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "salmon-life",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "salmon-life",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        },
+        "backward": {
+          "to": "glacier-budget",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "salmon-life",
+      "title": "One life, several habitats",
+      "chapter": "Rivers & returning life",
+      "deck": "A salmon journey depends on a sequence of suitable places.",
+      "paragraphs": [
+        "Anadromous salmon begin life in freshwater, spend part of their lives at sea and return to freshwater to reproduce. Eggs develop in gravel, young fish use rearing habitats, and migrating fish pass through the changing conditions of estuaries. The timing and habitat requirements differ among species and populations.",
+        "This is more than a migration story with a starting line and finish. A place can be essential for a brief but consequential stage. Access to upstream habitat matters, yet so do conditions for juveniles, the transition to salt water and survival at sea. Following the whole life cycle prevents an overly simple interpretation of a restored river: an open route is a major change, while population recovery also depends on what happens throughout that route and beyond it."
+      ],
+      "media": "river",
+      "sources": [
+        "cycle",
+        "anadromous"
+      ],
+      "notice": "Ask which life stage a habitat supports, and what happens before and after that stage.",
+      "bridge": "When adult salmon return, they carry more than their own next generation upstream.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "river-continuum",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "quinault-blueback",
+          "label": "A particular population and habitat"
+        },
+        "left": {
+          "to": "river-continuum",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "ocean-in-the-forest",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "ocean-in-the-forest",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        },
+        "backward": {
+          "to": "river-continuum",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "ocean-in-the-forest",
+      "title": "The ocean returns upstream",
+      "chapter": "Rivers & returning life",
+      "deck": "Migrating fish transport nutrients across ecosystem boundaries.",
+      "paragraphs": [
+        "Salmon acquire much of their body mass at sea. Returning adults bring marine-derived nutrients into freshwater systems, where those nutrients can enter other organisms and food webs. Predators, scavengers and decomposition create several routes for that transfer. The river’s traffic is not all downstream.",
+        "Research on the Elwha used stable isotopes to examine the return of marine-derived nutrients after dam removal, including evidence in aquatic invertebrates and American dippers. Isotopic patterns can help trace nutrient sources; they are not a visual label on every atom. The important result is the restoration of a connection that a barrier had interrupted. This makes the idea of an isolated forest or stream less convincing. Parts of a freshwater food web can carry a chemical history that includes the ocean."
+      ],
+      "media": "wood",
+      "sources": [
+        "nutrients",
+        "anadromous"
+      ],
+      "notice": "Separate evidence of nutrient transfer from a claim that one source explains all forest growth.",
+      "bridge": "Lake Quinault adds another habitat and another distinct salmon story to this network.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "tracking-return",
+          "label": "Examine evidence after reconnection"
+        },
+        "left": {
+          "to": "salmon-life",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "quinault-blueback",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "salmon-life",
+          "label": "Causal connections: stored water → habitat → migrating life → nutrients"
+        }
+      },
+      "mediaPack": [
+        "wood"
+      ]
+    },
+    {
+      "id": "quinault-blueback",
+      "title": "Blueback and Lake Quinault",
+      "chapter": "Rivers & returning life",
+      "deck": "A lake is part of this salmon’s life history.",
+      "paragraphs": [
+        "Quinault blueback are a sockeye salmon population with deep cultural, ecological and economic importance to the Quinault Indian Nation. Their life cycle is tied to Lake Quinault and the river system. The Nation’s fisheries work follows those fish through a landscape that includes freshwater residence as well as ocean migration.",
+        "That connection makes the lake more than a scenic widening of the watershed. Conditions within it can matter to a fish population whose later journey reaches far beyond it. Read the Nation’s fisheries information as a specific account of these fish, rather than substituting a generic salmon diagram for their particular life history. The word “salmon” gathers many different strategies together; conservation has to attend to the differences. A deeper investigation will return to what lake managers still need to measure and understand."
+      ],
+      "media": "lake",
+      "sources": [
+        "blueback"
+      ],
+      "notice": "A shared species name does not erase a population’s distinctive timing and habitat use.",
+      "bridge": "Along the river, the shape and temperature of available habitat also matter.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "salmon-life",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-quinault",
+          "label": "Investigate lake data gaps"
+        },
+        "left": {
+          "to": "ocean-in-the-forest",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "wood-and-cold-water",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "wood-and-cold-water",
+          "label": "Logical thread: fish needs → habitat processes → information needs"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "lake"
+      ]
+    },
+    {
+      "id": "wood-and-cold-water",
+      "title": "Wood can reshape a river",
+      "chapter": "Rivers & returning life",
+      "deck": "Complex channels can create a wider range of conditions.",
+      "paragraphs": [
+        "The Quinault Indian Nation’s water-quality work connects cool, clean water with fish, wildlife and human uses. Its account of river restoration describes degraded floodplain conditions and efforts to recover habitat complexity, including the role of large wood. A logjam can redirect flow and influence the formation of pools and side channels.",
+        "The value is not that wood makes every spot equally suitable. Complexity can create differences: fast and slow water, exposed and sheltered areas, and connections to other parts of the floodplain. Those differences can provide options as flow and temperature change. A restoration claim should therefore name the process and the intended habitat response, then measure whether that response occurs. The same attention to process will help us understand a larger intervention on the Elwha."
+      ],
+      "media": "wood",
+      "sources": [
+        "water"
+      ],
+      "notice": "Look for the proposed chain: an intervention changes flow, which changes habitat, which may help fish.",
+      "bridge": "The Elwha offers a large-scale example of reconnecting processes that dams had interrupted.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "river-continuum",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-quinault",
+          "label": "Deepen habitat and water-quality questions"
+        },
+        "left": {
+          "to": "quinault-blueback",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "river-continuum",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "floor-quinault",
+          "label": "Logical thread: fish needs → habitat processes → information needs"
+        },
+        "backward": {
+          "to": "quinault-blueback",
+          "label": "Logical thread: fish needs → habitat processes → information needs"
+        }
+      },
+      "mediaPack": [
+        "wood"
+      ]
+    },
+    {
+      "id": "elwha-reconnection",
+      "title": "The Elwha reconnects",
+      "chapter": "Restoration & the coast",
+      "deck": "Dam removal began a new chapter; it did not finish the river’s work.",
+      "paragraphs": [
+        "Removal of the Elwha and Glines Canyon dams reopened the river corridor after roughly a century of obstruction. The project began in 2011, and removal of Glines Canyon Dam was completed in 2014. For the Lower Elwha Klallam Tribe, this is part of a much longer relationship with the river and a continuing restoration effort.",
+        "Opening passage also released sediment and exposed former reservoir surfaces. The Tribe’s work includes revegetation and floodplain restoration, helping processes develop after the structures are gone. This is a useful way to think about restoration: a major action changes the conditions under which an ecosystem operates. Fish, plants, floods and sediment then respond over different timescales. A before-and-after picture captures part of the transformation; understanding recovery requires returning to the river repeatedly."
+      ],
+      "media": "river",
+      "sources": [
+        "elwha",
+        "elwha-history"
+      ],
+      "notice": "Distinguish completion of construction work from continuing ecological recovery.",
+      "bridge": "Researchers can now ask where fish return, how quickly, and with what evidence.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "tracking-return",
+          "label": "Examine evidence of fish response"
+        },
+        "left": {
+          "to": "between-the-tides",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "tracking-return",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "tracking-return",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        },
+        "backward": {
+          "to": "shared-stewardship",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "tracking-return",
+      "title": "How do we know fish returned?",
+      "chapter": "Restoration & the coast",
+      "deck": "A restored connection becomes a testable observation.",
+      "paragraphs": [
+        "Elwha studies have compared fish distributions before and after dam removal using field surveys. Another approach samples environmental DNA: traces shed by organisms into the water. Species-specific assays found evidence that most of the targeted anadromous fish species had passed both former dam sites. Timing and upstream extent differed among species.",
+        "Each method has a scope. Seeing or detecting a species in newly accessible habitat supports a conclusion about use or passage; it does not alone establish population size, successful reproduction or long-term resilience. Combining observations makes the picture stronger. The scientific question develops from “Can fish pass?” to more demanding questions about how habitats are used and whether populations sustain themselves. Keeping those questions separate lets us recognize a real success without prematurely declaring every part of recovery complete."
+      ],
+      "media": "river",
+      "sources": [
+        "fish-response",
+        "edna"
+      ],
+      "notice": "Match the strength of the conclusion to what the method actually measured.",
+      "bridge": "Reconnection also changes the shore where the river meets the sea.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "elwha-reconnection",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-salmon",
+          "label": "Investigate sustained recovery"
+        },
+        "left": {
+          "to": "elwha-reconnection",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "sediment-to-sea",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "floor-salmon",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        },
+        "backward": {
+          "to": "elwha-reconnection",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "sediment-to-sea",
+      "title": "A river rebuilds its coast",
+      "chapter": "Restoration & the coast",
+      "deck": "Sediment is habitat-building material as well as moving earth.",
+      "paragraphs": [
+        "The Elwha dams had trapped sediment that would otherwise move downstream. Their removal allowed a major sediment pulse to reach the river mouth and adjacent coast. USGS research describes changes in coastal habitats and biological communities associated with that release.",
+        "Those changes were not identical everywhere. Deposited sand and mud altered the seabed, and some places developed habitat suitable for soft-bottom organisms. A restoration can therefore produce gains, disruptions and rearrangements at different locations and times. This does not make the outcome meaningless; it makes the question more precise. Which habitat changed, for which organisms, and over what interval? Following sediment to the coast reveals a connection that is easy to miss when attention stops at the former dam sites."
+      ],
+      "media": "coast",
+      "sources": [
+        "sediment"
+      ],
+      "notice": "Ask “better for which organisms, in which place, over what period?”",
+      "bridge": "Beyond the river mouth, waves and rock shape another set of coastal habitats.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "floor-coast",
+          "label": "Investigate changes in coastal communities"
+        },
+        "left": {
+          "to": "tracking-return",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "rocky-edge",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "rocky-edge",
+          "label": "Logical thread: coastal form → habitat → change question"
+        },
+        "backward": {
+          "to": null,
+          "label": "No further backward step authored on this thread; use the spiral or another compass direction."
+        }
+      },
+      "mediaPack": [
+        "coast"
+      ]
+    },
+    {
+      "id": "rocky-edge",
+      "title": "The peninsula’s changing edge",
+      "chapter": "Restoration & the coast",
+      "deck": "The coastline is a meeting between resistant rock and persistent motion.",
+      "paragraphs": [
+        "Olympic’s coast contains headlands, beaches, offshore stacks and arches. Differences in rock and exposure help produce that varied edge as waves and weather remove material over time. The Hole-in-the-Wall photograph offers one visible example of an eroded coastal opening.",
+        "Geology also supplies habitat. Offshore rocks support seabirds, while cracks and basins create shelter or retain water. The pitted boulder in the media collection shows another connection: piddock clams bore into rock. Organisms do not merely occupy a finished landscape; some modify the surfaces they inhabit. Our journey began with oceanic material becoming mountains. At the shore, rock is being broken down and worked again, while life makes use of the temporary forms that remain."
+      ],
+      "media": "coast",
+      "sources": [
+        "geo",
+        "coast"
+      ],
+      "notice": "Read a rock surface as both a geological structure and a possible habitat.",
+      "bridge": "At the waterline, the timing of exposure becomes a powerful ecological force.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "between-the-tides",
+          "label": "Finer scale: the intertidal environment"
+        },
+        "left": {
+          "to": "sediment-to-sea",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "between-the-tides",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "between-the-tides",
+          "label": "Logical thread: coastal form → habitat → change question"
+        },
+        "backward": {
+          "to": "sediment-to-sea",
+          "label": "Logical thread: coastal form → habitat → change question"
+        }
+      },
+      "mediaPack": [
+        "coast",
+        "rock"
+      ]
+    },
+    {
+      "id": "between-the-tides",
+      "title": "Life between immersion and air",
+      "chapter": "Restoration & the coast",
+      "deck": "A short vertical distance can change the conditions of an entire community.",
+      "paragraphs": [
+        "The intertidal zone is alternately covered and exposed by the sea. Organisms at different heights experience different amounts of time underwater or in air. Wave exposure, temperature and the local shape of the shore add further variation. Barnacles, mussels, seaweeds and other organisms occupy this shifting boundary.",
+        "NPS monitoring follows communities and temperatures through repeated measurements. A single low-tide visit reveals only one part of the cycle. Even a tidepool that retains water differs from a surface exposed directly to the air. This is another case in which small differences in position can have large biological consequences. To distinguish an unusual day from a lasting change, researchers need observations through time and comparisons among places."
+      ],
+      "media": "rock",
+      "sources": [
+        "coast",
+        "tides"
+      ],
+      "notice": "Imagine the same surface at high tide, at night and during an unusually warm exposure.",
+      "bridge": "That need for comparison takes us to the evidence underlying the whole ORB.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "rocky-edge",
+          "label": "Return to the containing ecological or explanatory context"
+        },
+        "down": {
+          "to": "floor-coast",
+          "label": "Investigate interacting coastal stressors"
+        },
+        "left": {
+          "to": "rocky-edge",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "elwha-reconnection",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": "floor-coast",
+          "label": "Logical thread: coastal form → habitat → change question"
+        },
+        "backward": {
+          "to": "rocky-edge",
+          "label": "Logical thread: coastal form → habitat → change question"
+        }
+      },
+      "mediaPack": [
+        "rock"
+      ]
+    },
+    {
+      "id": "reading-the-evidence",
+      "title": "How to read a changing park",
+      "chapter": "Restoration & the coast",
+      "deck": "Observation, explanation and prediction are different steps.",
+      "paragraphs": [
+        "Olympic’s science programs use monitoring to follow selected indicators through time. They also rely on focused research to investigate mechanisms and questions beyond those indicators. A baseline makes change visible; it does not automatically explain the change.",
+        "Carry three distinctions into the final descent. First, an observed trend differs from an explanation of its cause. Second, a result at one place or interval does not necessarily apply everywhere. Third, an unresolved question differs from a topic this guide simply has not researched. The next six points are the knowledge floor: specific investigations grounded in the sources already introduced. Their questions are framed for this ORB, not presented as an official ranked list of research priorities. Each names a known basis, a remaining uncertainty and a possible way to learn more."
+      ],
+      "media": "mountains",
+      "sources": [
+        "science",
+        "research"
+      ],
+      "notice": "Ask what was measured, what was inferred, and what remains unknown.",
+      "bridge": "We begin the floor with the connection between disappearing ice and summer water.",
+      "level": 2,
+      "kind": "reading",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "links": {
+        "up": {
+          "to": "one-peninsula",
+          "label": "Part of the connected Olympic landscape"
+        },
+        "down": {
+          "to": "floor-ice",
+          "label": "Enter a concrete open investigation"
+        },
+        "left": {
+          "to": null,
+          "label": "No additional sibling group authored here."
+        },
+        "right": {
+          "to": null,
+          "label": "No additional sibling group authored here."
+        },
+        "forward": {
+          "to": "floor-ice",
+          "label": "Logical thread: records → interpretation → open investigation"
+        },
+        "backward": {
+          "to": "ozette-memory",
+          "label": "Logical thread: records → interpretation → open investigation"
+        }
+      },
+      "mediaPack": [
+        "mountains"
+      ]
+    },
+    {
+      "id": "floor-ice",
+      "title": "When does less ice become less summer water?",
+      "chapter": "The knowledge floor",
+      "deck": "Ice loss is established; local downstream timing needs a finer account.",
+      "paragraphs": [
+        "Glacier monitoring documents changes in ice storage. In Olympic, meltwater helps sustain summer flows, but a stream also receives water from other sources.",
+        "A park-wide statement about shrinking ice cannot supply a precise response for every stream. Snow, rainfall, groundwater, channel conditions and the amount of glacier cover can differ. This is a question of local magnitude and timing, not uncertainty about whether ice loss has occurred."
+      ],
+      "media": "ice",
+      "sources": [
+        "ice-monitor",
+        "ice"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "From water stored as ice, we turn to how living communities respond to changing conditions.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "Glacier monitoring documents changes in ice storage. In Olympic, meltwater helps sustain summer flows, but a stream also receives water from other sources.",
+      "openQuestion": "How will declining glacier storage change late-summer flow and temperature in individual Olympic watersheds?",
+      "uncertainty": "A park-wide statement about shrinking ice cannot supply a precise response for every stream. Snow, rainfall, groundwater, channel conditions and the amount of glacier cover can differ. This is a question of local magnitude and timing, not uncertainty about whether ice loss has occurred.",
+      "researchApproach": "Compare repeated glacier measurements with streamflow, temperature and weather observations in specific basins. A proposed analysis would test alternative water-source contributions and report uncertainty, rather than assigning one park-wide date.",
+      "parent": "glacier-budget",
+      "links": {
+        "up": {
+          "to": "glacier-budget",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-quinault",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-forest",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "reading-the-evidence",
+          "label": "Logical thread: records → interpretation → open investigation"
+        }
+      },
+      "mediaPack": [
+        "ice"
+      ]
+    },
+    {
+      "id": "floor-forest",
+      "title": "Which forest changes first?",
+      "chapter": "The knowledge floor",
+      "deck": "Detecting a shift and explaining it require different evidence.",
+      "paragraphs": [
+        "Regional NPS research reports changes in plant timing and tree establishment in subalpine meadows, while emphasizing the need for baselines and focused studies.",
+        "This question spans scale and explanatory depth. One newly established tree or one dry season cannot establish a general transition. Changes may differ with elevation and exposure, and several influences can act together."
+      ],
+      "media": "forest",
+      "sources": [
+        "research",
+        "montane"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "Those changing habitats also matter to an animal restricted to these mountains.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "Regional NPS research reports changes in plant timing and tree establishment in subalpine meadows, while emphasizing the need for baselines and focused studies.",
+      "openQuestion": "Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?",
+      "uncertainty": "This question spans scale and explanatory depth. One newly established tree or one dry season cannot establish a general transition. Changes may differ with elevation and exposure, and several influences can act together.",
+      "researchApproach": "A proposed investigation would revisit vegetation plots across contrasting slopes, combine those records with snow and weather observations, and compare competing explanations. The regional research page motivates the question; it does not supply a complete causal answer for each Olympic forest.",
+      "parent": "forest-mosaic",
+      "links": {
+        "up": {
+          "to": "forest-mosaic",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-ice",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-marmot",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "fire-in-wet-country",
+          "label": "Logical thread: patterns → disturbance → attribution"
+        }
+      },
+      "mediaPack": [
+        "forest"
+      ]
+    },
+    {
+      "id": "floor-marmot",
+      "title": "What lies behind a missing marmot colony?",
+      "chapter": "The knowledge floor",
+      "deck": "An empty survey is a starting observation, not a complete explanation.",
+      "paragraphs": [
+        "The park’s marmot program revisits habitat patches to estimate occupancy. Repeated observations help distinguish a missed detection from a change in which patches are occupied.",
+        "Occupancy tracks whether a species is present, rather than directly counting every animal. Detecting change is valuable, but it does not by itself separate causes. The park’s species account identifies predation and climate-related habitat concerns; their contribution can vary among places."
+      ],
+      "media": "mountains",
+      "sources": [
+        "marmot-monitor",
+        "marmot"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "The same distinction between detection and durable recovery appears in returning fish.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "The park’s marmot program revisits habitat patches to estimate occupancy. Repeated observations help distinguish a missed detection from a change in which patches are occupied.",
+      "openQuestion": "When a meadow loses marmots, how much is explained by habitat conditions, predation, dispersal or imperfect detection?",
+      "uncertainty": "Occupancy tracks whether a species is present, rather than directly counting every animal. Detecting change is valuable, but it does not by itself separate causes. The park’s species account identifies predation and climate-related habitat concerns; their contribution can vary among places.",
+      "researchApproach": "Use repeated visits and occupancy models, then combine them with permitted, targeted ecological studies. This proposed comparison would evaluate alternative causes rather than treating absence on one hike as proof of a climate effect.",
+      "parent": "olympic-marmot",
+      "links": {
+        "up": {
+          "to": "olympic-marmot",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-forest",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-salmon",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "olympic-marmot",
+          "label": "Logical thread: species ecology → population question"
+        }
+      },
+      "mediaPack": [
+        "mountains"
+      ]
+    },
+    {
+      "id": "floor-salmon",
+      "title": "When does passage become recovery?",
+      "chapter": "The knowledge floor",
+      "deck": "A reopened route is a milestone with further questions beyond it.",
+      "paragraphs": [
+        "Elwha fish surveys and environmental DNA have documented renewed use of habitat above the former dams. Species have responded differently in time and space.",
+        "A detection confirms something important, but it cannot alone establish a self-sustaining population. Conditions elsewhere in the life cycle can affect returns. The unresolved task is to connect access and habitat use with demographic outcomes over time."
+      ],
+      "media": "river",
+      "sources": [
+        "edna",
+        "fish-response",
+        "cycle"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "Even where recovery is visible, the surrounding coastal community continues to change.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "Elwha fish surveys and environmental DNA have documented renewed use of habitat above the former dams. Species have responded differently in time and space.",
+      "openQuestion": "Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?",
+      "uncertainty": "A detection confirms something important, but it cannot alone establish a self-sustaining population. Conditions elsewhere in the life cycle can affect returns. The unresolved task is to connect access and habitat use with demographic outcomes over time.",
+      "researchApproach": "A proposed study would combine repeated distribution surveys with juvenile and adult monitoring and habitat measurements. Its conclusions should distinguish passage, reproduction and population trends, while acknowledging ocean influences beyond the restored corridor.",
+      "parent": "tracking-return",
+      "links": {
+        "up": {
+          "to": "tracking-return",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-marmot",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-coast",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "tracking-return",
+          "label": "Logical thread: framing → stewardship → evidence → recovery question"
+        }
+      },
+      "mediaPack": [
+        "river"
+      ]
+    },
+    {
+      "id": "floor-coast",
+      "title": "Which stressor changed the tidepool?",
+      "chapter": "The knowledge floor",
+      "deck": "Several pressures can leave overlapping ecological signals.",
+      "paragraphs": [
+        "Intertidal monitoring follows community composition and temperature. NPS also measures coastal chemistry to investigate ocean acidification and the conditions organisms experience.",
+        "A change in abundance may coincide with more than one environmental shift. Monitoring can reveal a pattern without isolating its cause. NPS explicitly identifies additional research as necessary for attributing some stressors."
+      ],
+      "media": "rock",
+      "sources": [
+        "tides",
+        "acid"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "Our final question returns to Quinault, where evidence and stewardship meet in a specific lake.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "Intertidal monitoring follows community composition and temperature. NPS also measures coastal chemistry to investigate ocean acidification and the conditions organisms experience.",
+      "openQuestion": "How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?",
+      "uncertainty": "A change in abundance may coincide with more than one environmental shift. Monitoring can reveal a pattern without isolating its cause. NPS explicitly identifies additional research as necessary for attributing some stressors.",
+      "researchApproach": "Combine repeated biological surveys with temperature and chemistry records, compare sites with different exposures, and test mechanisms where suitable. This is a proposed reasoning path based on the monitoring programs, not a claim that all causes are equally likely or currently unstudied.",
+      "parent": "between-the-tides",
+      "links": {
+        "up": {
+          "to": "between-the-tides",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-salmon",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-quinault",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "between-the-tides",
+          "label": "Logical thread: coastal form → habitat → change question"
+        }
+      },
+      "mediaPack": [
+        "rock"
+      ]
+    },
+    {
+      "id": "floor-quinault",
+      "title": "What does Lake Quinault still need us to learn?",
+      "chapter": "The knowledge floor",
+      "deck": "A useful knowledge floor can be a management question.",
+      "paragraphs": [
+        "The Quinault Indian Nation’s lake planning describes ecological concerns, climate resilience and data gaps. It identifies blueback habitat and nearshore conditions as important parts of the lake’s future.",
+        "The plan describes needs for better information and protection; it does not reduce the lake to one solved mechanism. Priorities must be informed by the Nation, relevant evidence and the communities involved. This ORB’s question invites learning from that work rather than prescribing its answer."
+      ],
+      "media": "lake",
+      "sources": [
+        "lake-plan",
+        "water"
+      ],
+      "notice": "This is an ORB-framed investigation grounded in the linked research, not a claim that nothing is known.",
+      "bridge": "The spiral ends here, but the connections remain open. Return to the whole peninsula, revisit a source, or carry a question into another ORB.",
+      "level": 0,
+      "kind": "floor",
+      "anchor": "Olympic National Park",
+      "drift": "In view",
+      "boundaryType": "Open investigation",
+      "knownBasis": "The Quinault Indian Nation’s lake planning describes ecological concerns, climate resilience and data gaps. It identifies blueback habitat and nearshore conditions as important parts of the lake’s future.",
+      "openQuestion": "Which information would most improve decisions about lake habitat, water quality and resilience for blueback?",
+      "uncertainty": "The plan describes needs for better information and protection; it does not reduce the lake to one solved mechanism. Priorities must be informed by the Nation, relevant evidence and the communities involved. This ORB’s question invites learning from that work rather than prescribing its answer.",
+      "researchApproach": "Follow the Nation’s published assessments and planning updates. A useful next inquiry would identify an explicit data gap, the decision it affects and an appropriate measurement. Do not assume that collecting more data automatically resolves questions of values or governance.",
+      "parent": "quinault-blueback",
+      "links": {
+        "up": {
+          "to": "quinault-blueback",
+          "label": "Return to the established basis for this question"
+        },
+        "down": {
+          "to": null,
+          "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+        },
+        "left": {
+          "to": "floor-coast",
+          "label": "Adjacent facet in this authored group"
+        },
+        "right": {
+          "to": "floor-ice",
+          "label": "Adjacent facet in this authored group"
+        },
+        "forward": {
+          "to": null,
+          "label": "No further forward step authored on this thread; use the spiral or another compass direction."
+        },
+        "backward": {
+          "to": "wood-and-cold-water",
+          "label": "Logical thread: fish needs → habitat processes → information needs"
+        }
+      },
+      "mediaPack": [
+        "lake"
+      ]
+    }
+  ],
+  "sources": {
+    "overview": {
+      "title": "NPS · Olympic National Park",
+      "url": "https://www.nps.gov/olym/index.htm",
+      "checked": "2026-09-07"
+    },
+    "tribes": {
+      "title": "NPS · Tribes of the Olympic Peninsula",
+      "url": "https://www.nps.gov/olym/learn/historyculture/tribes-of-the-olympic-peninsula.htm",
+      "checked": "2026-09-07"
+    },
+    "mou": {
+      "title": "NPS · Government-to-government coordination",
+      "url": "https://www.nps.gov/olym/learn/management/memorandum-of-understanding.htm",
+      "checked": "2026-09-07"
+    },
+    "history": {
+      "title": "NPS · History and culture",
+      "url": "https://www.nps.gov/olym/learn/historyculture/index.htm",
+      "checked": "2026-09-07"
+    },
+    "makah": {
+      "title": "Makah Tribe · Makah Museum",
+      "url": "https://makah.com/attractions/museum/",
+      "checked": "2026-09-07"
+    },
+    "geo": {
+      "title": "NPS · Geology",
+      "url": "https://www.nps.gov/olym/learn/nature/geology.htm",
+      "checked": "2026-09-07"
+    },
+    "atlas": {
+      "title": "NPS · Olympic geodiversity atlas",
+      "url": "https://www.nps.gov/articles/nps-geodiversity-atlas-olympic-national-park-washington.htm",
+      "checked": "2026-09-07"
+    },
+    "tectonic": {
+      "title": "NPS · Subduction zones",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-subduction-zones.htm",
+      "checked": "2026-09-07"
+    },
+    "mountains": {
+      "title": "NPS · Mountains",
+      "url": "https://www.nps.gov/olym/learn/nature/mountains.htm",
+      "checked": "2026-09-07"
+    },
+    "ice": {
+      "title": "NPS · Glaciers and climate change",
+      "url": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+      "checked": "2026-09-07"
+    },
+    "ice-monitor": {
+      "title": "NPS · Glacier monitoring",
+      "url": "https://www.nps.gov/im/nccn/glaciers.htm",
+      "checked": "2026-09-07"
+    },
+    "forest": {
+      "title": "NPS · Temperate rain forests",
+      "url": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+      "checked": "2026-09-07"
+    },
+    "montane": {
+      "title": "NPS · Montane forests",
+      "url": "https://www.nps.gov/olym/learn/nature/montane-forests.htm",
+      "checked": "2026-09-07"
+    },
+    "fire": {
+      "title": "NPS · Fire ecology",
+      "url": "https://www.nps.gov/olym/learn/nature/fireecology.htm",
+      "checked": "2026-09-07"
+    },
+    "ecology": {
+      "title": "USGS · Ecology of Olympic National Park",
+      "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/ecology-olympic-national-park",
+      "checked": "2026-09-07"
+    },
+    "marmot": {
+      "title": "NPS · Olympic marmot",
+      "url": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
+      "checked": "2026-09-07"
+    },
+    "marmot-monitor": {
+      "title": "NPS · Marmot monitoring",
+      "url": "https://www.nps.gov/olym/getinvolved/olympic-marmot-monitoring.htm",
+      "checked": "2026-09-07"
+    },
+    "rivers": {
+      "title": "NPS · Rivers and lakes",
+      "url": "https://www.nps.gov/olym/learn/nature/rivers-and-lakes.htm",
+      "checked": "2026-09-07"
+    },
+    "cycle": {
+      "title": "NPS · Salmon life cycle",
+      "url": "https://www.nps.gov/olym/learn/nature/the-salmon-life-cycle.htm",
+      "checked": "2026-09-07"
+    },
+    "anadromous": {
+      "title": "NPS · Anadromous fish",
+      "url": "https://www.nps.gov/olym/learn/nature/anadromous-fish.htm",
+      "checked": "2026-09-07"
+    },
+    "nutrients": {
+      "title": "USGS · Marine nutrients return after dam removal",
+      "url": "https://www.usgs.gov/publications/rapid-return-marine-derived-nutrients-a-freshwater-food-web-following-dam-removal",
+      "checked": "2026-09-07"
+    },
+    "blueback": {
+      "title": "Quinault Indian Nation · Salmon and river fisheries",
+      "url": "https://quinaultindiannation.com/192/Salmon---River-Fisheries",
+      "checked": "2026-09-07"
+    },
+    "water": {
+      "title": "Quinault Indian Nation · Water quality",
+      "url": "https://quinaultindiannation.com/342/Water-Quality",
+      "checked": "2026-09-07"
+    },
+    "lake-plan": {
+      "title": "Quinault Indian Nation · Lake Quinault Management Plan",
+      "url": "https://quinaultindiannation.com/224/Lake-Quinault-Management-Plan",
+      "checked": "2026-09-07"
+    },
+    "elwha": {
+      "title": "Lower Elwha Klallam Tribe · River restoration",
+      "url": "https://www.elwha.org/departments/natural-resources/river-restoration/",
+      "checked": "2026-09-07"
+    },
+    "elwha-history": {
+      "title": "NPS · History of the Elwha",
+      "url": "https://www.nps.gov/olym/learn/nature/history-of-the-elwha.htm",
+      "checked": "2026-09-07"
+    },
+    "fish-response": {
+      "title": "USGS · Reconnecting the Elwha River: fish response",
+      "url": "https://www.usgs.gov/publications/reconnecting-elwha-river-spatial-patterns-fish-response-dam-removal",
+      "checked": "2026-09-07"
+    },
+    "edna": {
+      "title": "USGS · Environmental DNA and recolonizing fish",
+      "url": "https://www.usgs.gov/publications/environmental-dna-effective-tool-track-recolonizing-migratory-fish-following-large",
+      "checked": "2026-09-07"
+    },
+    "sediment": {
+      "title": "USGS · Elwha dam removal and coastal ecosystems",
+      "url": "https://www.usgs.gov/centers/pcmsc/news/elwha-river-new-study-examines-effects-dam-removals-coastal-ecosystems",
+      "checked": "2026-09-07"
+    },
+    "coast": {
+      "title": "NPS · Coast",
+      "url": "https://www.nps.gov/olym/learn/nature/coast.htm",
+      "checked": "2026-09-07"
+    },
+    "tides": {
+      "title": "NPS · Intertidal monitoring",
+      "url": "https://www.nps.gov/im/nccn/intertidal.htm",
+      "checked": "2026-09-07"
+    },
+    "acid": {
+      "title": "NPS · Ocean acidification in the rocky intertidal",
+      "url": "https://www.nps.gov/articles/ocean-acidification-in-the-rocky-intertidal.htm",
+      "checked": "2026-09-07"
+    },
+    "science": {
+      "title": "NPS · Science and research",
+      "url": "https://www.nps.gov/olym/learn/scienceresearch.htm",
+      "checked": "2026-09-07"
+    },
+    "research": {
+      "title": "NPS · North Coast and Cascades research",
+      "url": "https://www.nps.gov/rlc/northcoastcascades/research.htm",
+      "checked": "2026-09-07"
+    }
+  },
+  "media": {
+    "mountains": {
+      "file": "mountains.jpg",
+      "caption": "The Bailey Range from Hurricane Ridge.",
+      "alt": "Snowy Olympic peaks beyond a snow-covered ridge.",
+      "credit": "National Park Service",
+      "source": "https://www.nps.gov/olym/learn/nature/mountains.htm",
+      "assetSource": "https://www.nps.gov/olym/learn/nature/images/BaileyRangeFromHurricaneRidge_BB.JPG",
+      "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 1333,
+      "height": 1000
+    },
+    "coast": {
+      "file": "coast.jpg",
+      "caption": "Hole-in-the-Wall, north of Rialto Beach.",
+      "alt": "A coastal rock arch frames misty islands and sea stacks.",
+      "credit": "National Park Service",
+      "source": "https://www.nps.gov/olym/learn/nature/coast.htm",
+      "assetSource": "https://www.nps.gov/olym/learn/nature/images/holeinthewallJonP415.jpg",
+      "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 415,
+      "height": 200
+    },
+    "river": {
+      "file": "river.jpg",
+      "caption": "The Elwha River in winter; an archival landscape photograph.",
+      "alt": "A rushing river between forested banks in winter mist.",
+      "credit": "National Park Service",
+      "source": "https://www.nps.gov/olym/learn/nature/rivers-and-lakes.htm",
+      "assetSource": "https://www.nps.gov/olym/learn/nature/images/winterelwha285_1.jpg",
+      "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 285,
+      "height": 200
+    },
+    "ice": {
+      "file": "ice.jpg",
+      "caption": "Blue Glacier in 1899 and 2008. Historical comparison, not a present-day view.",
+      "alt": "Two dated photographs show the Blue Glacier thinning and retreating.",
+      "credit": "1899: Olympic National Park archives; 2008: Jim Patterson / ONP",
+      "source": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+      "assetSource": "https://www.nps.gov/olym/learn/nature/images/Blue-Glacier-1899-2008-pair_1.jpg",
+      "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 832,
+      "height": 1000
+    },
+    "rock": {
+      "file": "rock.jpg",
+      "caption": "Holes bored by piddock clams in a coastal boulder.",
+      "alt": "A beach boulder covered in small round clam-bored holes.",
+      "credit": "NPS Photo",
+      "source": "https://www.nps.gov/olym/learn/nature/coast.htm",
+      "assetSource": "https://www.nps.gov/olym/learn/nature/images/piddock-rock_1.jpg",
+      "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 400,
+      "height": 267
+    },
+    "forest": {
+      "file": "forest.jpg",
+      "caption": "Quinault forest, photographed by Nathan Wilson. Contextual view for forest readings.",
+      "alt": "Sunlight falls through a dense green Quinault forest.",
+      "credit": "Nathan Wilson",
+      "source": "https://visualizationcreation.github.io/Quinault-orb/",
+      "rights": "Personal photograph supplied and authorized by Nathan Wilson",
+      "width": 1333,
+      "height": 1000
+    },
+    "wood": {
+      "file": "wood.jpg",
+      "caption": "Fallen wood in the Quinault forest, photographed by Nathan Wilson.",
+      "alt": "Fallen trees and moss on the Quinault forest floor.",
+      "credit": "Nathan Wilson",
+      "source": "https://visualizationcreation.github.io/Quinault-orb/",
+      "rights": "Personal photograph supplied and authorized by Nathan Wilson",
+      "width": 750,
+      "height": 1000
+    },
+    "lake": {
+      "file": "lake.jpg",
+      "caption": "Lake Quinault from the south shore; Olympic National Park photograph.",
+      "alt": "Lake Quinault beneath clouds and forested mountains.",
+      "credit": "Olympic National Park / public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Quinault_South_Shore_1-27-11_ONP_photo_(3)_(17126356720).jpg",
+      "rights": "Public domain NPS photograph",
+      "width": 1490,
+      "height": 1000
+    }
+  },
+  "journey": {
+    "id": "full-spiral",
+    "label": "Full spiral",
+    "style": "active",
+    "scriptRevision": "2026-09-07-v1",
+    "pointIds": [
+      "one-peninsula",
+      "living-homelands",
+      "shared-stewardship",
+      "ozette-memory",
+      "seafloor-to-summit",
+      "ice-carved-land",
+      "rain-shadow",
+      "glacier-budget",
+      "forest-mosaic",
+      "rainforest-layers",
+      "fallen-wood",
+      "fire-in-wet-country",
+      "olympic-marmot",
+      "river-continuum",
+      "salmon-life",
+      "ocean-in-the-forest",
+      "quinault-blueback",
+      "wood-and-cold-water",
+      "elwha-reconnection",
+      "tracking-return",
+      "sediment-to-sea",
+      "rocky-edge",
+      "between-the-tides",
+      "reading-the-evidence",
+      "floor-ice",
+      "floor-forest",
+      "floor-marmot",
+      "floor-salmon",
+      "floor-coast",
+      "floor-quinault"
+    ],
+    "narrationReady": false,
+    "description": "Self-paced reading journey. Bridges connect each reading to the next."
+  },
+  "archive": "https://visualizationcreation.github.io/orb-archive/"
+}

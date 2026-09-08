@@ -1,0 +1,87 @@
+{
+  "mountains": {
+    "file": "mountains.jpg",
+    "caption": "The Bailey Range from Hurricane Ridge.",
+    "alt": "Snowy Olympic peaks beyond a snow-covered ridge.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/learn/nature/mountains.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/BaileyRangeFromHurricaneRidge_BB.JPG",
+    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 1333,
+    "height": 1000
+  },
+  "coast": {
+    "file": "coast.jpg",
+    "caption": "Hole-in-the-Wall, north of Rialto Beach.",
+    "alt": "A coastal rock arch frames misty islands and sea stacks.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/learn/nature/coast.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/holeinthewallJonP415.jpg",
+    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 415,
+    "height": 200
+  },
+  "river": {
+    "file": "river.jpg",
+    "caption": "The Elwha River in winter; an archival landscape photograph.",
+    "alt": "A rushing river between forested banks in winter mist.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/learn/nature/rivers-and-lakes.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/winterelwha285_1.jpg",
+    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 285,
+    "height": 200
+  },
+  "ice": {
+    "file": "ice.jpg",
+    "caption": "Blue Glacier in 1899 and 2008. Historical comparison, not a present-day view.",
+    "alt": "Two dated photographs show the Blue Glacier thinning and retreating.",
+    "credit": "1899: Olympic National Park archives; 2008: Jim Patterson / ONP",
+    "source": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/Blue-Glacier-1899-2008-pair_1.jpg",
+    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 832,
+    "height": 1000
+  },
+  "rock": {
+    "file": "rock.jpg",
+    "caption": "Holes bored by piddock clams in a coastal boulder.",
+    "alt": "A beach boulder covered in small round clam-bored holes.",
+    "credit": "NPS Photo",
+    "source": "https://www.nps.gov/olym/learn/nature/coast.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/piddock-rock_1.jpg",
+    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 400,
+    "height": 267
+  },
+  "forest": {
+    "file": "forest.jpg",
+    "caption": "Quinault forest, photographed by Nathan Wilson. Contextual view for forest readings.",
+    "alt": "Sunlight falls through a dense green Quinault forest.",
+    "credit": "Nathan Wilson",
+    "source": "https://visualizationcreation.github.io/Quinault-orb/",
+    "rights": "Personal photograph supplied and authorized by Nathan Wilson",
+    "width": 1333,
+    "height": 1000
+  },
+  "wood": {
+    "file": "wood.jpg",
+    "caption": "Fallen wood in the Quinault forest, photographed by Nathan Wilson.",
+    "alt": "Fallen trees and moss on the Quinault forest floor.",
+    "credit": "Nathan Wilson",
+    "source": "https://visualizationcreation.github.io/Quinault-orb/",
+    "rights": "Personal photograph supplied and authorized by Nathan Wilson",
+    "width": 750,
+    "height": 1000
+  },
+  "lake": {
+    "file": "lake.jpg",
+    "caption": "Lake Quinault from the south shore; Olympic National Park photograph.",
+    "alt": "Lake Quinault beneath clouds and forested mountains.",
+    "credit": "Olympic National Park / public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_Quinault_South_Shore_1-27-11_ONP_photo_(3)_(17126356720).jpg",
+    "rights": "Public domain NPS photograph",
+    "width": 1490,
+    "height": 1000
+  }
+}
