@@ -1,6 +1,6 @@
 # Olympic National Park ORB
 
-A self-paced field guide with 30 points, 34 primary sources, eight credited images and six knowledge-floor investigations. Part of [ORB Journeys](https://visualizationcreation.github.io/orb-archive/).
+A self-paced field guide with 30 points, 34 primary sources, 30 point-specific images (17 photographs and 13 original explanatory illustrations) and six knowledge-floor investigations. Part of [ORB Journeys](https://visualizationcreation.github.io/orb-archive/).
 
 The interactive reader uses a top-to-bottom lesson spiral and independently authored six-direction conceptual links. It supports point search, image selection, local progress, checkpoint export/restore, point printing, direct point links and a copyable Orbiverse continuation. Reduced-motion preferences are respected.
 
@@ -23,3 +23,7 @@ Personal Quinault forest photos: Nathan Wilson, supplied for this project. Other
 ## Publication
 
 Publish the root of `main` through GitHub Pages, with `.nojekyll`. The primary directory is `visualizationcreation/orb-archive`; keep its active entries and inactive editions intact when adding this ORB.
+
+## Unique point visuals
+
+Each of the 30 points has an exclusive media asset. No image is shared between points, and identical file bytes under different filenames are rejected at build time. Each original SVG is labeled as a conceptual illustration, not a measured dataset or documentary photograph. The masthead uses the opening landscape photograph. `media.json` and `orb.json` preserve captions, source URLs, credits and point ownership.
