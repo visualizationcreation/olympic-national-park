@@ -1,49 +1,43 @@
 # Olympic National Park ORB
 
-A self-paced field guide with 30 points, 40 primary sources, 30 point-specific images (18 photographs and 12 original explanatory illustrations) and six knowledge-floor investigations. Part of [ORB Journeys](https://visualizationcreation.github.io/orb-archive/).
+[Open the Olympic ORB](https://visualizationcreation.github.io/olympic-national-park/) · [ORB archive](https://visualizationcreation.github.io/orb-archive/)
 
-The interactive reader uses a top-to-bottom lesson spiral and independently authored six-direction conceptual links. It supports point search, image selection, local progress, checkpoint export/restore, point printing, direct point links and a copyable Orbiverse continuation. Reduced-motion preferences are respected.
+An expanded field guide with **72 connected readings**, including **42 new detail points**, **59 evidence sources**, and **six open investigations**. The reading paragraphs contain approximately 8,800 words, before decks, research questions, methods, and transitions.
 
-## Open and rebuild
+The rotating sphere displays clickable place and topic names. Drag to turn it, pause rotation, expand the map, or select a map-density filter. All readings remain accessible through search regardless of the visible density. Arrow keys on the focused sphere follow UP/DOWN/LEFT/RIGHT; square brackets follow the logical thread. Visit history remains separate from conceptual BACKWARD.
 
-Open `index.html` in a modern browser, or serve this directory with a static server. The entry file embeds its images, styles, application and data; reading and navigation need no network connection. External source links do need internet access. Browser storage is optional; use Save progress for a portable checkpoint.
+## Reading edition
 
-To rebuild after editing the authored data or renderer, run `python build.py` (Python standard library only). Canonical inputs: `orb.json`, `shell.html`, `style.css`, `app.js` and the optimized JPEG/SVG assets. `media.json` records original media provenance. `journey.md` preserves the current connected reading source for later Active/Rest adaptation; synchronize it if readings change.
+Expanded September 8, 2026, content revision `2026-09-08-expanded-72`. The original 30 point IDs, source mappings and compass links are retained. New detail readings appear beneath their parent readings and in the full spiral. Old direct links and compatible checkpoints continue to work.
 
-## Edition and evidence
+Conceptual levels retain the previous orientation: foundations at level 2, new explanatory details at level 1, open investigations at level 0. Spiral position is reading order, not geography or conceptual altitude. Six-direction links, point parents and additional detail links describe meaning independently of the drawing.
 
-Authored September 7, 2026. The original source reading is self-paced. A separate Rest Journey now supplies matching narration and a synchronized presentation. Read-time labels are rough estimates at 180 words per minute, not measured narration durations. Historical glacier images and research retain their dates. The six floor questions are editorially framed investigations based on primary sources, not an official ranking of research priorities. A detailed study design is beyond this edition; the reader labels that boundary.
+Each point includes its reading, evidence, compass and a copyable Orbiverse continuation. Open investigations state an established basis, question, uncertainty and proposed method. These are authored investigations grounded in sources, not an official research-priority list or claims that the questions are wholly unstudied. Sources reviewed September 7–8, 2026 retain their individual check dates; historical study and observation dates remain distinct.
 
-This is an independent educational artifact, not an official National Park Service or Tribal publication. Direct Tribal sources are credited for their own institutions’ work. No model/version provenance is asserted where not recorded.
+## Open, save and rebuild
 
-## Media
+Open `index.html` directly or serve this directory with a static web server. Its data, styling, script and existing point images are embedded, so reading and navigation work offline. External evidence links require internet. The separate earlier narration needs its own files or the hosted site.
 
-The earlier personal Quinault forest photos remain in repository history; the current forest points use location-matched NPS photographs. Images are credited at their points and in `media.json`; no claim to original U.S. Government works. The Blue Glacier comparison is from 1899 and 2008. Some archival NPS images have modest resolution; retained with accurate captions rather than represented as recent photographs. Original photo libraries and production masters are not included.
+`Save progress` exports a portable checkpoint; `Restore` imports it. Optional browser storage remembers the reading position. `Download HTML` saves an offline copy; `Print this point` produces the selected reading and evidence without the interface controls.
 
-## Publication
+Run `python build.py` to rebuild `index.html` from `orb.json`, `shell.html`, `style.css`, `app.js` and the credited JPEG/SVG files. Python's standard library is sufficient. `journey.md` is the expanded reading manuscript for later adaptation and should be synchronized with content changes.
 
-Publish the root of `main` through GitHub Pages, with `.nojekyll`. The primary directory is `visualizationcreation/orb-archive`; keep its active entries and inactive editions intact when adding this ORB.
+## Media and the next production phase
 
-## Unique point visuals
+The original 30 readings retain their distinct credited visual assets, including historical photographs and labeled conceptual illustrations. The 42 new detail readings are text-first. No new generated illustrations, narration or music have been produced for the expanded edition.
 
-Each of the 30 points has an exclusive media asset. No image is shared between points, and identical file bytes under different filenames are rejected at build time. Each original SVG is labeled as a conceptual illustration, not a measured dataset or documentary photograph. The masthead uses the opening landscape photograph. `media.json` and `orb.json` preserve captions, source URLs, credits and point ownership.
+`media-plan.json` records the point IDs, narration focus, evidence, existing assets and visual briefs for the later production phase. Before recording, select a route and author a continuous Active Journey or Rest Journey script. Match every recording and visual cue to the resulting script revision. Music should be developed around the selected pacing and narration.
 
-## Park-wide revision
+## Earlier Rest Journey
 
-The 30 stable point IDs and six research-floor investigations are preserved. Lake Crescent, Hurricane Ridge, Hoh, Queets, Staircase and Sol Duc now have substantive readings and exclusive location-matched photographs. The marmot follows the high-country setting; Sol Duc leads into salmon life stages. Repeated Quinault and Elwha framing has been reduced, and the final transition returns to the whole park.
+`rest.html` preserves the separate **30-point, 48:33 Microsoft Aria Rest Journey** from September 7, 2026. Its canonical script, captions, audio, point mapping and timing remain unchanged. It does **not** narrate the expanded 72-point reading edition. The interface labels this relationship explicitly and only offers a point-specific audio link for one of its original 30 points.
 
-The connected reading source contains 4340 spoken words including transitions and floor questions/methods. The new Rest Journey has a measured narration runtime of 48:33. A Rest adaptation is now available; a full listening review remains pending.
+The earlier recording uses `olympic-rest.mp3`, `rest-journey.json`, `rest-data.js`, `rest-journey.md` and `olympic-rest.en.srt`. Its previously noted full listening review remains pending. This expansion does not claim to have completed that review or changed its voice.
 
-## Rest Journey
+## Validation and publication
 
-Open `rest.html` for the complete 48:33 Rest Journey, narrated by Microsoft Aria. All 30 points retain their source mappings, research qualifications and exclusive visuals. `rest-journey.md` is the canonical authored Rest text; `rest-journey.json` and `rest-data.js` carry the matching script, media and measured cues. The original source readings and `journey.md` remain separate.
+Checked all 72 rendered points, direct links, source lists, parent/detail navigation, compass, visit history, search filters, checkpoint export/restore, older checkpoint IDs, phone overflow, reduced motion, keyboard navigation, selected-point print layout and a downloaded offline HTML. No page JavaScript errors were found in those checks. Actual narration listening and new media production are outside this reading-edition revision.
 
-Playback uses `olympic-rest.mp3` (64 kbps mono) with 180 paragraph cues and sentence captions. The course pauses when opening a source point, and preserves its place separately from the source reader. Download the MP3 for audio-only use; an offline narrated copy needs the whole folder, not just index.html.
+Publish the existing repository's root through its existing GitHub Pages configuration. Update the same Olympic entry and stable reading-edition ID in `visualizationcreation/orb-archive`; preserve other ORBs, the inactive archive and the earlier Rest edition's provenance.
 
-The browser can record actual playback as WebM. MP4 export is performed by a separate local production helper; exported production masters are not hosted on Pages. Full listening review for pronunciation and narrative quality remains pending.
-
-Playback entry points: Start Rest Journey always opens at 0:00. Listen from this point opens the named point. Saved listening progress is offered with an explicit Resume saved place button; it is never silently applied on arrival. Start from beginning restarts playback at the opening.
-
-## Guided Rest revision 2
-
-The complete script has been rewritten as optional, second-person guided imagery. All 30 points use new Microsoft Aria narration at -15% rate. The measured runtime is 48:33, including 63 authored pauses totaling 250 seconds. Pause directions are not spoken. Caption timestamps and paragraph cues were rebuilt from the new recording. Saved times from revision 1 are not silently reused. All source readings, six knowledge-floor questions, and 30 exclusive visuals remain intact. Full listening review remains pending.
+An independent educational field guide by Nathan Wilson. This is not an official National Park Service, NOAA, USGS or Tribal publication. Credits and source URLs remain attached to the corresponding points and visual assets. No claim is made to original U.S. Government works.

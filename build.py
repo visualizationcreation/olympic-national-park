@@ -2,6 +2,17 @@ from pathlib import Path
 import base64,json,hashlib
 p=Path(__file__).resolve().parent
 d=json.loads((p/'orb.json').read_text(encoding='utf-8'))
+ids={point['id'] for point in d['points']}
+assert len(ids)==len(d['points']), 'Duplicate point ID'
+assert d['root'] in ids
+assert len({point['label'] for point in d['points']})==len(ids), 'Duplicate map label'
+for point in d['points']:
+ assert set(point['links'])=={'up','down','left','right','forward','backward'}
+ assert all(edge['to'] is None or edge['to'] in ids for edge in point['links'].values())
+ assert all(key in d['sources'] for key in point['sources'])
+ assert all(child in ids for child in point.get('children',[]))
+ if point['kind']=='floor':
+  assert all(point.get(key) for key in ('knownBasis','openQuestion','uncertainty','researchApproach'))
 assigned=[key for point in d['points'] for key in point['mediaPack']]
 assert len(assigned)==len(set(assigned)), 'A point image is assigned to more than one point'
 assert len({hashlib.sha256((p/d['media'][key]['file']).read_bytes()).hexdigest() for key in assigned})==len(assigned), 'Different filenames contain the same image'

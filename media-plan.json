@@ -1,0 +1,949 @@
+{
+  "contentRevision": "2026-09-08-expanded-72",
+  "status": "Planning only; production deferred until the reading edition is approved for adaptation.",
+  "narration": "Choose and author a continuous Active Journey or Rest Journey from a selected route before recording. Retain point IDs, sources, transitions and pronunciation review.",
+  "images": "Create distinct point-specific illustrations. Verify location, species and mechanism against the attached evidence. Label illustrations and preserve provenance.",
+  "music": "Develop original instrumental beds by landscape and sequence after narration pacing is established. Existing tracks have not been assigned to this edition.",
+  "points": [
+    {
+      "id": "one-peninsula",
+      "title": "One peninsula, many worlds",
+      "narrationFocus": "A journey across contrasting habitats, connected by rock, weather, water and living relationships.",
+      "visualBrief": "One peninsula, many worlds. A journey across contrasting habitats, connected by rock, weather, water and living relationships. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "overview",
+        "tribes",
+        "mountains",
+        "forest",
+        "coast"
+      ],
+      "existingMedia": [
+        "mountains"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "park-and-peninsula",
+      "title": "A park boundary is not a watershed boundary",
+      "narrationFocus": "Separate the protected area, the peninsula and the living systems crossing both.",
+      "visualBrief": "A park boundary is not a watershed boundary. Separate the protected area, the peninsula and the living systems crossing both. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "overview",
+        "sanctuary"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "living-homelands",
+      "title": "Living homelands",
+      "narrationFocus": "The human story belongs in the present tense.",
+      "visualBrief": "Living homelands. The human story belongs in the present tense. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "tribes"
+      ],
+      "existingMedia": [
+        "tribal-canoes"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "tribal-sovereignty",
+      "title": "Reading living governments in their own words",
+      "narrationFocus": "Contemporary institutions give the human landscape specificity.",
+      "visualBrief": "Reading living governments in their own words. Contemporary institutions give the human landscape specificity. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "tribes",
+        "mou",
+        "elwha"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "shared-stewardship",
+      "title": "Stewardship across boundaries",
+      "narrationFocus": "Protection connects governments, habitats and responsibilities.",
+      "visualBrief": "Stewardship across boundaries. Protection connects governments, habitats and responsibilities. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "mou",
+        "tribes",
+        "coast"
+      ],
+      "existingMedia": [
+        "native-plant-center"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "ozette-memory",
+      "title": "Ozette and the care of memory",
+      "narrationFocus": "Objects carry evidence; communities give that evidence context.",
+      "visualBrief": "Ozette and the care of memory. Objects carry evidence; communities give that evidence context. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "makah",
+        "history"
+      ],
+      "existingMedia": [
+        "visual-ozette-memory"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "ozette-archaeology",
+      "title": "At Ozette, preservation changes the questions",
+      "narrationFocus": "An archaeological object carries context as well as material.",
+      "visualBrief": "At Ozette, preservation changes the questions. An archaeological object carries context as well as material. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "makah",
+        "history"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "seafloor-to-summit",
+      "title": "From seafloor to summit",
+      "narrationFocus": "Oceanic rocks can form mountains without making a volcanic mountain range.",
+      "visualBrief": "From seafloor to summit. Oceanic rocks can form mountains without making a volcanic mountain range. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "geo",
+        "tectonic"
+      ],
+      "existingMedia": [
+        "visual-seafloor-to-summit"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "crescent-basalt",
+      "title": "Basalt records an oceanic beginning",
+      "narrationFocus": "A dark rock and a pale sandstone can tell different parts of Olympic's history.",
+      "visualBrief": "Basalt records an oceanic beginning. A dark rock and a pale sandstone can tell different parts of Olympic's history. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "geo",
+        "atlas"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "accretion-and-uplift",
+      "title": "How ocean sediments join a growing mountain range",
+      "narrationFocus": "Subduction, deformation and erosion work on different parts of one system.",
+      "visualBrief": "How ocean sediments join a growing mountain range. Subduction, deformation and erosion work on different parts of one system. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "tectonic",
+        "atlas",
+        "geo"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "ice-carved-land",
+      "title": "Lake Crescent: a basin with a history",
+      "narrationFocus": "A quiet lake holds evidence of moving ice and later isolation.",
+      "visualBrief": "Lake Crescent: a basin with a history. A quiet lake holds evidence of moving ice and later isolation. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "crescent",
+        "atlas",
+        "geo"
+      ],
+      "existingMedia": [
+        "place-crescent"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "glacial-valleys",
+      "title": "Two scales of ice shaped the peninsula",
+      "narrationFocus": "Local mountain glaciers and regional ice sheets leave different spatial records.",
+      "visualBrief": "Two scales of ice shaped the peninsula. Local mountain glaciers and regional ice sheets leave different spatial records. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "geo",
+        "crescent"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "crescent-trout",
+      "title": "Isolation lives on in Lake Crescent's trout",
+      "narrationFocus": "A change in drainage can become a biological difference.",
+      "visualBrief": "Isolation lives on in Lake Crescent's trout. A change in drainage can become a biological difference. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "crescent",
+        "rivers"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "rain-shadow",
+      "title": "The mountains divide the weather",
+      "narrationFocus": "Exposure matters as much as distance.",
+      "visualBrief": "The mountains divide the weather. Exposure matters as much as distance. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "mountains"
+      ],
+      "existingMedia": [
+        "visual-rain-shadow"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "snowpack-storage",
+      "title": "Snow delays the arrival of water",
+      "narrationFocus": "The same precipitation total can produce a different summer river.",
+      "visualBrief": "Snow delays the arrival of water. The same precipitation total can produce a different summer river. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice",
+        "mountains",
+        "ice-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "glacier-budget",
+      "title": "A glacier keeps a water budget",
+      "narrationFocus": "Accumulation and loss leave a measurable balance.",
+      "visualBrief": "A glacier keeps a water budget. Accumulation and loss leave a measurable balance. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice",
+        "ice-monitor"
+      ],
+      "existingMedia": [
+        "ice"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "blue-glacier-record",
+      "title": "Blue Glacier: length is only one dimension",
+      "narrationFocus": "A retreating front and a thinning surface tell complementary stories.",
+      "visualBrief": "Blue Glacier: length is only one dimension. A retreating front and a thinning surface tell complementary stories. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice",
+        "ice-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "mass-balance",
+      "title": "Measure additions and losses before interpreting the balance",
+      "narrationFocus": "Mass balance compares accumulation with ablation over a defined interval.",
+      "visualBrief": "Measure additions and losses before interpreting the balance. Mass balance compares accumulation with ablation over a defined interval. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "summer-streamflow",
+      "title": "Less ice does not translate into one simple runoff curve",
+      "narrationFocus": "A shrinking store can release water while losing its future buffering capacity.",
+      "visualBrief": "Less ice does not translate into one simple runoff curve. A shrinking store can release water while losing its future buffering capacity. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice",
+        "ice-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "forest-mosaic",
+      "title": "Hurricane Ridge: where forest opens into meadow",
+      "narrationFocus": "Snow, exposure and a short growing season shape the high country.",
+      "visualBrief": "Hurricane Ridge: where forest opens into meadow. Snow, exposure and a short growing season shape the high country. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "hurricane",
+        "montane",
+        "mountains",
+        "research"
+      ],
+      "existingMedia": [
+        "place-hurricane"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "treeline-patterns",
+      "title": "Treeline is a patchwork of opportunities and constraints",
+      "narrationFocus": "The forest-meadow boundary is more textured than a single contour line.",
+      "visualBrief": "Treeline is a patchwork of opportunities and constraints. The forest-meadow boundary is more textured than a single contour line. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "mountains",
+        "montane",
+        "research"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "meadow-phenology",
+      "title": "The meadow has a calendar of its own",
+      "narrationFocus": "Timing connects snowmelt, flowering and the short mountain growing season.",
+      "visualBrief": "The meadow has a calendar of its own. Timing connects snowmelt, flowering and the short mountain growing season. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "research",
+        "hurricane"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "mountain-goat-removal",
+      "title": "Restoration includes the history of introductions",
+      "narrationFocus": "An animal's presence is not enough to establish that it belongs naturally here.",
+      "visualBrief": "Restoration includes the history of introductions. An animal's presence is not enough to establish that it belongs naturally here. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "goats"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "olympic-marmot",
+      "title": "A life found only here",
+      "narrationFocus": "The Olympic marmot makes the peninsula’s distinctiveness tangible.",
+      "visualBrief": "A life found only here. The Olympic marmot makes the peninsula’s distinctiveness tangible. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "marmot"
+      ],
+      "existingMedia": [
+        "olympic-marmot"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "island-evolution",
+      "title": "A mountain range can function like an island",
+      "narrationFocus": "Barriers to movement help explain an unusually local species.",
+      "visualBrief": "A mountain range can function like an island. Barriers to movement help explain an unusually local species. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "marmot",
+        "geo",
+        "goats"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "marmot-hibernation",
+      "title": "A short feeding season supports a long winter",
+      "narrationFocus": "A marmot's yearly energy budget links meadow plants to survival.",
+      "visualBrief": "A short feeding season supports a long winter. A marmot's yearly energy budget links meadow plants to survival. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "marmot",
+        "marmot-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "rainforest-layers",
+      "title": "Hoh: the forest above the forest",
+      "narrationFocus": "Look upward through several living layers of temperate rainforest.",
+      "visualBrief": "Hoh: the forest above the forest. Look upward through several living layers of temperate rainforest. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "hoh",
+        "forest"
+      ],
+      "existingMedia": [
+        "place-hoh"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "elk-browsing",
+      "title": "The understory is also shaped by mouths and movement",
+      "narrationFocus": "Rain and shade are only part of the rainforest's structure.",
+      "visualBrief": "The understory is also shaped by mouths and movement. Rain and shade are only part of the rainforest's structure. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "forest",
+        "elk"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "canopy-epiphytes",
+      "title": "Plants can live on a tree without being the tree",
+      "narrationFocus": "An epiphyte uses another plant as a surface on which to grow.",
+      "visualBrief": "Plants can live on a tree without being the tree. An epiphyte uses another plant as a surface on which to grow. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "forest",
+        "hoh"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "fallen-wood",
+      "title": "Queets: the life of a fallen tree",
+      "narrationFocus": "Old wood, new roots and browsing animals shape the forest together.",
+      "visualBrief": "Queets: the life of a fallen tree. Old wood, new roots and browsing animals shape the forest together. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "queets",
+        "forest"
+      ],
+      "existingMedia": [
+        "place-queets"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "nurse-logs",
+      "title": "A fallen trunk becomes a place to begin",
+      "narrationFocus": "Seedlings can use decay as a growing surface.",
+      "visualBrief": "A fallen trunk becomes a place to begin. Seedlings can use decay as a growing surface. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "forest",
+        "nurse-trail"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "decay-and-soil",
+      "title": "Decomposition is a transformation, not disappearance",
+      "narrationFocus": "Wood becomes habitat and enters longer material cycles.",
+      "visualBrief": "Decomposition is a transformation, not disappearance. Wood becomes habitat and enters longer material cycles. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "deadwood-study",
+        "forest"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "fire-in-wet-country",
+      "title": "Even wet forests have fire histories",
+      "narrationFocus": "A rainy reputation does not erase disturbance.",
+      "visualBrief": "Even wet forests have fire histories. A rainy reputation does not erase disturbance. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "fire"
+      ],
+      "existingMedia": [
+        "montane-fire"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "fire-records",
+      "title": "How a forest keeps evidence of fire",
+      "narrationFocus": "Charcoal, tree rings and stand patterns preserve different parts of the record.",
+      "visualBrief": "How a forest keeps evidence of fire. Charcoal, tree rings and stand patterns preserve different parts of the record. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "fire"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "river-continuum",
+      "title": "Staircase: a different side of Olympic",
+      "narrationFocus": "The North Fork Skokomish connects a southeastern valley with mountain headwaters.",
+      "visualBrief": "Staircase: a different side of Olympic. The North Fork Skokomish connects a southeastern valley with mountain headwaters. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "staircase",
+        "rivers",
+        "montane"
+      ],
+      "existingMedia": [
+        "place-staircase"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "douglas-fir-pattern",
+      "title": "Staircase makes the forest contrast tangible",
+      "narrationFocus": "The drier side of Olympic changes the mix of trees and disturbances.",
+      "visualBrief": "Staircase makes the forest contrast tangible. The drier side of Olympic changes the mix of trees and disturbances. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "staircase",
+        "montane",
+        "fire"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floodplain-channels",
+      "title": "The river includes places outside its main channel",
+      "narrationFocus": "Side channels and floodplains change the habitat available to young fish.",
+      "visualBrief": "The river includes places outside its main channel. Side channels and floodplains change the habitat available to young fish. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "cycle",
+        "rivers",
+        "queets"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "wood-and-cold-water",
+      "title": "Sol Duc: falls, forest and river habitat",
+      "narrationFocus": "A river’s shape changes what its water and wildlife can do.",
+      "visualBrief": "Sol Duc: falls, forest and river habitat. A river’s shape changes what its water and wildlife can do. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "solduc",
+        "rivers",
+        "water",
+        "cycle"
+      ],
+      "existingMedia": [
+        "place-solduc"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "stream-temperature",
+      "title": "A cool river can still contain important temperature differences",
+      "narrationFocus": "Habitat is experienced locally, at the scale of the organism.",
+      "visualBrief": "A cool river can still contain important temperature differences. Habitat is experienced locally, at the scale of the organism. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "stream-monitor",
+        "ice-monitor",
+        "cycle"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "aquatic-insects",
+      "title": "Small organisms make a river's food web visible",
+      "narrationFocus": "Monitoring life in the stream adds information beyond the water's appearance.",
+      "visualBrief": "Small organisms make a river's food web visible. Monitoring life in the stream adds information beyond the water's appearance. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "stream-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "salmon-life",
+      "title": "One life, several habitats",
+      "narrationFocus": "Migration links stages with different needs.",
+      "visualBrief": "One life, several habitats. Migration links stages with different needs. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "cycle",
+        "anadromous",
+        "solduc",
+        "blueback"
+      ],
+      "existingMedia": [
+        "visual-salmon-life"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "salmon-redds",
+      "title": "The next generation begins within the gravel",
+      "narrationFocus": "A redd is a nest, and its surroundings are part of the habitat.",
+      "visualBrief": "The next generation begins within the gravel. A redd is a nest, and its surroundings are part of the habitat. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "cycle",
+        "salmon-eggs"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "smolt-transition",
+      "title": "Going to sea is a bodily transition as well as a journey",
+      "narrationFocus": "Young salmon change while moving between fresh and salt water.",
+      "visualBrief": "Going to sea is a bodily transition as well as a journey. Young salmon change while moving between fresh and salt water. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "cycle",
+        "salmon-smolt"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "ocean-in-the-forest",
+      "title": "Food webs carry the ocean inland",
+      "narrationFocus": "Feeding and decomposition connect habitats in both directions.",
+      "visualBrief": "Food webs carry the ocean inland. Feeding and decomposition connect habitats in both directions. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "queets",
+        "forest",
+        "nutrients"
+      ],
+      "existingMedia": [
+        "visual-ocean-in-the-forest"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "tracing-marine-nutrients",
+      "title": "How would you show that the ocean reached the food web?",
+      "narrationFocus": "A vivid connection becomes stronger when its evidence is made explicit.",
+      "visualBrief": "How would you show that the ocean reached the food web?. A vivid connection becomes stronger when its evidence is made explicit. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "nutrients"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "quinault-blueback",
+      "title": "Blueback and Lake Quinault",
+      "narrationFocus": "A lake is part of this salmon’s life history.",
+      "visualBrief": "Blueback and Lake Quinault. A lake is part of this salmon’s life history. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "blueback"
+      ],
+      "existingMedia": [
+        "lake"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "lake-water-column",
+      "title": "The lake has depth in an ecological sense",
+      "narrationFocus": "A surface view cannot describe all the water available to fish.",
+      "visualBrief": "The lake has depth in an ecological sense. A surface view cannot describe all the water available to fish. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "water",
+        "lake-stratification"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "blueback-monitoring",
+      "title": "Follow blueback through more than one count",
+      "narrationFocus": "A lake-dependent life history calls for measurements at several stages.",
+      "visualBrief": "Follow blueback through more than one count. A lake-dependent life history calls for measurements at several stages. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "blueback",
+        "water",
+        "lake-plan"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "elwha-reconnection",
+      "title": "The Elwha reconnects",
+      "narrationFocus": "Dam removal began a new chapter; it did not finish the river’s work.",
+      "visualBrief": "The Elwha reconnects. Dam removal began a new chapter; it did not finish the river’s work. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "elwha",
+        "elwha-history"
+      ],
+      "existingMedia": [
+        "elwha-dam-removal"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "elwha-sediment-pulse",
+      "title": "Reopening the river also reopened a sediment pathway",
+      "narrationFocus": "Restoration changed the movement of material as well as fish.",
+      "visualBrief": "Reopening the river also reopened a sediment pathway. Restoration changed the movement of material as well as fish. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "sediment"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "reservoir-revegetation",
+      "title": "Former reservoir beds became a restoration landscape",
+      "narrationFocus": "Removing concrete exposed a second task: the recovery of vegetation.",
+      "visualBrief": "Former reservoir beds became a restoration landscape. Removing concrete exposed a second task: the recovery of vegetation. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "revegetation",
+        "revegetation-record"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "tracking-return",
+      "title": "How do we know fish returned?",
+      "narrationFocus": "A restored connection becomes a testable observation.",
+      "visualBrief": "How do we know fish returned?. A restored connection becomes a testable observation. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "fish-response",
+        "edna"
+      ],
+      "existingMedia": [
+        "salmon-research"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "edna-sampling",
+      "title": "A water sample can carry evidence of fish",
+      "narrationFocus": "Detection depends on both the organism and the method.",
+      "visualBrief": "A water sample can carry evidence of fish. Detection depends on both the organism and the method. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "edna"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "fish-abundance",
+      "title": "Presence, abundance and recovery are different measurements",
+      "narrationFocus": "Choose the outcome before choosing the evidence.",
+      "visualBrief": "Presence, abundance and recovery are different measurements. Choose the outcome before choosing the evidence. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "fish-response",
+        "edna"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "sediment-to-sea",
+      "title": "Where rivers meet the coast",
+      "narrationFocus": "Moving sediment joins inland processes with coastal habitats.",
+      "visualBrief": "Where rivers meet the coast. Moving sediment joins inland processes with coastal habitats. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "sediment",
+        "coast",
+        "rivers"
+      ],
+      "existingMedia": [
+        "visual-sediment-to-sea"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "estuary-nursery",
+      "title": "The river mouth is a habitat, not just an exit",
+      "narrationFocus": "Fresh water, salt water and sediment create a changing transition zone.",
+      "visualBrief": "The river mouth is a habitat, not just an exit. Fresh water, salt water and sediment create a changing transition zone. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "cycle",
+        "estuary"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "rocky-edge",
+      "title": "Rialto: rock, waves and coastal wildlife",
+      "narrationFocus": "Headlands and offshore stacks create places to live.",
+      "visualBrief": "Rialto: rock, waves and coastal wildlife. Headlands and offshore stacks create places to live. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "coast"
+      ],
+      "existingMedia": [
+        "coast"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "sea-stack-landscape",
+      "title": "A sea stack is a surviving piece of a changing coast",
+      "narrationFocus": "Rock resistance and wave erosion help organize the shoreline.",
+      "visualBrief": "A sea stack is a surviving piece of a changing coast. Rock resistance and wave erosion help organize the shoreline. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "coast",
+        "coastal-landforms"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "coastal-upwelling",
+      "title": "Winds can bring deep water into the sunlit sea",
+      "narrationFocus": "The coastal food web is connected to moving water beyond the beach.",
+      "visualBrief": "Winds can bring deep water into the sunlit sea. The coastal food web is connected to moving water beyond the beach. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "upwelling",
+        "oceanography"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "kelp-forests",
+      "title": "Another forest begins below the waves",
+      "narrationFocus": "Kelp supplies structure in a marine habitat connected to the rocky coast.",
+      "visualBrief": "Another forest begins below the waves. Kelp supplies structure in a marine habitat connected to the rocky coast. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "kelp",
+        "sanctuary",
+        "invertebrates"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "between-the-tides",
+      "title": "Life between immersion and air",
+      "narrationFocus": "A short vertical distance can change the conditions of an entire community.",
+      "visualBrief": "Life between immersion and air. A short vertical distance can change the conditions of an entire community. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "coast",
+        "tides"
+      ],
+      "existingMedia": [
+        "intertidal-life"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "tidal-zonation",
+      "title": "A little height changes a tidepool's world",
+      "narrationFocus": "Vertical position alters the balance between immersion and exposure.",
+      "visualBrief": "A little height changes a tidepool's world. Vertical position alters the balance between immersion and exposure. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "tides",
+        "intertidal-zone",
+        "invertebrates"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "coastal-measurements",
+      "title": "A sensor record makes invisible conditions visible",
+      "narrationFocus": "Temperature, oxygen and chemistry can change without a change in scenery.",
+      "visualBrief": "A sensor record makes invisible conditions visible. Temperature, oxygen and chemistry can change without a change in scenery. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "moorings",
+        "acid",
+        "tides"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "reading-the-evidence",
+      "title": "How to read a changing park",
+      "narrationFocus": "Observation, explanation and prediction are different steps.",
+      "visualBrief": "How to read a changing park. Observation, explanation and prediction are different steps. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "science",
+        "research"
+      ],
+      "existingMedia": [
+        "glacier-fieldwork"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "evidence-baselines",
+      "title": "Every claim of change has a starting point",
+      "narrationFocus": "The comparison period helps determine what a trend means.",
+      "visualBrief": "Every claim of change has a starting point. The comparison period helps determine what a trend means. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "science",
+        "research",
+        "ice-monitor"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "research-design",
+      "title": "Turn a broad concern into a question evidence can answer",
+      "narrationFocus": "A useful investigation specifies an outcome, a comparison and a limit.",
+      "visualBrief": "Turn a broad concern into a question evidence can answer. A useful investigation specifies an outcome, a comparison and a limit. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "research",
+        "tides",
+        "science"
+      ],
+      "existingMedia": [],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-ice",
+      "title": "When does less ice become less summer water?",
+      "narrationFocus": "Ice loss is established; local downstream timing needs a finer account.",
+      "visualBrief": "When does less ice become less summer water?. Ice loss is established; local downstream timing needs a finer account. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "ice-monitor",
+        "ice"
+      ],
+      "existingMedia": [
+        "visual-floor-ice"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-forest",
+      "title": "Which forest changes first?",
+      "narrationFocus": "Detecting a shift and explaining it require different evidence.",
+      "visualBrief": "Which forest changes first?. Detecting a shift and explaining it require different evidence. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "research",
+        "montane"
+      ],
+      "existingMedia": [
+        "visual-floor-forest"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-marmot",
+      "title": "What lies behind a missing marmot colony?",
+      "narrationFocus": "An empty survey is a starting observation, not a complete explanation.",
+      "visualBrief": "What lies behind a missing marmot colony?. An empty survey is a starting observation, not a complete explanation. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "marmot-monitor",
+        "marmot"
+      ],
+      "existingMedia": [
+        "visual-floor-marmot"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-salmon",
+      "title": "When does passage become recovery?",
+      "narrationFocus": "A reopened route is a milestone with further questions beyond it.",
+      "visualBrief": "When does passage become recovery?. A reopened route is a milestone with further questions beyond it. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "edna",
+        "fish-response",
+        "cycle"
+      ],
+      "existingMedia": [
+        "visual-floor-salmon"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-coast",
+      "title": "Which stressor changed the tidepool?",
+      "narrationFocus": "Several pressures can leave overlapping ecological signals.",
+      "visualBrief": "Which stressor changed the tidepool?. Several pressures can leave overlapping ecological signals. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "tides",
+        "acid"
+      ],
+      "existingMedia": [
+        "visual-floor-coast"
+      ],
+      "productionStatus": "not started"
+    },
+    {
+      "id": "floor-quinault",
+      "title": "What does Lake Quinault still need us to learn?",
+      "narrationFocus": "A useful knowledge floor can be a management question.",
+      "visualBrief": "What does Lake Quinault still need us to learn?. A useful knowledge floor can be a management question. Use the reading to choose one concrete subject or explanatory mechanism; avoid presenting proposed investigations as observed results.",
+      "sourceKeys": [
+        "lake-plan",
+        "water"
+      ],
+      "existingMedia": [
+        "visual-floor-quinault"
+      ],
+      "productionStatus": "not started"
+    }
+  ]
+}
