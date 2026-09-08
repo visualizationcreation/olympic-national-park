@@ -23,40 +23,6 @@
     "height": 1000,
     "pointId": "glacier-budget"
   },
-  "forest": {
-    "file": "forest.jpg",
-    "caption": "Quinault forest, photographed by Nathan Wilson. Contextual view for forest readings.",
-    "alt": "Sunlight falls through a dense green Quinault forest.",
-    "credit": "Nathan Wilson",
-    "source": "https://visualizationcreation.github.io/Quinault-orb/",
-    "rights": "Personal photograph supplied and authorized by Nathan Wilson",
-    "width": 1333,
-    "height": 1000,
-    "pointId": "rainforest-layers"
-  },
-  "wood": {
-    "file": "wood.jpg",
-    "caption": "Fallen wood in the Quinault forest, photographed by Nathan Wilson.",
-    "alt": "Fallen trees and moss on the Quinault forest floor.",
-    "credit": "Nathan Wilson",
-    "source": "https://visualizationcreation.github.io/Quinault-orb/",
-    "rights": "Personal photograph supplied and authorized by Nathan Wilson",
-    "width": 750,
-    "height": 1000,
-    "pointId": "fallen-wood"
-  },
-  "river": {
-    "file": "river.jpg",
-    "caption": "The Elwha River in winter; an archival landscape photograph.",
-    "alt": "A rushing river between forested banks in winter mist.",
-    "credit": "National Park Service",
-    "source": "https://www.nps.gov/olym/learn/nature/rivers-and-lakes.htm",
-    "assetSource": "https://www.nps.gov/olym/learn/nature/images/winterelwha285_1.jpg",
-    "rights": "NPS website image; no third-party copyright notice on the source page. NPS reuse policy: https://www.nps.gov/aboutus/disclaimer.htm",
-    "width": 285,
-    "height": 200,
-    "pointId": "river-continuum"
-  },
   "lake": {
     "file": "lake.jpg",
     "caption": "Lake Quinault from the south shore; Olympic National Park photograph.",
@@ -106,34 +72,6 @@
     "rights": "NPS-origin image, no third-party restriction indicated on the source page. https://www.nps.gov/aboutus/disclaimer.htm",
     "width": 750,
     "height": 1000,
-    "fit": "cover"
-  },
-  "hart-lake": {
-    "file": "hart-lake.jpg",
-    "mime": "image/jpeg",
-    "pointId": "ice-carved-land",
-    "caption": "Mount Duckabush and subalpine slopes reflected in Hart Lake, in the Duckabush headwaters.",
-    "alt": "A mountain lake reflects snowy peaks and scattered subalpine trees.",
-    "credit": "National Park Service",
-    "source": "https://www.nps.gov/olym/learn/nature/rivers-and-lakes.htm",
-    "assetSource": "https://www.nps.gov/olym/learn/nature/images/hartreflect415.jpg",
-    "rights": "NPS-origin image, no third-party restriction indicated on the source page. https://www.nps.gov/aboutus/disclaimer.htm",
-    "width": 415,
-    "height": 200,
-    "fit": "cover"
-  },
-  "montane-mist": {
-    "file": "montane-mist.jpg",
-    "mime": "image/jpeg",
-    "pointId": "forest-mosaic",
-    "caption": "Sunlight and mist in montane forest near Mink Lake, Sol Duc valley.",
-    "alt": "Sunbeams fall through a misty forest on a mountain slope.",
-    "credit": "National Park Service",
-    "source": "https://www.nps.gov/olym/learn/nature/montane-forests.htm",
-    "assetSource": "https://www.nps.gov/olym/learn/nature/images/minklkforest285.jpg",
-    "rights": "NPS-origin image, no third-party restriction indicated on the source page. https://www.nps.gov/aboutus/disclaimer.htm",
-    "width": 285,
-    "height": 200,
     "fit": "cover"
   },
   "montane-fire": {
@@ -295,21 +233,6 @@
     "fit": "contain",
     "kind": "illustration"
   },
-  "visual-wood-and-cold-water": {
-    "file": "visual-wood-and-cold-water.svg",
-    "mime": "image/svg+xml",
-    "pointId": "wood-and-cold-water",
-    "caption": "A logjam changes the choices water can make. Large wood can redirect flow and help create habitat complexity. Original explanatory illustration; schematic, not a measured dataset.",
-    "alt": "A bird’s-eye conceptual river bends around a logjam, with a side channel and arrows showing different flow paths. It does not map a specific Quinault restoration project or predict a temperature reduction.",
-    "credit": "ORB Journeys",
-    "source": "https://quinaultindiannation.com/342/Water-Quality",
-    "sourceLabel": "Conceptual source",
-    "rights": "Original SVG illustration created for Nathan Wilson’s ORB Journeys.",
-    "width": 1200,
-    "height": 700,
-    "fit": "contain",
-    "kind": "illustration"
-  },
   "visual-sediment-to-sea": {
     "file": "visual-sediment-to-sea.svg",
     "mime": "image/svg+xml",
@@ -414,5 +337,77 @@
     "height": 700,
     "fit": "contain",
     "kind": "illustration"
+  },
+  "place-crescent": {
+    "file": "lake-crescent.jpg",
+    "pointId": "ice-carved-land",
+    "caption": "Lake Crescent reflections near the wharf.",
+    "alt": "Clouds and mountains reflected in Lake Crescent beside a wharf.",
+    "credit": "NPS / C. Bubar",
+    "source": "https://www.nps.gov/olym/planyourvisit/visiting-lake-crescent.htm",
+    "assetSource": "https://www.nps.gov/olym/planyourvisit/images/Lake_Crescent_reflection_cloud_water_wharf_2016_cbubar-700.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 700,
+    "height": 526
+  },
+  "place-hurricane": {
+    "file": "hurricane-meadow.jpg",
+    "pointId": "forest-mosaic",
+    "caption": "Meadows at Hurricane Ridge.",
+    "alt": "Wildflowers and open meadows beneath Olympic mountain ridges.",
+    "credit": "NPS / C. Bubar",
+    "source": "https://www.nps.gov/olym/planyourvisit/visiting-hurricane-ridge.htm",
+    "assetSource": "https://www.nps.gov/olym/planyourvisit/images/hr-meadow.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 960,
+    "height": 720
+  },
+  "place-hoh": {
+    "file": "hoh-canopy.jpg",
+    "pointId": "rainforest-layers",
+    "caption": "Bigleaf maples and epiphytes in the Hoh rainforest.",
+    "alt": "Moss-covered maple branches form a layered green rainforest canopy.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+    "assetSource": "https://www.nps.gov/olym/learn/nature/images/Maple_GroveJonP415.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 415,
+    "height": 220
+  },
+  "place-queets": {
+    "file": "queets-forest.jpg",
+    "pointId": "fallen-wood",
+    "caption": "Hiker in the Queets rainforest; a contextual forest view.",
+    "alt": "A hiker among large trees in the Queets rainforest.",
+    "credit": "NPS / Bryan Bell",
+    "source": "https://www.nps.gov/olym/planyourvisit/queets-river-trail.htm",
+    "assetSource": "https://www.nps.gov/olym/planyourvisit/images/Queets-Hiker.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 400,
+    "height": 300
+  },
+  "place-staircase": {
+    "file": "staircase-valley.jpg",
+    "pointId": "river-continuum",
+    "caption": "Upper reaches of the North Fork Skokomish River valley.",
+    "alt": "A forested mountain valley in the Staircase area.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/planyourvisit/visiting-staircase.htm",
+    "assetSource": "https://www.nps.gov/olym/planyourvisit/images/staircase200.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 200,
+    "height": 238
+  },
+  "place-solduc": {
+    "file": "sol-duc-falls.jpg",
+    "pointId": "wood-and-cold-water",
+    "caption": "Rainbow over Sol Duc Falls.",
+    "alt": "Water drops over Sol Duc Falls beneath a rainbow.",
+    "credit": "National Park Service",
+    "source": "https://www.nps.gov/olym/planyourvisit/visiting-the-sol-duc-valley.htm",
+    "assetSource": "https://www.nps.gov/olym/planyourvisit/images/rainbow_sol_duc_falls-300-W.jpg",
+    "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
+    "width": 300,
+    "height": 400
   }
 }

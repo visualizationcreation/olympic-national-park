@@ -1,16 +1,16 @@
-# Olympic National Park — Active Journey reading script
+# Olympic National Park — connected reading script
 
-Revision: 2026-09-07-v1. Text only. No narration or timing assets. The passages below are assembled from the same readings and bridges shown in the website. Sources remain attached in orb.json.
+Revision: 2026-09-07-v2-park-wide. Source text for later journey adaptation. No Rest script, narration or timing assets have been produced. Sources and stable point IDs are preserved in orb.json.
 
 ## One peninsula, many worlds
 
 Point: one-peninsula
 
-A snowy ridge, a moss-draped valley and an ocean headland can look like separate destinations. Olympic National Park brings them into one connected story. Its protected landscape includes a mountainous interior and a Pacific coastal strip, while the wider peninsula includes Tribal lands, towns, working forests and other public lands. The park boundary is useful for administration; water, wildlife and cultural relationships cross it.
+A snowy ridge, a moss-draped valley and an ocean headland can look like separate worlds. Olympic National Park holds them within one larger landscape. Its mountainous interior and Pacific coastal strip are part of a peninsula that also includes Tribal lands, towns, working forests and other public lands. Water, wildlife and human relationships cross these boundaries.
 
-Start with the Pacific. Moist air moves toward the mountains, water gathers as snow and rain, and rivers carry it back toward salt water. Along that route, temperature, rock, slope and living organisms change what happens next. This ORB follows those connections, then descends into questions that evidence has not completely resolved. The sphere is a map of ideas, not a geographic map: a nearby point can be connected by explanation even when the places themselves are far apart.
+Our journey changes viewpoint as well as place. We will examine the mountains, pause beside Lake Crescent, cross the meadows of Hurricane Ridge in imagination, and enter the Hoh and Queets forests. Staircase and Sol Duc reveal different river valleys; Quinault and Elwha offer particular stories of fish and stewardship. At the coast, the scale contracts to a tidepool before opening into questions still being investigated. This is a connected exploration of the park, not a literal walking itinerary.
 
-Before following the water, we need to recognize whose homelands it passes through.
+Before entering these landscapes, we begin with the people whose homelands they are.
 
 ## Living homelands
 
@@ -26,11 +26,11 @@ Recognizing living homelands changes how we understand stewardship.
 
 Point: shared-stewardship
 
-Managing Olympic involves relationships among governments. The park’s memorandum of understanding with eight peninsula Tribes establishes a framework for government-to-government coordination. That matters because resources and responsibilities extend across lines on a map. A salmon’s route can connect a protected headwater with downstream communities and the ocean.
+The park’s memorandum of understanding with eight peninsula Tribes provides a framework for government-to-government coordination. These are living political relationships, not simply acknowledgments of the past. Each government has its own responsibilities and perspectives; the protected landscape does not erase the communities and relationships around it.
 
-The Lower Elwha Klallam Tribe’s restoration program makes this connection tangible. Removing the Elwha dams was one part of a wider effort that includes rebuilding floodplain connections and vegetation. Read such work as active stewardship by a contemporary government, with goals extending beyond a visitor’s view of a river. The useful question is not simply whether a place is protected, but how connected places are cared for and by whom. This ORB offers an introduction; the linked governments remain the authoritative voices on their own roles.
+The coast makes overlapping stewardship especially visible. Olympic’s intertidal areas also lie within the Olympic Coast National Marine Sanctuary, while offshore islands belong to the Washington Maritime National Wildlife Refuge Complex. A seabird moves among nesting rocks, feeding waters and airspace without following an agency boundary. Caring for its habitat calls for attention to the whole relationship. Protection therefore involves both particular places and coordination across them. The same care is needed when interpreting cultural places and collections.
 
-Stewardship also includes deciding how the past is preserved and interpreted.
+At Ozette, the care of a place extends into the care of memory.
 
 ## Ozette and the care of memory
 
@@ -52,15 +52,15 @@ This explains an apparent contradiction: basalt can record volcanic activity on 
 
 Once rock is raised into mountains, moving ice and water begin to reshape it.
 
-## A landscape carved by ice
+## Lake Crescent: a basin with a history
 
 Point: ice-carved-land
 
-Olympic’s landforms include broad glacial valleys, sharp ridges, cirques and lake basins. Ice carrying rock fragments can abrade a surface; flowing glaciers can also remove and transport rock. The valley left behind is evidence of a moving body that may be much smaller today, or absent altogether.
+Lake Crescent fills a deep basin carved by glaciers in the northern foothills. The water’s calm surface rests inside a landscape made through movement: ice eroded and carried rock, and the basin remained after the ice withdrew. Across Olympic, glacial valleys and mountain cirques preserve related evidence, although mountain glaciers and the continental ice sheet had different paths and histories.
 
-Two glacial stories meet on the peninsula. Mountain glaciers developed in the high country, while the great continental ice sheet spread around parts of the Olympic Mountains during the last ice age. Do not imagine a single uniform blanket covering every summit. A landscape retains traces of different ice movements and different times. When you see a lake tucked beneath a steep headwall, ask about the basin’s history as well as today’s water. Present scenery can preserve processes that operate on timescales far longer than a visit.
+The lake’s story continued after glaciation. NPS describes a massive landslide about seven thousand years ago that separated Lake Crescent from Lake Sutherland. Isolation helped produce the lake’s distinctive Beardslee and Crescenti trout populations. This joins geology to biology: changing a connection between waters can change the opportunities available to fish over generations. A lake is consequently more than stored water. Its shape, connections and history help explain the life within it.
 
-The same mountain relief also redirects the weather arriving from the ocean.
+The mountains shaped these basins, and they also shape the weather arriving above them.
 
 ## The mountains divide the weather
 
@@ -82,45 +82,15 @@ For Olympic, this connects a high mountain process to life downstream. Stored ic
 
 Below the snow and ice, a different pattern appears in the forests of mountain slopes.
 
-## Forests change with the slope
+## Hurricane Ridge: where forest opens into meadow
 
 Point: forest-mosaic
 
-Climbing out of a river valley changes temperature, snow persistence and exposure. Even at similar elevations, a sunny slope and a shaded slope can support different growing conditions. Olympic’s montane forests reflect those differences in their tree communities and disturbance histories.
+At Hurricane Ridge, forest gives way to subalpine meadows and long mountain views. Wildflowers and grazing black-tailed deer bring the high country into focus at a different scale from distant summits. Below and around these openings, stands of trees occupy slopes with different exposure and snow persistence. The landscape is a patchwork, not a single elevation line separating trees from open ground.
 
-Treat the forest as a mosaic rather than a green surface painted uniformly over the mountains. Douglas-fir can be prominent in settings shaped by fire and exposure; cooler or wetter settings support different mixtures. A species list becomes more useful when paired with a question about conditions. What lets a seedling establish here? What stresses a mature tree? What happened before this stand grew? The landscape contains overlapping answers. Following one slope downward now brings us into the exceptionally wet western valley forests, where large trees and layers of smaller plants reshape the experience of space.
+Height changes temperature, while the direction a slope faces changes sunlight and the persistence of snow. These conditions influence where plants establish and how long they have to grow each year. The same mountain system that gives western valleys abundant rain creates habitats where snow and a brief growing season organize life. Following that seasonal rhythm leads us from the meadow’s plants to a resident animal whose entire natural range lies in these mountains.
 
-In the western valleys, abundant moisture supports the layered architecture of temperate rainforest.
-
-## The forest above the forest
-
-Point: rainforest-layers
-
-The Quinault, Queets, Hoh and Bogachiel valleys contain Olympic’s celebrated temperate rainforests. Sitka spruce and western hemlock are prominent trees, while mosses, ferns and other epiphytes occupy trunks and branches. An epiphyte grows on another plant; the word describes its growing position, not a claim that it is parasitic.
-
-Look past the tallest tree to the layers around it. A branch can support a smaller community; a canopy changes the light reaching the ground. The result is a forest with many surfaces and microhabitats, rather than a collection of isolated trunks. The photograph here is from Quinault, not the Hoh. It supplies a close view of one western forest while the reading describes a broader ecological pattern.
-
-The structure continues downward, where even a fallen tree can support another generation.
-
-## A fallen tree is still habitat
-
-Point: fallen-wood
-
-A fallen rainforest tree can become a nurse log. Seedlings establish on its decaying surface, and their roots may eventually reach the soil. As the wood disappears, a line of trees can remain, recording the position of a predecessor.
-
-During decomposition, dead wood also provides habitat for fungi, invertebrates and other organisms. Large pieces can persist for a long time. The living forest therefore includes material from earlier generations. Think of a log as a changing habitat: its texture, moisture and accessibility change as it decays. This offers a way to read time without a dated sign. The forest’s past is partly present in the structures through which its next generation grows.
-
-A forest’s history also includes disturbances that can be hard to imagine on a wet day.
-
-## Even wet forests have fire histories
-
-Point: fire-in-wet-country
-
-Olympic’s fire history varies with climate and exposure. Drier eastern forests have generally experienced fire more frequently than the wetter western forests. Tree rings, scars and charcoal can help reconstruct those histories. A forest seen today is one moment in a much longer sequence of growth, disturbance and recovery.
-
-The useful distinction is between a historical pattern and a prediction for a specific stand. A wet forest is not incapable of burning, and a past fire interval is not a schedule. Weather, available fuels and the surrounding landscape influence what happens in a particular event. These differences also caution against one universal story about all Olympic forests. To understand change, we need repeated observations and evidence of past conditions, not just a dramatic photograph or the absence of smoke on a visit.
-
-In the high-country meadows, another life history depends on the rhythm of the seasons.
+A whistle from an Olympic marmot would bring that short mountain summer sharply into focus.
 
 ## A life found only here
 
@@ -130,37 +100,77 @@ The Olympic marmot is endemic to the Olympic Mountains: it occurs naturally here
 
 That life history makes population change a question requiring care. Olympic marmots mature relatively slowly for rodents, so the loss of breeding adults can take time to replace. The park has documented concerns about predation and changing habitat conditions. A single cheerful encounter says little about the status of the whole species. Repeated surveys across meadow patches provide a different kind of evidence: where marmots continue to occur, disappear or recolonize. At the knowledge floor, we will separate detecting such change from explaining its causes.
 
-From these uplands, water descends through a network of connected channels.
+We leave the brief mountain summer in imagination and descend into the very different growing conditions of the Hoh rainforest.
 
-## A river is more than its channel
+## Hoh: the forest above the forest
+
+Point: rainforest-layers
+
+In the Hoh valley, bigleaf maples carry mosses and ferns on their branches, while conifers rise above a shaded forest floor. An epiphyte is a plant that grows on another plant; the term describes its growing position rather than making it a parasite. These smaller plants turn trunks and limbs into additional living surfaces.
+
+The Hoh River connects this forest with the Mount Olympus high country and the Pacific. Yet the forest has its own close details: changing light beneath the canopy, leaves at different heights, and openings where a large tree has fallen. Hoh is one of several western rainforest valleys, alongside Queets, Bogachiel and Quinault. Their shared climate does not make them interchangeable. Here the canopy draws our attention upward; in the Queets, we will follow the forest’s continuing life downward into wood, roots and soil.
+
+From the Hoh canopy, our imagined journey enters the Queets valley and looks beneath the living trees.
+
+## Queets: the life of a fallen tree
+
+Point: fallen-wood
+
+The Queets valley holds old-growth rainforest, moss-draped maples and large Sitka spruce. Elk move through this setting, browsing vegetation and helping shape the forest beneath the canopy. The scene contains both living trees and the remains of earlier generations. A fallen trunk is part of that continuing community.
+
+As a nurse log decays, seedlings can establish on its surface and eventually extend roots into the soil. After the old wood disappears, a line of raised roots and trees may preserve its former position. Fungi and invertebrates also use decomposing wood. Growth, feeding and decay are happening together, so the forest cannot be understood only by counting upright trunks. The photograph places us in the Queets rainforest; the nurse-log process is a broader Olympic forest relationship, not a measurement made from that image.
+
+Fallen wood records one kind of change; fire leaves a different history, especially across the drier side of the peninsula.
+
+## Even wet forests have fire histories
+
+Point: fire-in-wet-country
+
+Olympic’s fire history varies with climate and exposure. Drier eastern forests have generally experienced fire more frequently than the wetter western forests. Tree rings, scars and charcoal can help reconstruct those histories. A forest seen today is one moment in a much longer sequence of growth, disturbance and recovery.
+
+The useful distinction is between a historical pattern and a prediction for a specific stand. A wet forest is not incapable of burning, and a past fire interval is not a schedule. Weather, available fuels and the surrounding landscape influence what happens in a particular event. These differences also caution against one universal story about all Olympic forests. To understand change, we need repeated observations and evidence of past conditions, not just a dramatic photograph or the absence of smoke on a visit.
+
+That contrast between western and eastern forests becomes tangible in the southeastern valley at Staircase.
+
+## Staircase: a different side of Olympic
 
 Point: river-continuum
 
-Olympic’s rivers connect mountain headwaters with lowland valleys and the sea. Their water arrives through rain, snowmelt, glacier melt and flows stored or delayed within the landscape. These contributions vary among watersheds and seasons; one river cannot stand in for every other one.
+At Staircase, in the park’s southeastern corner, Douglas-firs dominate the forest around the North Fork Skokomish River. This is a useful counterpoint to the moss-heavy western valleys. Olympic contains several forest environments, shaped by differences in moisture, exposure and elevation. A broad park journey needs these contrasts as well as the celebrated rainforest scenes.
 
-Look beyond the current ribbon of water. Floodplains, side channels, vegetation and lakes influence how a watershed stores and moves material. Channels can migrate, and floods can rearrange habitat. A river is therefore a process unfolding across a corridor, not only a fixed line on a map. This wider view matters for salmon, which need different conditions at different life stages. It also explains why restoring one barrier or one bank may be valuable without resolving every pressure experienced across an entire life cycle.
+Following the river upstream connects lowland forest with higher valleys and lakes. Following it through time reveals more than a fixed channel: water levels change, floods move material, and banks and vegetation interact. Rain, snowmelt and water stored within a watershed contribute in different proportions among seasons and rivers. Staircase supplies a particular setting for that wider principle. We next compare it with Sol Duc, where falls, pools and forest make another arrangement of moving water.
 
-Salmon make the connection between freshwater corridors and the ocean visible.
+Across the peninsula in Sol Duc, the river’s shape becomes especially visible where water drops over rock.
+
+## Sol Duc: falls, forest and river habitat
+
+Point: wood-and-cold-water
+
+The Sol Duc landscape connects old-growth forest, waterfalls, subalpine lakes and snowy peaks. At Sol Duc Falls, water drops over a rocky ledge; along the wider river corridor, pools, faster channels and quieter margins offer different conditions. A river has a structure as well as a direction of flow.
+
+Large wood elsewhere in a channel can redirect water and help form pools and side channels. Shade, flow and connections within the watershed also matter to habitat. These processes vary from reach to reach; a scenic waterfall does not describe every part of the river. Sol Duc’s Salmon Cascades adds another relationship: coho can be seen negotiating the cascade during their seasonal migration. The details of passage and the changing conditions along a river become consequential when a fish must move between several habitats.
+
+To understand why those different habitats matter, follow a salmon through its whole life.
 
 ## One life, several habitats
 
 Point: salmon-life
 
-Anadromous salmon begin life in freshwater, spend part of their lives at sea and return to freshwater to reproduce. Eggs develop in gravel, young fish use rearing habitats, and migrating fish pass through the changing conditions of estuaries. The timing and habitat requirements differ among species and populations.
+Anadromous salmon begin life in freshwater, spend part of their lives at sea and return to freshwater to reproduce. Eggs develop in gravel; young fish use rearing habitats before moving toward the ocean. Species and populations differ in timing and in the places they need. Sol Duc coho and Quinault sockeye belong to the same wider story without following identical schedules.
 
-This is more than a migration story with a starting line and finish. A place can be essential for a brief but consequential stage. Access to upstream habitat matters, yet so do conditions for juveniles, the transition to salt water and survival at sea. Following the whole life cycle prevents an overly simple interpretation of a restored river: an open route is a major change, while population recovery also depends on what happens throughout that route and beyond it.
+A habitat may be essential for only a short stage of that life. A sheltered rearing place and an estuary serve different needs from an upstream spawning bed. Following the whole cycle also carries us beyond the park boundary, into coastal and open-ocean conditions. This is why a river’s apparent abundance on one day cannot describe every stage of a population’s future. The return migration brings another connection into view: material acquired at sea moving inland.
 
-When adult salmon return, they carry more than their own next generation upstream.
+The returning fish carry the ocean into freshwater food webs.
 
-## The ocean returns upstream
+## Food webs carry the ocean inland
 
 Point: ocean-in-the-forest
 
-Salmon acquire much of their body mass at sea. Returning adults bring marine-derived nutrients into freshwater systems, where those nutrients can enter other organisms and food webs. Predators, scavengers and decomposition create several routes for that transfer. The river’s traffic is not all downstream.
+Returning salmon bring marine-derived nutrients into freshwater systems. Predators and scavengers feed on fish; decomposition offers another route into the food web. The Queets valley illustrates this connection among river, wildlife and forest. Eagles, otters and other consumers move material through feeding relationships, while organisms much smaller than a salmon take part in its eventual breakdown.
 
-Research on the Elwha used stable isotopes to examine the return of marine-derived nutrients after dam removal, including evidence in aquatic invertebrates and American dippers. Isotopic patterns can help trace nutrient sources; they are not a visual label on every atom. The important result is the restoration of a connection that a barrier had interrupted. This makes the idea of an isolated forest or stream less convincing. Parts of a freshwater food web can carry a chemical history that includes the ocean.
+This complements the elk browsing and nurse-log decay we encountered in the forest. A landscape is continually rearranging living and once-living material. Nutrients can travel downstream with water and upstream in fish, crossing the apparent boundary between forest and sea. The amounts and pathways vary, so a conceptual illustration should not be mistaken for a measurement at every tree. The broader lesson is the connection itself: understanding a community requires looking beyond the place where we first notice it.
 
-Lake Quinault adds another habitat and another distinct salmon story to this network.
+Within that shared pattern, Lake Quinault supports a distinctive salmon story guided by the Nation’s own fisheries work.
 
 ## Blueback and Lake Quinault
 
@@ -170,17 +180,7 @@ Quinault blueback are a sockeye salmon population with deep cultural, ecological
 
 That connection makes the lake more than a scenic widening of the watershed. Conditions within it can matter to a fish population whose later journey reaches far beyond it. Read the Nation’s fisheries information as a specific account of these fish, rather than substituting a generic salmon diagram for their particular life history. The word “salmon” gathers many different strategies together; conservation has to attend to the differences. A deeper investigation will return to what lake managers still need to measure and understand.
 
-Along the river, the shape and temperature of available habitat also matter.
-
-## Wood can reshape a river
-
-Point: wood-and-cold-water
-
-The Quinault Indian Nation’s water-quality work connects cool, clean water with fish, wildlife and human uses. Its account of river restoration describes degraded floodplain conditions and efforts to recover habitat complexity, including the role of large wood. A logjam can redirect flow and influence the formation of pools and side channels.
-
-The value is not that wood makes every spot equally suitable. Complexity can create differences: fast and slow water, exposed and sheltered areas, and connections to other parts of the floodplain. Those differences can provide options as flow and temperature change. A restoration claim should therefore name the process and the intended habitat response, then measure whether that response occurs. The same attention to process will help us understand a larger intervention on the Elwha.
-
-The Elwha offers a large-scale example of reconnecting processes that dams had interrupted.
+Quinault shows why particular populations matter; the Elwha now offers a different example, where people reopened an obstructed route.
 
 ## The Elwha reconnects
 
@@ -202,25 +202,25 @@ Each method has a scope. Seeing or detecting a species in newly accessible habit
 
 Reconnection also changes the shore where the river meets the sea.
 
-## A river rebuilds its coast
+## Where rivers meet the coast
 
 Point: sediment-to-sea
 
-The Elwha dams had trapped sediment that would otherwise move downstream. Their removal allowed a major sediment pulse to reach the river mouth and adjacent coast. USGS research describes changes in coastal habitats and biological communities associated with that release.
+Rivers transport material as well as water. At a river mouth, that sediment enters a coast also shaped by waves and currents. Sand, gravel and finer particles can be deposited or moved again, changing the surfaces available to living organisms. The shoreline is part of a continuing exchange with inland watersheds and the sea.
 
-Those changes were not identical everywhere. Deposited sand and mud altered the seabed, and some places developed habitat suitable for soft-bottom organisms. A restoration can therefore produce gains, disruptions and rearrangements at different locations and times. This does not make the outcome meaningless; it makes the question more precise. Which habitat changed, for which organisms, and over what interval? Following sediment to the coast reveals a connection that is easy to miss when attention stops at the former dam sites.
+The Elwha provides a documented example: dam removal released trapped sediment, changing coastal habitats near its mouth. USGS studies found different biological responses in different places, rather than one uniform outcome. That particular event helps explain a broader coastal process without standing in for the whole Pacific shore. Beyond river mouths, Olympic’s beaches alternate with rocky headlands and offshore stacks. Our attention now moves from transported grains to larger rock forms, and from freshwater visitors to the animals that live along the coast.
 
-Beyond the river mouth, waves and rock shape another set of coastal habitats.
+At Rialto Beach and Hole-in-the-Wall, the relationship between rock, waves and habitat comes into view.
 
-## The peninsula’s changing edge
+## Rialto: rock, waves and coastal wildlife
 
 Point: rocky-edge
 
-Olympic’s coast contains headlands, beaches, offshore stacks and arches. Differences in rock and exposure help produce that varied edge as waves and weather remove material over time. The Hole-in-the-Wall photograph offers one visible example of an eroded coastal opening.
+At Hole-in-the-Wall, north of Rialto Beach, an eroded opening frames the Pacific coast. Headlands, beaches and offshore stacks give Olympic’s shoreline a changing outline. Differences in rock and exposure influence erosion, leaving shapes that will themselves continue to change.
 
-Geology also supplies habitat. Offshore rocks support seabirds, while cracks and basins create shelter or retain water. The pitted boulder in the media collection shows another connection: piddock clams bore into rock. Organisms do not merely occupy a finished landscape; some modify the surfaces they inhabit. Our journey began with oceanic material becoming mountains. At the shore, rock is being broken down and worked again, while life makes use of the temporary forms that remain.
+Those forms also create habitat. Offshore islands provide nesting places for seabirds such as common murres and tufted puffins, while sheltered basins retain water as the tide falls. The park’s coast belongs to a larger marine system, with feeding waters and protected islands extending beyond the beach. Our opening view connected distant mountains; here, an arch and a nesting rock make the same relationship between physical structure and living opportunity visible at a smaller scale. Looking down again, the coast resolves into the crowded community of a tidepool.
 
-At the waterline, the timing of exposure becomes a powerful ecological force.
+Within a single tidepool, small differences in height and exposure create another set of worlds.
 
 ## Life between immersion and air
 
@@ -310,7 +310,7 @@ The open question: How can researchers separate natural variability from warming
 
 A way to investigate: Combine repeated biological surveys with temperature and chemistry records, compare sites with different exposures, and test mechanisms where suitable. This is a proposed reasoning path based on the monitoring programs, not a claim that all causes are equally likely or currently unstudied.
 
-Our final question returns to Quinault, where evidence and stewardship meet in a specific lake.
+Finally, we consider how a specific data gap becomes a stewardship decision, using Lake Quinault as one example.
 
 ## What does Lake Quinault still need us to learn?
 
@@ -324,4 +324,4 @@ The open question: Which information would most improve decisions about lake hab
 
 A way to investigate: Follow the Nation’s published assessments and planning updates. A useful next inquiry would identify an explicit data gap, the decision it affects and an appropriate measurement. Do not assume that collecting more data automatically resolves questions of values or governance.
 
-The spiral ends here, but the connections remain open. Return to the whole peninsula, revisit a source, or carry a question into another ORB.
+The spiral opens back onto the whole park: Lake Crescent’s basin, Hurricane Ridge’s meadows, the Hoh and Queets forests, Staircase and Sol Duc, and the living Pacific shore. Their differences are part of their connection. Return to any place, or carry one carefully framed question into another ORB.
