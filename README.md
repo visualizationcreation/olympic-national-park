@@ -41,3 +41,5 @@ Open `rest.html` for the complete 40:17 Rest Journey, narrated by Microsoft Aria
 Playback uses `olympic-rest.mp3` (64 kbps mono) with 91 paragraph cues and sentence captions. The course pauses when opening a source point, and preserves its place separately from the source reader. Download the MP3 for audio-only use; an offline narrated copy needs the whole folder, not just index.html.
 
 The browser can record actual playback as WebM. MP4 export is performed by a separate local production helper; exported production masters are not hosted on Pages. Full listening review for pronunciation and narrative quality remains pending.
+
+Playback entry points: Start Rest Journey always opens at 0:00. Listen from this point opens the named point. Saved listening progress is offered with an explicit Resume saved place button; it is never silently applied on arrival. Start from beginning restarts playback at the opening.
