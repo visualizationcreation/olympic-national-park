@@ -5,7 +5,7 @@
   "edition": "A journey across the park · Reading edition",
   "authored": "2026-09-07",
   "root": "one-peninsula",
-  "narrationReady": false,
+  "narrationReady": true,
   "points": [
     {
       "id": "one-peninsula",
@@ -2217,5 +2217,50 @@
   "archive": "https://visualizationcreation.github.io/orb-archive/",
   "mediaRevision": "2026-09-07-v2-park-wide",
   "mediaPolicy": "Every point has its own visual; no asset is reused by a different point.",
-  "contentRevision": "2026-09-07-v2-park-wide"
+  "contentRevision": "2026-09-07-v2-park-wide",
+  "journeys": [
+    {
+      "id": "olympic-rest-full",
+      "style": "rest",
+      "label": "Rest Journey",
+      "url": "rest.html",
+      "script": "rest-journey.json",
+      "scriptRevision": "ee665e3babba598a",
+      "audioReady": true,
+      "durationSeconds": 2417.656,
+      "voice": "Microsoft Aria",
+      "pointIds": [
+        "one-peninsula",
+        "living-homelands",
+        "shared-stewardship",
+        "ozette-memory",
+        "seafloor-to-summit",
+        "ice-carved-land",
+        "rain-shadow",
+        "glacier-budget",
+        "forest-mosaic",
+        "olympic-marmot",
+        "rainforest-layers",
+        "fallen-wood",
+        "fire-in-wet-country",
+        "river-continuum",
+        "wood-and-cold-water",
+        "salmon-life",
+        "ocean-in-the-forest",
+        "quinault-blueback",
+        "elwha-reconnection",
+        "tracking-return",
+        "sediment-to-sea",
+        "rocky-edge",
+        "between-the-tides",
+        "reading-the-evidence",
+        "floor-ice",
+        "floor-forest",
+        "floor-marmot",
+        "floor-salmon",
+        "floor-coast",
+        "floor-quinault"
+      ]
+    }
+  ]
 }
