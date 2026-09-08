@@ -32,14 +32,18 @@ Each of the 30 points has an exclusive media asset. No image is shared between p
 
 The 30 stable point IDs and six research-floor investigations are preserved. Lake Crescent, Hurricane Ridge, Hoh, Queets, Staircase and Sol Duc now have substantive readings and exclusive location-matched photographs. The marmot follows the high-country setting; Sol Duc leads into salmon life stages. Repeated Quinault and Elwha framing has been reduced, and the final transition returns to the whole park.
 
-The connected reading source contains 4340 spoken words including transitions and floor questions/methods. The new Rest Journey has a measured narration runtime of 40:17. A Rest adaptation is now available; a full listening review remains pending.
+The connected reading source contains 4340 spoken words including transitions and floor questions/methods. The new Rest Journey has a measured narration runtime of 48:33. A Rest adaptation is now available; a full listening review remains pending.
 
 ## Rest Journey
 
-Open `rest.html` for the complete 40:17 Rest Journey, narrated by Microsoft Aria. All 30 points retain their source mappings, research qualifications and exclusive visuals. `rest-journey.md` is the canonical authored Rest text; `rest-journey.json` and `rest-data.js` carry the matching script, media and measured cues. The original source readings and `journey.md` remain separate.
+Open `rest.html` for the complete 48:33 Rest Journey, narrated by Microsoft Aria. All 30 points retain their source mappings, research qualifications and exclusive visuals. `rest-journey.md` is the canonical authored Rest text; `rest-journey.json` and `rest-data.js` carry the matching script, media and measured cues. The original source readings and `journey.md` remain separate.
 
-Playback uses `olympic-rest.mp3` (64 kbps mono) with 91 paragraph cues and sentence captions. The course pauses when opening a source point, and preserves its place separately from the source reader. Download the MP3 for audio-only use; an offline narrated copy needs the whole folder, not just index.html.
+Playback uses `olympic-rest.mp3` (64 kbps mono) with 180 paragraph cues and sentence captions. The course pauses when opening a source point, and preserves its place separately from the source reader. Download the MP3 for audio-only use; an offline narrated copy needs the whole folder, not just index.html.
 
 The browser can record actual playback as WebM. MP4 export is performed by a separate local production helper; exported production masters are not hosted on Pages. Full listening review for pronunciation and narrative quality remains pending.
 
 Playback entry points: Start Rest Journey always opens at 0:00. Listen from this point opens the named point. Saved listening progress is offered with an explicit Resume saved place button; it is never silently applied on arrival. Start from beginning restarts playback at the opening.
+
+## Guided Rest revision 2
+
+The complete script has been rewritten as optional, second-person guided imagery. All 30 points use new Microsoft Aria narration at -15% rate. The measured runtime is 48:33, including 63 authored pauses totaling 250 seconds. Pause directions are not spoken. Caption timestamps and paragraph cues were rebuilt from the new recording. Saved times from revision 1 are not silently reused. All source readings, six knowledge-floor questions, and 30 exclusive visuals remain intact. Full listening review remains pending.
