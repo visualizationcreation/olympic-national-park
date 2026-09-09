@@ -1,0 +1,16 @@
+{
+  "title": "Olympic Forest — Mist, Canopy, Water",
+  "file": "olympic-forest-drone-v1.mp3",
+  "durationSeconds": 142.0,
+  "loop": true,
+  "creation": "Local ACE-Step 1.5 turbo instrumental with authored synthesized rain, canopy and distant-water textures. An imagined Olympic-inspired soundscape, not an on-location field recording.",
+  "model": "acestep-v15-turbo",
+  "seed": 24090917,
+  "prompt": "Extremely quiet temperate rainforest ambient drone, Olympic Peninsula mist beneath ancient cedar and western hemlock, soft distant flowing water, rain filtering through moss and leaves, wide diffuse airy stereo space, sustained warm D and A tones with slowly shifting overtones, peaceful grounded spacious forest atmosphere for gentle spoken narration, nearly motionless harmony, very soft high frequencies, uninterrupted consistent texture, no foreground melody, no percussion, no rhythmic pulse, no dramatic swells, no bells, no singing, no choir, no spoken words.",
+  "crossfadeSeconds": 8,
+  "masterRmsDbfs": -28.51297378540039,
+  "peakDbfs": -9.392292022705078,
+  "defaultPlaybackVolume": 0.35,
+  "sha256": "3ab8b85901b12bf0862b044a4af39dea095687f706c567887b9944ba1a90d4fc",
+  "fullListeningReview": false
+}
