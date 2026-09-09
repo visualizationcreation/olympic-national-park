@@ -1,6 +1,6 @@
 {
   "contentRevision": "2026-09-08-expanded-72",
-  "status": "Both 72-point Spiral Courses recorded with local Bella; every point illustrated.",
+  "status": "Both 72-point courses ready. Feel & Experience now uses the primary-authored Dreaming Olympic script and matching local Bella narration.",
   "narration": "Two complete continuous 72-point scripts recorded locally with Kokoro Bella: ORB Learn and ORB Feel & Experience. Saved audio and measured paragraph cues are in courses.json.",
   "images": "All 72 points illustrated: 30 retained assets, 31 new local FLUX.2 Klein illustrations, nine authored explanatory diagrams and two additional credited NPS photographs.",
   "music": "Develop original instrumental beds by landscape and sequence after narration pacing is established. Existing tracks have not been assigned to this edition.",
@@ -1179,10 +1179,10 @@
       "style": "rest",
       "name": "ORB Feel & Experience — Guided Audio Journey",
       "url": "courses.html?mode=feel",
-      "durationSeconds": 2736.9415,
+      "durationSeconds": 3009.765125,
       "voice": "Kokoro Bella",
       "pointCount": 72,
-      "scriptRevision": "2026-09-08-feel-88ac29f19321",
+      "scriptRevision": "guided-dream-df047ae4b1f6c909",
       "narrationReady": true
     }
   ],

@@ -6142,10 +6142,10 @@
       "style": "rest",
       "name": "ORB Feel & Experience — Guided Audio Journey",
       "url": "courses.html?mode=feel",
-      "durationSeconds": 2736.9415,
+      "durationSeconds": 3009.765125,
       "voice": "Kokoro Bella",
       "pointCount": 72,
-      "scriptRevision": "2026-09-08-feel-88ac29f19321",
+      "scriptRevision": "guided-dream-df047ae4b1f6c909",
       "narrationReady": true
     }
   ]
