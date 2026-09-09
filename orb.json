@@ -5,7 +5,7 @@
   "edition": "The living landscape · Expanded reading edition",
   "authored": "2026-09-08",
   "root": "one-peninsula",
-  "narrationReady": false,
+  "narrationReady": true,
   "points": [
     {
       "id": "one-peninsula",
@@ -97,7 +97,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-park-and-peninsula"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -135,7 +137,8 @@
         "backward": "Beginning of this authored investigation thread."
       },
       "seed": "Continue Olympic National Park from A park boundary is not a watershed boundary. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, living homelands. The human story belongs in the present tense."
+      "bridge": "Next, living homelands. The human story belongs in the present tense.",
+      "media": "olympic-park-and-peninsula"
     },
     {
       "id": "living-homelands",
@@ -221,7 +224,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-tribal-sovereignty"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -257,7 +262,8 @@
         "down": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
       },
       "seed": "Continue Olympic National Park from Reading living governments in their own words. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, stewardship across boundaries. Protection connects governments, habitats and responsibilities."
+      "bridge": "Next, stewardship across boundaries. Protection connects governments, habitats and responsibilities.",
+      "media": "olympic-tribal-sovereignty"
     },
     {
       "id": "shared-stewardship",
@@ -406,7 +412,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-ozette-archaeology"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -444,7 +452,8 @@
         "forward": "End of this authored investigation thread; continue through the compass or spiral."
       },
       "seed": "Continue Olympic National Park from At Ozette, preservation changes the questions. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, from seafloor to summit. Oceanic rocks can form mountains without making a volcanic mountain range."
+      "bridge": "Next, from seafloor to summit. Oceanic rocks can form mountains without making a volcanic mountain range.",
+      "media": "olympic-ozette-archaeology"
     },
     {
       "id": "seafloor-to-summit",
@@ -533,7 +542,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-crescent-basalt"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -571,7 +582,8 @@
         "backward": "Beginning of this authored investigation thread."
       },
       "seed": "Continue Olympic National Park from Basalt records an oceanic beginning. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, how ocean sediments join a growing mountain range. Subduction, deformation and erosion work on different parts of one system."
+      "bridge": "Next, how ocean sediments join a growing mountain range. Subduction, deformation and erosion work on different parts of one system.",
+      "media": "olympic-crescent-basalt"
     },
     {
       "id": "accretion-and-uplift",
@@ -596,7 +608,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-accretion-and-uplift"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -632,7 +646,8 @@
         "down": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
       },
       "seed": "Continue Olympic National Park from How ocean sediments join a growing mountain range. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, lake crescent: a basin with a history. A quiet lake holds evidence of moving ice and later isolation."
+      "bridge": "Next, lake crescent: a basin with a history. A quiet lake holds evidence of moving ice and later isolation.",
+      "media": "olympic-accretion-and-uplift"
     },
     {
       "id": "ice-carved-land",
@@ -720,7 +735,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-glacial-valleys"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -756,7 +773,8 @@
         "down": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
       },
       "seed": "Continue Olympic National Park from Two scales of ice shaped the peninsula. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, isolation lives on in lake crescent's trout. A change in drainage can become a biological difference."
+      "bridge": "Next, isolation lives on in lake crescent's trout. A change in drainage can become a biological difference.",
+      "media": "olympic-glacial-valleys"
     },
     {
       "id": "crescent-trout",
@@ -780,7 +798,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-crescent-trout"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -816,7 +836,8 @@
         "down": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
       },
       "seed": "Continue Olympic National Park from Isolation lives on in Lake Crescent's trout. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, the mountains divide the weather. Exposure matters as much as distance."
+      "bridge": "Next, the mountains divide the weather. Exposure matters as much as distance.",
+      "media": "olympic-crescent-trout"
     },
     {
       "id": "rain-shadow",
@@ -902,7 +923,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-snowpack-storage"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -936,7 +959,8 @@
       "lon": 294.59155,
       "edge": {},
       "seed": "Continue Olympic National Park from Snow delays the arrival of water. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, a glacier keeps a water budget. Accumulation and loss leave a measurable balance."
+      "bridge": "Next, a glacier keeps a water budget. Accumulation and loss leave a measurable balance.",
+      "media": "olympic-snowpack-storage"
     },
     {
       "id": "glacier-budget",
@@ -1026,7 +1050,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-blue-glacier-record"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1060,7 +1086,8 @@
       "lon": 336.67606,
       "edge": {},
       "seed": "Continue Olympic National Park from Blue Glacier: length is only one dimension. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, measure additions and losses before interpreting the balance. Mass balance compares accumulation with ablation over a defined interval."
+      "bridge": "Next, measure additions and losses before interpreting the balance. Mass balance compares accumulation with ablation over a defined interval.",
+      "media": "olympic-blue-glacier-record"
     },
     {
       "id": "mass-balance",
@@ -1083,7 +1110,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-mass-balance"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1117,7 +1146,8 @@
       "lon": 357.71831,
       "edge": {},
       "seed": "Continue Olympic National Park from Measure additions and losses before interpreting the balance. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, less ice does not translate into one simple runoff curve. A shrinking store can release water while losing its future buffering capacity."
+      "bridge": "Next, less ice does not translate into one simple runoff curve. A shrinking store can release water while losing its future buffering capacity.",
+      "media": "olympic-mass-balance"
     },
     {
       "id": "summer-streamflow",
@@ -1141,7 +1171,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-summer-streamflow"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1175,7 +1207,8 @@
       "lon": 378.76056,
       "edge": {},
       "seed": "Continue Olympic National Park from Less ice does not translate into one simple runoff curve. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, hurricane ridge: where forest opens into meadow. Snow, exposure and a short growing season shape the high country."
+      "bridge": "Next, hurricane ridge: where forest opens into meadow. Snow, exposure and a short growing season shape the high country.",
+      "media": "olympic-summer-streamflow"
     },
     {
       "id": "forest-mosaic",
@@ -1268,7 +1301,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-treeline-patterns"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1302,7 +1337,8 @@
       "lon": 420.84507,
       "edge": {},
       "seed": "Continue Olympic National Park from Treeline is a patchwork of opportunities and constraints. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, the meadow has a calendar of its own. Timing connects snowmelt, flowering and the short mountain growing season."
+      "bridge": "Next, the meadow has a calendar of its own. Timing connects snowmelt, flowering and the short mountain growing season.",
+      "media": "olympic-treeline-patterns"
     },
     {
       "id": "meadow-phenology",
@@ -1326,7 +1362,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-meadow-phenology"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1360,7 +1398,8 @@
       "lon": 441.88732,
       "edge": {},
       "seed": "Continue Olympic National Park from The meadow has a calendar of its own. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, restoration includes the history of introductions. An animal's presence is not enough to establish that it belongs naturally here."
+      "bridge": "Next, restoration includes the history of introductions. An animal's presence is not enough to establish that it belongs naturally here.",
+      "media": "olympic-meadow-phenology"
     },
     {
       "id": "mountain-goat-removal",
@@ -1383,7 +1422,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-mountain-goat-removal"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1420,7 +1461,8 @@
         "forward": "End of this authored investigation thread; continue through the compass or spiral."
       },
       "seed": "Continue Olympic National Park from Restoration includes the history of introductions. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, a life found only here. The Olympic marmot makes the peninsula’s distinctiveness tangible."
+      "bridge": "Next, a life found only here. The Olympic marmot makes the peninsula’s distinctiveness tangible.",
+      "media": "olympic-mountain-goat-removal"
     },
     {
       "id": "olympic-marmot",
@@ -1509,7 +1551,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-island-evolution"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1543,7 +1587,8 @@
       "lon": 505.01408,
       "edge": {},
       "seed": "Continue Olympic National Park from A mountain range can function like an island. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, a short feeding season supports a long winter. A marmot's yearly energy budget links meadow plants to survival."
+      "bridge": "Next, a short feeding season supports a long winter. A marmot's yearly energy budget links meadow plants to survival.",
+      "media": "olympic-island-evolution"
     },
     {
       "id": "marmot-hibernation",
@@ -1567,7 +1612,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-marmot-hibernation"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1601,7 +1648,8 @@
       "lon": 526.05634,
       "edge": {},
       "seed": "Continue Olympic National Park from A short feeding season supports a long winter. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, hoh: the forest above the forest. Look upward through several living layers of temperate rainforest."
+      "bridge": "Next, hoh: the forest above the forest. Look upward through several living layers of temperate rainforest.",
+      "media": "olympic-marmot-hibernation"
     },
     {
       "id": "rainforest-layers",
@@ -1688,7 +1736,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-elk-browsing"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1725,7 +1775,8 @@
         "backward": "Beginning of this authored investigation thread."
       },
       "seed": "Continue Olympic National Park from The understory is also shaped by mouths and movement. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, plants can live on a tree without being the tree. An epiphyte uses another plant as a surface on which to grow."
+      "bridge": "Next, plants can live on a tree without being the tree. An epiphyte uses another plant as a surface on which to grow.",
+      "media": "olympic-elk-browsing"
     },
     {
       "id": "canopy-epiphytes",
@@ -1749,7 +1800,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-canopy-epiphytes"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1783,7 +1836,8 @@
       "lon": 589.1831,
       "edge": {},
       "seed": "Continue Olympic National Park from Plants can live on a tree without being the tree. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, queets: the life of a fallen tree. Old wood, new roots and browsing animals shape the forest together."
+      "bridge": "Next, queets: the life of a fallen tree. Old wood, new roots and browsing animals shape the forest together.",
+      "media": "olympic-canopy-epiphytes"
     },
     {
       "id": "fallen-wood",
@@ -1872,7 +1926,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-nurse-logs"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1906,7 +1962,8 @@
       "lon": 631.26761,
       "edge": {},
       "seed": "Continue Olympic National Park from A fallen trunk becomes a place to begin. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, decomposition is a transformation, not disappearance. Wood becomes habitat and enters longer material cycles."
+      "bridge": "Next, decomposition is a transformation, not disappearance. Wood becomes habitat and enters longer material cycles.",
+      "media": "olympic-nurse-logs"
     },
     {
       "id": "decay-and-soil",
@@ -1930,7 +1987,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-decay-and-soil"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -1964,7 +2023,8 @@
       "lon": 652.30986,
       "edge": {},
       "seed": "Continue Olympic National Park from Decomposition is a transformation, not disappearance. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, even wet forests have fire histories. A rainy reputation does not erase disturbance."
+      "bridge": "Next, even wet forests have fire histories. A rainy reputation does not erase disturbance.",
+      "media": "olympic-decay-and-soil"
     },
     {
       "id": "fire-in-wet-country",
@@ -2048,7 +2108,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-fire-records"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2082,7 +2144,8 @@
       "lon": 694.39437,
       "edge": {},
       "seed": "Continue Olympic National Park from How a forest keeps evidence of fire. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, staircase: a different side of olympic. The North Fork Skokomish connects a southeastern valley with mountain headwaters."
+      "bridge": "Next, staircase: a different side of olympic. The North Fork Skokomish connects a southeastern valley with mountain headwaters.",
+      "media": "olympic-fire-records"
     },
     {
       "id": "river-continuum",
@@ -2171,7 +2234,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-douglas-fir-pattern"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2205,7 +2270,8 @@
       "lon": 736.47887,
       "edge": {},
       "seed": "Continue Olympic National Park from Staircase makes the forest contrast tangible. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, the river includes places outside its main channel. Side channels and floodplains change the habitat available to young fish."
+      "bridge": "Next, the river includes places outside its main channel. Side channels and floodplains change the habitat available to young fish.",
+      "media": "olympic-douglas-fir-pattern"
     },
     {
       "id": "floodplain-channels",
@@ -2230,7 +2296,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-floodplain-channels"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2264,7 +2332,8 @@
       "lon": 757.52113,
       "edge": {},
       "seed": "Continue Olympic National Park from The river includes places outside its main channel. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, sol duc: falls, forest and river habitat. A river’s shape changes what its water and wildlife can do."
+      "bridge": "Next, sol duc: falls, forest and river habitat. A river’s shape changes what its water and wildlife can do.",
+      "media": "olympic-floodplain-channels"
     },
     {
       "id": "wood-and-cold-water",
@@ -2354,7 +2423,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-stream-temperature"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2388,7 +2459,8 @@
       "lon": 799.60563,
       "edge": {},
       "seed": "Continue Olympic National Park from A cool river can still contain important temperature differences. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, small organisms make a river's food web visible. Monitoring life in the stream adds information beyond the water's appearance."
+      "bridge": "Next, small organisms make a river's food web visible. Monitoring life in the stream adds information beyond the water's appearance.",
+      "media": "olympic-stream-temperature"
     },
     {
       "id": "aquatic-insects",
@@ -2411,7 +2483,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-aquatic-insects"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2448,7 +2522,8 @@
         "forward": "End of this authored investigation thread; continue through the compass or spiral."
       },
       "seed": "Continue Olympic National Park from Small organisms make a river's food web visible. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, one life, several habitats. Migration links stages with different needs."
+      "bridge": "Next, one life, several habitats. Migration links stages with different needs.",
+      "media": "olympic-aquatic-insects"
     },
     {
       "id": "salmon-life",
@@ -2537,7 +2612,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-salmon-redds"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2574,7 +2651,8 @@
         "backward": "Beginning of this authored investigation thread."
       },
       "seed": "Continue Olympic National Park from The next generation begins within the gravel. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, going to sea is a bodily transition as well as a journey. Young salmon change while moving between fresh and salt water."
+      "bridge": "Next, going to sea is a bodily transition as well as a journey. Young salmon change while moving between fresh and salt water.",
+      "media": "olympic-salmon-redds"
     },
     {
       "id": "smolt-transition",
@@ -2598,7 +2676,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-smolt-transition"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2632,7 +2712,8 @@
       "lon": 883.77465,
       "edge": {},
       "seed": "Continue Olympic National Park from Going to sea is a bodily transition as well as a journey. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, food webs carry the ocean inland. Feeding and decomposition connect habitats in both directions."
+      "bridge": "Next, food webs carry the ocean inland. Feeding and decomposition connect habitats in both directions.",
+      "media": "olympic-smolt-transition"
     },
     {
       "id": "ocean-in-the-forest",
@@ -2720,7 +2801,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-tracing-marine-nutrients"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2754,7 +2837,8 @@
       "lon": 925.85915,
       "edge": {},
       "seed": "Continue Olympic National Park from How would you show that the ocean reached the food web?. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, blueback and lake quinault. A lake is part of this salmon’s life history."
+      "bridge": "Next, blueback and lake quinault. A lake is part of this salmon’s life history.",
+      "media": "olympic-tracing-marine-nutrients"
     },
     {
       "id": "quinault-blueback",
@@ -2842,7 +2926,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-lake-water-column"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2876,7 +2962,8 @@
       "lon": 967.94366,
       "edge": {},
       "seed": "Continue Olympic National Park from The lake has depth in an ecological sense. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, follow blueback through more than one count. A lake-dependent life history calls for measurements at several stages."
+      "bridge": "Next, follow blueback through more than one count. A lake-dependent life history calls for measurements at several stages.",
+      "media": "olympic-lake-water-column"
     },
     {
       "id": "blueback-monitoring",
@@ -2901,7 +2988,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-blueback-monitoring"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -2938,7 +3027,8 @@
         "forward": "End of this authored investigation thread; continue through the compass or spiral."
       },
       "seed": "Continue Olympic National Park from Follow blueback through more than one count. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, the elwha reconnects. Dam removal began a new chapter; it did not finish the river’s work."
+      "bridge": "Next, the elwha reconnects. Dam removal began a new chapter; it did not finish the river’s work.",
+      "media": "olympic-blueback-monitoring"
     },
     {
       "id": "elwha-reconnection",
@@ -3024,7 +3114,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-elwha-sediment-pulse"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3061,7 +3153,8 @@
         "backward": "Beginning of this authored investigation thread."
       },
       "seed": "Continue Olympic National Park from Reopening the river also reopened a sediment pathway. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, former reservoir beds became a restoration landscape. Removing concrete exposed a second task: the recovery of vegetation."
+      "bridge": "Next, former reservoir beds became a restoration landscape. Removing concrete exposed a second task: the recovery of vegetation.",
+      "media": "olympic-elwha-sediment-pulse"
     },
     {
       "id": "reservoir-revegetation",
@@ -3085,7 +3178,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-reservoir-revegetation"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3119,7 +3214,8 @@
       "lon": 1052.11268,
       "edge": {},
       "seed": "Continue Olympic National Park from Former reservoir beds became a restoration landscape. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, how do we know fish returned?. A restored connection becomes a testable observation."
+      "bridge": "Next, how do we know fish returned?. A restored connection becomes a testable observation.",
+      "media": "olympic-reservoir-revegetation"
     },
     {
       "id": "tracking-return",
@@ -3205,7 +3301,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-edna-sampling"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3239,7 +3337,8 @@
       "lon": 1094.19718,
       "edge": {},
       "seed": "Continue Olympic National Park from A water sample can carry evidence of fish. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, presence, abundance and recovery are different measurements. Choose the outcome before choosing the evidence."
+      "bridge": "Next, presence, abundance and recovery are different measurements. Choose the outcome before choosing the evidence.",
+      "media": "olympic-edna-sampling"
     },
     {
       "id": "fish-abundance",
@@ -3263,7 +3362,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-fish-abundance"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3297,7 +3398,8 @@
       "lon": 1115.23944,
       "edge": {},
       "seed": "Continue Olympic National Park from Presence, abundance and recovery are different measurements. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, where rivers meet the coast. Moving sediment joins inland processes with coastal habitats."
+      "bridge": "Next, where rivers meet the coast. Moving sediment joins inland processes with coastal habitats.",
+      "media": "olympic-fish-abundance"
     },
     {
       "id": "sediment-to-sea",
@@ -3386,7 +3488,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-estuary-nursery"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3420,7 +3524,8 @@
       "lon": 1157.32394,
       "edge": {},
       "seed": "Continue Olympic National Park from The river mouth is a habitat, not just an exit. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, rialto: rock, waves and coastal wildlife. Headlands and offshore stacks create places to live."
+      "bridge": "Next, rialto: rock, waves and coastal wildlife. Headlands and offshore stacks create places to live.",
+      "media": "olympic-estuary-nursery"
     },
     {
       "id": "rocky-edge",
@@ -3507,7 +3612,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-sea-stack-landscape"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3541,7 +3648,8 @@
       "lon": 1199.40845,
       "edge": {},
       "seed": "Continue Olympic National Park from A sea stack is a surviving piece of a changing coast. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, winds can bring deep water into the sunlit sea. The coastal food web is connected to moving water beyond the beach."
+      "bridge": "Next, winds can bring deep water into the sunlit sea. The coastal food web is connected to moving water beyond the beach.",
+      "media": "olympic-sea-stack-landscape"
     },
     {
       "id": "coastal-upwelling",
@@ -3565,7 +3673,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-coastal-upwelling"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3599,7 +3709,8 @@
       "lon": 1220.4507,
       "edge": {},
       "seed": "Continue Olympic National Park from Winds can bring deep water into the sunlit sea. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, another forest begins below the waves. Kelp supplies structure in a marine habitat connected to the rocky coast."
+      "bridge": "Next, another forest begins below the waves. Kelp supplies structure in a marine habitat connected to the rocky coast.",
+      "media": "olympic-coastal-upwelling"
     },
     {
       "id": "kelp-forests",
@@ -3624,7 +3735,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-kelp-forests"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3658,7 +3771,8 @@
       "lon": 1241.49296,
       "edge": {},
       "seed": "Continue Olympic National Park from Another forest begins below the waves. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, life between immersion and air. A short vertical distance can change the conditions of an entire community."
+      "bridge": "Next, life between immersion and air. A short vertical distance can change the conditions of an entire community.",
+      "media": "olympic-kelp-forests"
     },
     {
       "id": "between-the-tides",
@@ -3746,7 +3860,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-tidal-zonation"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3780,7 +3896,8 @@
       "lon": 1283.57746,
       "edge": {},
       "seed": "Continue Olympic National Park from A little height changes a tidepool's world. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, a sensor record makes invisible conditions visible. Temperature, oxygen and chemistry can change without a change in scenery."
+      "bridge": "Next, a sensor record makes invisible conditions visible. Temperature, oxygen and chemistry can change without a change in scenery.",
+      "media": "olympic-tidal-zonation"
     },
     {
       "id": "coastal-measurements",
@@ -3805,7 +3922,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-coastal-measurements"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3839,7 +3958,8 @@
       "lon": 1304.61972,
       "edge": {},
       "seed": "Continue Olympic National Park from A sensor record makes invisible conditions visible. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, how to read a changing park. Observation, explanation and prediction are different steps."
+      "bridge": "Next, how to read a changing park. Observation, explanation and prediction are different steps.",
+      "media": "olympic-coastal-measurements"
     },
     {
       "id": "reading-the-evidence",
@@ -3930,7 +4050,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-evidence-baselines"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -3966,7 +4088,8 @@
         "down": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
       },
       "seed": "Continue Olympic National Park from Every claim of change has a starting point. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, turn a broad concern into a question evidence can answer. A useful investigation specifies an outcome, a comparison and a limit."
+      "bridge": "Next, turn a broad concern into a question evidence can answer. A useful investigation specifies an outcome, a comparison and a limit.",
+      "media": "olympic-evidence-baselines"
     },
     {
       "id": "research-design",
@@ -3991,7 +4114,9 @@
       "drift": "In view",
       "ab": 0,
       "tier": "detail",
-      "mediaPack": [],
+      "mediaPack": [
+        "olympic-research-design"
+      ],
       "legacyAudio": false,
       "children": [],
       "links": {
@@ -4029,7 +4154,8 @@
         "forward": "End of this authored investigation thread; continue through the compass or spiral."
       },
       "seed": "Continue Olympic National Park from Turn a broad concern into a question evidence can answer. Deepen the specific question using the attached primary evidence. Keep the root anchor and distinguish established findings, proposed explanations and missing research.",
-      "bridge": "Next, when does less ice become less summer water?. Ice loss is established; local downstream timing needs a finer account."
+      "bridge": "Next, when does less ice become less summer water?. Ice loss is established; local downstream timing needs a finer account.",
+      "media": "olympic-research-design"
     },
     {
       "id": "floor-ice",
@@ -5155,6 +5281,678 @@
       "rights": "NPS website photograph credited to NPS; no third-party copyright notice on source. https://www.nps.gov/aboutus/disclaimer.htm",
       "width": 300,
       "height": 400
+    },
+    "olympic-park-and-peninsula": {
+      "file": "olympic-park-and-peninsula.jpg",
+      "caption": "An elevated oblique conceptual view of a forested peninsula, snowy mountainous interior and a river winding into a separate ocean coast.",
+      "alt": "An elevated oblique conceptual view of a forested peninsula, snowy mountainous interior and a river winding into a separate ocean coast.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/index.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "park-and-peninsula",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "347a1f9e97f6eacb816fc6417ba3f7bd389941604fdccb8362f7b99b99b8ddd4",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-tribal-sovereignty": {
+      "file": "olympic-tribal-sovereignty.jpg",
+      "caption": "An imagined reading table. This does not depict an actual Tribal council chamber.",
+      "alt": "An imagined reading table. This does not depict an actual Tribal council chamber.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/historyculture/tribes-of-the-olympic-peninsula.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "tribal-sovereignty",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "23e694f18453f4af054ed73ab529ddc1ea551a3a6d8a6df456511b884ce06597",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-ozette-archaeology": {
+      "file": "olympic-ozette-archaeology.jpg",
+      "caption": "Schematic preservation of wood in sediment; not a reconstruction of actual Ozette objects.",
+      "alt": "Schematic preservation of wood in sediment; not a reconstruction of actual Ozette objects.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://makah.com/attractions/museum/",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "ozette-archaeology",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "5fb0fdc2d4c4ca2a87bc9edf1ce19112cc3ea0ecb95fcc2c0de2d30bfd84c5d0",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-crescent-basalt": {
+      "file": "olympic-crescent-basalt.jpg",
+      "caption": "A close natural-history illustration of rounded dark basalt pillow forms in a rock exposure, textured chilled margins and tiny mineral details, cool gray-blue light.",
+      "alt": "A close natural-history illustration of rounded dark basalt pillow forms in a rock exposure, textured chilled margins and tiny mineral details, cool gray-blue light.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/geology.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "crescent-basalt",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "744205b1fd0d7c6ce7d9cce00fc85d27f3f7ae1c3e517c2d3f8b01f775cb7967",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-accretion-and-uplift": {
+      "file": "diagram-accretion-and-uplift.svg",
+      "caption": "Assembly is different from excavation. Folded strata record deformation; valleys also record removal of material.",
+      "alt": "Assembly is different from excavation. Folded strata record deformation; valleys also record removal of material.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/subjects/geology/plate-tectonics-subduction-zones.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "accretion-and-uplift",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "dcfdeac39bea6bcb91ce4e6c0cede7f82c604bcb3899ad9bae9be2e1fecb2b6c",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-glacial-valleys": {
+      "file": "olympic-glacial-valleys.jpg",
+      "caption": "A wide elevated view of a U-shaped mountain valley with steep glacially smoothed sides and a narrow river on its flat floor, distant snowy ridges.",
+      "alt": "A wide elevated view of a U-shaped mountain valley with steep glacially smoothed sides and a narrow river on its flat floor, distant snowy ridges.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/geology.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "glacial-valleys",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "494063dbe8cab843ec2c961f39eadc7afdc35a897d13754e2f1472ed04d30d0e",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-crescent-trout": {
+      "file": "olympic-crescent-trout.jpg",
+      "caption": "Imagined trout in lake habitat; not a diagnostic portrait of a named population.",
+      "alt": "Imagined trout in lake habitat; not a diagnostic portrait of a named population.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/planyourvisit/visiting-lake-crescent.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "crescent-trout",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "f099162028653db71c59233ca19bc68bc57797e466258e29cc94e459ba7250e1",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-snowpack-storage": {
+      "file": "olympic-snowpack-storage.jpg",
+      "caption": "A close alpine slope where granular spring snow slowly melts into a narrow rivulet flowing around exposed stones.",
+      "alt": "A close alpine slope where granular spring snow slowly melts into a narrow rivulet flowing around exposed stones.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "snowpack-storage",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "80167993e58ef7b008ad0317c08089928fbe2787c7afc842d67ebe8dc00a7440",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-blue-glacier-record": {
+      "file": "olympic-blue-glacier-record.jpg",
+      "caption": "An oblique imagined glacier study scene: long pale blue glacier flowing between dark rocky ridges, visible crevasses, an observer-free surveying tripod on safe foreground rock.",
+      "alt": "An oblique imagined glacier study scene: long pale blue glacier flowing between dark rocky ridges, visible crevasses, an observer-free surveying tripod on safe foreground rock.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "blue-glacier-record",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "9a6f7d0af62c5d052f7622b027f4098bfd21bf39d5afad1873207c5c95dbbd2b",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-mass-balance": {
+      "file": "diagram-mass-balance.svg",
+      "caption": "An account of glacier gains and losses. A snowy winter can still be followed by a negative annual balance.",
+      "alt": "An account of glacier gains and losses. A snowy winter can still be followed by a negative annual balance.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/im/nccn/glaciers.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "mass-balance",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "93215e6aa6a6eb924070c947acaff1feceee200311d66949285aed5103dc0975",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-summer-streamflow": {
+      "file": "olympic-summer-streamflow.jpg",
+      "caption": "A mountain stream gathering water from a small snow patch, a distant glacier and a moist rocky spring along its bank.",
+      "alt": "A mountain stream gathering water from a small snow patch, a distant glacier and a moist rocky spring along its bank.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/glaciers.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "summer-streamflow",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "a01059a8d0d198f8be7080b0d4e2148123fde6f24e0c0c820cbcba7853768a79",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-treeline-patterns": {
+      "file": "olympic-treeline-patterns.jpg",
+      "caption": "A mountain meadow at treeline with scattered small conifers sheltered beside boulders and denser trees lower on the slope, lingering snow in a hollow.",
+      "alt": "A mountain meadow at treeline with scattered small conifers sheltered beside boulders and denser trees lower on the slope, lingering snow in a hollow.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/mountains.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "treeline-patterns",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "299719cf72eb1dae6a6771fffd07d05896a48f97897e63de42792e4ee88f0c2b",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-meadow-phenology": {
+      "file": "olympic-meadow-phenology.jpg",
+      "caption": "A low view of alpine meadow plants emerging at the edge of a retreating patch of spring snow, small buds and green shoots, some flowers in a nearby snow-free patch.",
+      "alt": "A low view of alpine meadow plants emerging at the edge of a retreating patch of spring snow, small buds and green shoots, some flowers in a nearby snow-free patch.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/rlc/northcoastcascades/research.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "meadow-phenology",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "06797e640f5f823208711eb774cc05a373973c72cb0c989cba4550cc7a9bd9e0",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-island-evolution": {
+      "file": "diagram-island-evolution.svg",
+      "caption": "An ecological island need not be an ocean island. For some high-country species, intervening lowlands can limit connections.",
+      "alt": "An ecological island need not be an ocean island. For some high-country species, intervening lowlands can limit connections.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "island-evolution",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "88523e12faa917ba11aa68d0c2a0e598697a39180dd3fbcc661d60e16e69ba3e",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-marmot-hibernation": {
+      "file": "olympic-marmot-hibernation.jpg",
+      "caption": "A gentle natural-history cutaway of an underground burrow beneath a rocky alpine meadow, one stocky tawny-gray marmot curled asleep in a dry chamber.",
+      "alt": "A gentle natural-history cutaway of an underground burrow beneath a rocky alpine meadow, one stocky tawny-gray marmot curled asleep in a dry chamber.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/olympic-marmot.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "marmot-hibernation",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "744d9511c8ce1ea2e09a492b323c2eaf8a2a6bb093ea21f44fa012e54475e119",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-canopy-epiphytes": {
+      "file": "olympic-canopy-epiphytes.jpg",
+      "caption": "A close detailed upward view of a thick temperate rainforest branch carrying moss cushions, lichens and small ferns, sunlight diffused through the canopy.",
+      "alt": "A close detailed upward view of a thick temperate rainforest branch carrying moss cushions, lichens and small ferns, sunlight diffused through the canopy.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "canopy-epiphytes",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "04e38b829d886f30482940885c18d6ad8d1d7e5aed9ac874ee39bd3f0d5230f3",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-nurse-logs": {
+      "file": "olympic-nurse-logs.jpg",
+      "caption": "A fallen decaying conifer trunk crossing the foreground, its soft mossy wood supporting several tiny conifer seedlings with fine roots settling into crevices.",
+      "alt": "A fallen decaying conifer trunk crossing the foreground, its soft mossy wood supporting several tiny conifer seedlings with fine roots settling into crevices.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/temperate-rain-forests.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "nurse-logs",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "cffec479d61e6a1ded68711465beb74cf51f747d253ce157d90414a46ac4b756",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-decay-and-soil": {
+      "file": "olympic-decay-and-soil.jpg",
+      "caption": "A ground-level naturalist view of decaying wood breaking into dark moist forest soil, fine fungal threads, a small fruiting mushroom and roots meeting the fragments.",
+      "alt": "A ground-level naturalist view of decaying wood breaking into dark moist forest soil, fine fungal threads, a small fruiting mushroom and roots meeting the fragments.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr461.pdf",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "decay-and-soil",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "b2e738066a332fb989f04f4203f4f9078a0c0e52807943b70031c7fc7aba5ec9",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-fire-records": {
+      "file": "diagram-fire-records.svg",
+      "caption": "Different clues, different reach. Compare dates, places and methods before reconstructing a fire history.",
+      "alt": "Different clues, different reach. Compare dates, places and methods before reconstructing a fire history.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/olym/learn/nature/fireecology.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "fire-records",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "c7f4f1d81355eaa648d1c2d862f5ef7a6030a8800725742a94aa604ea517fddc",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-douglas-fir-pattern": {
+      "file": "olympic-douglas-fir-pattern.jpg",
+      "caption": "A low upward view beside a mature Douglas-fir-like conifer with deeply furrowed bark and a high canopy, on a drier eastern Olympic-like valley floor.",
+      "alt": "A low upward view beside a mature Douglas-fir-like conifer with deeply furrowed bark and a high canopy, on a drier eastern Olympic-like valley floor.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/planyourvisit/visiting-staircase.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "douglas-fir-pattern",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "ba143535e2301808dc3e4a6b1d38b438bfc96d529d20936318572134782cec30",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-floodplain-channels": {
+      "file": "olympic-floodplain-channels.jpg",
+      "caption": "An elevated natural-history view of a forest river splitting around a gravel island, with a connected quiet side channel, fallen wood and a broad green floodplain.",
+      "alt": "An elevated natural-history view of a forest river splitting around a gravel island, with a connected quiet side channel, fallen wood and a broad green floodplain.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/the-salmon-life-cycle.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "floodplain-channels",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "28c84623c51358abda0120ed4a6b123dcaba317e30d78f699f4fa8ebef481978",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-stream-temperature": {
+      "file": "olympic-stream-temperature.jpg",
+      "caption": "A shaded cool tributary entering a wider sunlit stream, dark riparian canopy over the tributary and gravel under clear water at the meeting point.",
+      "alt": "A shaded cool tributary entering a wider sunlit stream, dark riparian canopy over the tributary and gravel under clear water at the meeting point.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/im/nccn/water-quality.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "stream-temperature",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "001b0c6ff91b2cda6824ca472223b0be80025d1f84ced4de2d7e1fe5e68485bf",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-aquatic-insects": {
+      "file": "diagram-aquatic-insects.svg",
+      "caption": "Small animals add a biological record. Immature stream insects are not interchangeable with winged adults.",
+      "alt": "Small animals add a biological record. Immature stream insects are not interchangeable with winged adults.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/im/nccn/water-quality.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "aquatic-insects",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "7fc22195f166c35cc8d44647e38958c9d51cfaff92ea7139fe784fdaec8560c7",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-salmon-redds": {
+      "file": "diagram-salmon-redds.svg",
+      "caption": "Occupied habitat beneath the streambed. Early salmon development occurs among gravel even after adults leave.",
+      "alt": "Occupied habitat beneath the streambed. Early salmon development occurs among gravel even after adults leave.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.nps.gov/olym/learn/nature/the-salmon-life-cycle.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "salmon-redds",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "029d6d16a3d7f976765a022926e7d4d57e3c873e723e616493e75f06f1a5d717",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-smolt-transition": {
+      "file": "olympic-smolt-transition.jpg",
+      "caption": "A single small silver juvenile salmon swimming from a clear river toward a softly suggested estuary, rippled surface light, visible gill cover and streamlined body.",
+      "alt": "A single small silver juvenile salmon swimming from a clear river toward a softly suggested estuary, rippled surface light, visible gill cover and streamlined body.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/the-salmon-life-cycle.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "smolt-transition",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "fa1a0188de306b40b19db46ebfda7beda9a3e24ea952889620edc17100819a05",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-tracing-marine-nutrients": {
+      "file": "olympic-tracing-marine-nutrients.jpg",
+      "caption": "A conceptual still life pairing a silver salmon silhouette reflected in stream water with a leaf and a clean sample vial on a neutral laboratory tray at the riverbank.",
+      "alt": "A conceptual still life pairing a silver salmon silhouette reflected in stream water with a leaf and a clean sample vial on a neutral laboratory tray at the riverbank.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.sciencedirect.com/science/article/abs/pii/S0006320715301002",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "tracing-marine-nutrients",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "46ee23c94ae350d3698e3cf81ad890bf4e38c4c4dfa1d4e4b1f8248a9a3d647f",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-lake-water-column": {
+      "file": "olympic-lake-water-column.jpg",
+      "caption": "An underwater cutaway-style view of a deep lake: bright surface layer with tiny suspended particles, dimmer blue water below and a dark lake bed.",
+      "alt": "An underwater cutaway-style view of a deep lake: bright surface layer with tiny suspended particles, dimmer blue water below and a dark lake bed.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://quinaultindiannation.com/342/Water-Quality",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "lake-water-column",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "d9d50a12456136a62ecaf4c50bb64787e0f6ff6ef59d899cf273330fb6fe123a",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-blueback-monitoring": {
+      "file": "olympic-blueback-monitoring.jpg",
+      "caption": "An imagined fisheries fieldwork scene with an unattended fish-counting station beside a broad lake outlet, measuring board and blank waterproof notebook in foreground, forested hills across the lake.",
+      "alt": "An imagined fisheries fieldwork scene with an unattended fish-counting station beside a broad lake outlet, measuring board and blank waterproof notebook in foreground, forested hills across the lake.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://quinaultindiannation.com/192/Salmon---River-Fisheries",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "blueback-monitoring",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "ca9ec3c45146615a787752b46f08e718146694d0e2e3ec75993082e5f059c6e0",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-elwha-sediment-pulse": {
+      "file": "diagram-elwha-sediment-pulse.svg",
+      "caption": "Sediment changes clarity and substrate. Suspended particles and deposited material produce different effects.",
+      "alt": "Sediment changes clarity and substrate. Suspended particles and deposited material produce different effects.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://www.usgs.gov/centers/pcmsc/news/elwha-river-new-study-examines-effects-dam-removals-coastal-ecosystems",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "elwha-sediment-pulse",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "5a80c0789e78982d00ac7a0d4d7301bccb9661ce67f229ee5bbb239d3369cd9a",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-reservoir-revegetation": {
+      "file": "olympic-reservoir-revegetation.jpg",
+      "caption": "An imagined recovering former reservoir surface with young native conifer saplings, low grasses and exposed patches of sediment between old stumps, a river now flowing freely through the valley.",
+      "alt": "An imagined recovering former reservoir surface with young native conifer saplings, low grasses and exposed patches of sediment between old stumps, a river now flowing freely through the valley.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/elwha-revegetation.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "reservoir-revegetation",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "7b2c0bd5f595ff87974672f7e65c5d373fcfcc7c5db9a5158105ef4827cc4560",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-edna-sampling": {
+      "file": "olympic-edna-sampling.jpg",
+      "caption": "A close realistic illustration of gloved hands holding a sterile sample bottle just below the surface of a clear river, label blank, rippling water and stones visible below.",
+      "alt": "A close realistic illustration of gloved hands holding a sterile sample bottle just below the surface of a clear river, label blank, rippling water and stones visible below.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.usgs.gov/publications/environmental-dna-effective-tool-track-recolonizing-migratory-fish-following-large",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "edna-sampling",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "fa4247172fb56de91c42392fca1ad4db282ec13d8d5b89393dedf2e9eec49f02",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-fish-abundance": {
+      "file": "olympic-fish-abundance.jpg",
+      "caption": "A clear underwater stream scene with several salmon partly hidden by rippled light and submerged wood, one fish visible while others are hard to distinguish.",
+      "alt": "A clear underwater stream scene with several salmon partly hidden by rippled light and submerged wood, one fish visible while others are hard to distinguish.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://repository.library.noaa.gov/view/noaa/61348",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "fish-abundance",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "1d63b6703fc0ddc4f66efa3f031d997e82084a4e1ad78a88d9b3fb9a1caf4e9d",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-estuary-nursery": {
+      "file": "olympic-estuary-nursery.jpg",
+      "caption": "A quiet shallow estuary margin with sedges, fine sediment, submerged woody cover and several small juvenile fish near a sheltered bank.",
+      "alt": "A quiet shallow estuary margin with sedges, fine sediment, submerged woody cover and several small juvenile fish near a sheltered bank.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/the-salmon-life-cycle.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "estuary-nursery",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "cac1f0fb83ecf810916c5942da09885de6a66d689bcc46b55ce3d4683f033ddc",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-sea-stack-landscape": {
+      "file": "olympic-sea-stack-landscape.jpg",
+      "caption": "A sculptural offshore sea stack beside a wave-cut rocky headland, surf moving around the resistant pillar, stratified rock texture and a cool cloudy Pacific sky.",
+      "alt": "A sculptural offshore sea stack beside a wave-cut rocky headland, surf moving around the resistant pillar, stratified rock texture and a cool cloudy Pacific sky.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/nature/coast.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "sea-stack-landscape",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "8da100584b3ce44be1dd1691229c4b8cf3b3779255df4bbe3fe9ecaf68468a06",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-coastal-upwelling": {
+      "file": "olympic-coastal-upwelling.jpg",
+      "caption": "A clean conceptual ocean cutaway beside a sloping coast, with deep cool blue water curving upward toward a sunlit green-blue surface layer and wind suggested by fine surface ripples.",
+      "alt": "A clean conceptual ocean cutaway beside a sloping coast, with deep cool blue water curving upward toward a sunlit green-blue surface layer and wind suggested by fine surface ripples.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://oceanservice.noaa.gov/facts/upwelling.html",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "coastal-upwelling",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "fbc333b97357397e5d70469fd7a5e3e1e9edf2a2f5f24ac86684d9f87cef3844",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-kelp-forests": {
+      "file": "diagram-kelp-forests.svg",
+      "caption": "Another kind of habitat-forming organism. A simplified bull-kelp form: holdfast, flexible stipe, float and blades.",
+      "alt": "Another kind of habitat-forming organism. A simplified bull-kelp form: holdfast, flexible stipe, float and blades.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://olympiccoast.noaa.gov/science/habitat/kelp.html",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "kelp-forests",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "a9f2f956ab0166c6712efe7094e04699307fe1dde8a9e8377990847581dd8fb9",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-tidal-zonation": {
+      "file": "olympic-tidal-zonation.jpg",
+      "caption": "A close sloping rocky intertidal shore at low tide, upper dry rock with barnacles, a mid zone with dark mussels, and lower water-filled pools with anemone-like forms.",
+      "alt": "A close sloping rocky intertidal shore at low tide, upper dry rock with barnacles, a mid zone with dark mussels, and lower water-filled pools with anemone-like forms.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/im/nccn/intertidal.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "tidal-zonation",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "7c1640e26ec0879522778dde91529ebdf10d4515d3dab7ec740ce62d24a36610",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-coastal-measurements": {
+      "file": "diagram-coastal-measurements.svg",
+      "caption": "Keep the instrument’s setting with its record. Place, observation period and measurement type are part of the evidence.",
+      "alt": "Keep the instrument’s setting with its record. Place, observation period and measurement type are part of the evidence.",
+      "credit": "ORB Journeys · Authored explanatory diagram",
+      "source": "https://olympiccoast.noaa.gov/science/oceanographic-moorings/",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "coastal-measurements",
+      "mime": "image/svg+xml",
+      "fit": "contain",
+      "sha256": "7b62c9ddd04e352bc20ef25b3c8c45390b5a643d6b56482e9161136568be743c",
+      "provenance": "Code-authored diagram replacing an unsuitable model illustration"
+    },
+    "olympic-evidence-baselines": {
+      "file": "olympic-evidence-baselines.jpg",
+      "caption": "A pair of unmarked field notebooks beside a camera on a stable forest overlook, with a glacier valley framed in the distance.",
+      "alt": "A pair of unmarked field notebooks beside a camera on a stable forest overlook, with a glacier valley framed in the distance.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/olym/learn/scienceresearch.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "evidence-baselines",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "57c0109fd0c64ef12cbe172b9dc80a417437b011e34df27df8a5bfcb48320a91",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-research-design": {
+      "file": "olympic-research-design.jpg",
+      "caption": "A close still life of simple field tools on a plain canvas cloth: clean water sample bottles, a thermometer, ruler, blank notebook and pencil, forest stream softly visible behind.",
+      "alt": "A close still life of simple field tools on a plain canvas cloth: clean water sample bottles, a thermometer, ruler, blank notebook and pencil, forest stream softly visible behind.",
+      "credit": "AI-generated illustration · local FLUX.2 Klein",
+      "source": "https://www.nps.gov/rlc/northcoastcascades/research.htm",
+      "rights": "Original explanatory illustration prepared for ORB Journeys.",
+      "width": 1280,
+      "height": 720,
+      "kind": "illustration",
+      "pointId": "research-design",
+      "mime": "image/jpeg",
+      "fit": "contain",
+      "sha256": "fac957d07bc6be87f90465eeab185502e0a2a709c16f7bfd666c7038640f257b",
+      "provenance": "AI-generated conceptual illustration"
+    },
+    "olympic-elk-browsing": {
+      "file": "olympic-elk-browsing.jpg",
+      "caption": "Roosevelt elk resting on gravel in Olympic National Park.",
+      "alt": "Roosevelt elk resting on gravel in Olympic National Park.",
+      "credit": "National Park Service",
+      "source": "https://npgallery.nps.gov/AssetDetail/4252DF2D-1DD8-B71B-0B7B85E452EE7A55",
+      "rights": "NPGallery: Public domain, full granting rights.",
+      "width": 800,
+      "height": 600,
+      "kind": "photograph",
+      "pointId": "elk-browsing",
+      "mime": "image/jpeg",
+      "fit": "cover",
+      "sha256": "408a9f345608abb9782d663492ea9a970af507bda3ce309b8366f7c5ae5a2c20",
+      "provenance": "Source-credited documentary photograph"
+    },
+    "olympic-mountain-goat-removal": {
+      "file": "olympic-mountain-goat-removal.jpg",
+      "caption": "Captured Olympic mountain goats arriving at a staging area for transport to the Cascades, September 2018.",
+      "alt": "Captured Olympic mountain goats arriving at a staging area for transport to the Cascades, September 2018.",
+      "credit": "NPS / J. Burger",
+      "source": "https://www.nps.gov/olym/planyourvisit/mountain-goat-capture-and-translocation.htm",
+      "rights": "NPS-credited photograph; no third-party restriction on source page. https://www.nps.gov/aboutus/disclaimer.htm",
+      "width": 668,
+      "height": 1000,
+      "kind": "photograph",
+      "pointId": "mountain-goat-removal",
+      "mime": "image/jpeg",
+      "fit": "cover",
+      "sha256": "bf530662fde768e090984c7c5758071601f7418486b203c8a9b62bd9f8e47fab",
+      "provenance": "Source-credited documentary photograph"
     }
   },
   "journey": {
@@ -5240,8 +6038,8 @@
     "description": "72 connected self-paced readings. This expanded edition has no recorded narration."
   },
   "archive": "https://visualizationcreation.github.io/orb-archive/",
-  "mediaRevision": "2026-09-07-v2-park-wide",
-  "mediaPolicy": "The original 30 points retain their distinct credited visuals. The 42 new detail readings are text-first; new point-specific media will be developed in a later production phase.",
+  "mediaRevision": "2026-09-08-72-illustrated",
+  "mediaPolicy": "Distinct primary image per point; source photographs, local FLUX illustrations and authored diagrams with provenance.",
   "contentRevision": "2026-09-08-expanded-72",
   "journeys": [
     {
@@ -5326,5 +6124,29 @@
     "floor-salmon",
     "floor-coast",
     "floor-quinault"
+  ],
+  "spiralCourses": [
+    {
+      "id": "learn",
+      "style": "active",
+      "name": "ORB Learn — Spiral Audio Course",
+      "url": "courses.html?mode=learn",
+      "durationSeconds": 3110.85125,
+      "voice": "Kokoro Bella",
+      "pointCount": 72,
+      "scriptRevision": "2026-09-08-learn-64ec2fa8de35",
+      "narrationReady": true
+    },
+    {
+      "id": "feel",
+      "style": "rest",
+      "name": "ORB Feel & Experience — Guided Audio Journey",
+      "url": "courses.html?mode=feel",
+      "durationSeconds": 2736.9415,
+      "voice": "Kokoro Bella",
+      "pointCount": 72,
+      "scriptRevision": "2026-09-08-feel-88ac29f19321",
+      "narrationReady": true
+    }
   ]
 }

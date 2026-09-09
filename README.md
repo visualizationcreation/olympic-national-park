@@ -22,11 +22,20 @@ Open `index.html` directly or serve this directory with a static web server. Its
 
 Run `python build.py` to rebuild `index.html` from `orb.json`, `shell.html`, `style.css`, `app.js` and the credited JPEG/SVG files. Python's standard library is sufficient. `journey.md` is the expanded reading manuscript for later adaptation and should be synchronized with content changes.
 
-## Media and the next production phase
+## Two recorded Spiral Courses
 
-The original 30 readings retain their distinct credited visual assets, including historical photographs and labeled conceptual illustrations. The 42 new detail readings are text-first. No new generated illustrations, narration or music have been produced for the expanded edition.
+- [ORB Learn — Spiral Audio Course](https://visualizationcreation.github.io/olympic-national-park/courses.html?mode=learn): **51:50**, a connected educational account of all 72 points.
+- [ORB Feel & Experience — Guided Audio Journey](https://visualizationcreation.github.io/olympic-national-park/courses.html?mode=feel): **45:36**, an imagined first-person journey through the same sourced landscape.
 
-`media-plan.json` records the point IDs, narration focus, evidence, existing assets and visual briefs for the later production phase. Before recording, select a route and author a continuous Active Journey or Rest Journey script. Match every recording and visual cue to the resulting script revision. Music should be developed around the selected pacing and narration.
+Both use **Kokoro ONNX Bella (`af_bella`)**, generated locally at speed 0.9 with natural pitch. Each course has twelve saved MP3 chapters, a continuous transcript and measured paragraph cues. No local model is required to play them. The chapter files load ahead; the rotating word spiral, image, passage and paragraph highlight follow actual narration time. Start always begins at zero. Resume is a separate control with an independent bookmark for each mode. Changing mode pauses playback and keeps the same point.
+
+A local Dolphin 3.0 Llama 3.1 8B model supplied preliminary drafts. Those drafts required substantial correction and were rewritten and reviewed against the ORB's sourced readings before recording. The public course records describe that authorship accurately. The two styles have separately authored scripts rather than identical speech at different speeds.
+
+Every point has a distinct visual. The 30 retained assets are joined by **31 locally generated FLUX.2 Klein illustrations, nine authored explanatory diagrams, and two additional NPS photographs**. Generated scenes are labeled as imagined illustrations, with prompts, seeds, model information, source references and hashes in `course-media.json`. Misleading generated diagrams were replaced with explicitly conceptual authored diagrams. Photos retain their individual credits. Original masters and local generation caches are retained outside the public site.
+
+`courses.html`, `courses.css`, `courses.js` and `courses-data.js` run the player. `courses.json` is its matching structured source; `learn-course.md` and `feel-course.md` are the downloadable manuscripts. `course-learn-01.mp3` through `course-learn-12.mp3` and the corresponding twelve `course-feel` files contain the complete recordings. The recorded total is 97:27; display durations are truncated to whole seconds.
+
+The single-file `index.html` embeds all 72 images for offline browsing. Its course links open the hosted recordings. A complete local course folder also works: open `courses.html` with its sidecar files, 24 MP3 files and all credited images beside it. Evidence links still require internet. Music has not been added to this edition.
 
 ## Earlier Rest Journey
 
@@ -36,7 +45,7 @@ The earlier recording uses `olympic-rest.mp3`, `rest-journey.json`, `rest-data.j
 
 ## Validation and publication
 
-Checked all 72 rendered points, direct links, source lists, parent/detail navigation, compass, visit history, search filters, checkpoint export/restore, older checkpoint IDs, phone overflow, reduced motion, keyboard navigation, selected-point print layout and a downloaded offline HTML. No page JavaScript errors were found in those checks. Actual narration listening and new media production are outside this reading-edition revision.
+Checked all 72 rendered points, direct links, source lists, parent/detail navigation, compass, visit history, search filters, checkpoint export/restore, older checkpoint IDs, phone overflow, reduced motion, keyboard navigation, selected-point print layout and a downloaded offline HTML. No page JavaScript errors were found in those checks. The new course checks additionally cover both modes, matching-point switching, Start versus Resume, saved progress after reload, actual chapter auto-advance, final completion, all 72 image decodes, reduced motion, phone overflow and the printable transcript. All 24 MP3 files were decoded and checked for duration, peaks and agreement with the recorded source texts and paragraph cues. **A complete listening review of both recordings has not been performed**; technical validation is not an audition.
 
 Publish the existing repository's root through its existing GitHub Pages configuration. Update the same Olympic entry and stable reading-edition ID in `visualizationcreation/orb-archive`; preserve other ORBs, the inactive archive and the earlier Rest edition's provenance.
 

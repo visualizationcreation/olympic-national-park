@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "olympic-park-and-peninsula",
+    "pointId": "park-and-peninsula",
+    "file": "olympic-park-and-peninsula.jpg",
+    "masterFile": "olympic-park-and-peninsula.png",
+    "sha256": "347a1f9e97f6eacb816fc6417ba3f7bd389941604fdccb8362f7b99b99b8ddd4",
+    "masterSha256": "9cbeaccd2a54b3c69caadad8216279a64fc66dd910b5c630d1f33a3e86e53f7a",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An elevated oblique conceptual view of a forested peninsula, snowy mountainous interior and a river winding into a separate ocean coast. Subtle translucent boundary lines stop on the land while the river continues across them. This is an imagined explanatory landscape, not a geographically accurate map.",
+    "seed": 908100,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:08:18.206654+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An elevated oblique conceptual view of a forested peninsula, snowy mountainous interior and a river winding into a separate ocean coast.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-tribal-sovereignty",
+    "pointId": "tribal-sovereignty",
+    "file": "olympic-tribal-sovereignty.jpg",
+    "masterFile": "olympic-tribal-sovereignty.png",
+    "sha256": "23e694f18453f4af054ed73ab529ddc1ea551a3a6d8a6df456511b884ce06597",
+    "masterSha256": "5e6a3e2696709a9e12f30eb6b8380a18165577e8293f824dd98b80d641fc4906",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A quiet contemporary meeting table with blank archival folders, pencils and an open notebook beside a broad window looking toward a Pacific Northwest forest. Empty chairs, no people, no emblems or artifacts. Symbolic illustration of reading contemporary governments in their own words; not an actual Tribal council chamber.",
+    "seed": 908101,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:08:20.225418+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An imagined reading table. This does not depict an actual Tribal council chamber.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-ozette-archaeology",
+    "pointId": "ozette-archaeology",
+    "file": "olympic-ozette-archaeology.jpg",
+    "masterFile": "olympic-ozette-archaeology.png",
+    "sha256": "5fb0fdc2d4c4ca2a87bc9edf1ce19112cc3ea0ecb95fcc2c0de2d30bfd84c5d0",
+    "masterSha256": "f114cd8b0e2fce21589907f3b428f95be9e722a191741ce45ad0a2d648bc3d40",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A restrained cutaway of wet coastal soil layers below a mossy surface, with buried undecorated wood fragments kept moist beneath a sediment layer. Emphasize stratigraphic context and preservation, not a reconstruction of actual Ozette artifacts. No tools, artifacts with decoration, people, bones or writing.",
+    "seed": 908102,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:22.817978+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "Schematic preservation of wood in sediment; not a reconstruction of actual Ozette objects.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-crescent-basalt",
+    "pointId": "crescent-basalt",
+    "file": "olympic-crescent-basalt.jpg",
+    "masterFile": "olympic-crescent-basalt.png",
+    "sha256": "744205b1fd0d7c6ce7d9cce00fc85d27f3f7ae1c3e517c2d3f8b01f775cb7967",
+    "masterSha256": "a583e0f0469b43c135b064147684d6ecad1f19bbd1751f86c76e70535213a918",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close natural-history illustration of rounded dark basalt pillow forms in a rock exposure, textured chilled margins and tiny mineral details, cool gray-blue light. Oceanic lava preserved in rock, no active eruption, no exact location claim.",
+    "seed": 908103,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:26.883535+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close natural-history illustration of rounded dark basalt pillow forms in a rock exposure, textured chilled margins and tiny mineral details, cool gray-blue light.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-accretion-and-uplift",
+    "pointId": "accretion-and-uplift",
+    "file": "diagram-accretion-and-uplift.svg",
+    "sha256": "dcfdeac39bea6bcb91ce4e6c0cede7f82c604bcb3899ad9bae9be2e1fecb2b6c",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Assembly is different from excavation. Folded strata record deformation; valleys also record removal of material.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-accretion-and-uplift.png",
+      "reason": "The generated layers did not clearly show compression.",
+      "sha256": "43215e10c38e59c5bdb8de44a4b8d7a03f95d711f79943aaa3705e6feaf061e5"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-glacial-valleys",
+    "pointId": "glacial-valleys",
+    "file": "olympic-glacial-valleys.jpg",
+    "masterFile": "olympic-glacial-valleys.png",
+    "sha256": "494063dbe8cab843ec2c961f39eadc7afdc35a897d13754e2f1472ed04d30d0e",
+    "masterSha256": "31c83bd84e97b269614ae3554966f0d5df54cc994dbe52699c2e5fcf8518e5ac",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A wide elevated view of a U-shaped mountain valley with steep glacially smoothed sides and a narrow river on its flat floor, distant snowy ridges. Emphasize the contrast between a broad ice-carved basin and a small present-day stream. Imagined Olympic-like terrain.",
+    "seed": 908105,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:35.085125+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A wide elevated view of a U-shaped mountain valley with steep glacially smoothed sides and a narrow river on its flat floor, distant snowy ridges.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-crescent-trout",
+    "pointId": "crescent-trout",
+    "file": "olympic-crescent-trout.jpg",
+    "masterFile": "olympic-crescent-trout.png",
+    "sha256": "f099162028653db71c59233ca19bc68bc57797e466258e29cc94e459ba7250e1",
+    "masterSha256": "058852bcd78fd8765000319a271f4ecf03f49554a120ab717f21f7bccd8b0ad0",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A natural-history watercolor of a single silver cutthroat trout with small dark spots and a subtle red-orange slash beneath the jaw swimming in clear deep blue lake water, rocky foreground and faint submerged logs. Generic cutthroat trout illustration, not a diagnostic portrait of a named endemic population.",
+    "seed": 908106,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:39.109421+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "Imagined trout in lake habitat; not a diagnostic portrait of a named population.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-snowpack-storage",
+    "pointId": "snowpack-storage",
+    "file": "olympic-snowpack-storage.jpg",
+    "masterFile": "olympic-snowpack-storage.png",
+    "sha256": "80167993e58ef7b008ad0317c08089928fbe2787c7afc842d67ebe8dc00a7440",
+    "masterSha256": "d40b21bb3a4f6880134def314639ecb2b929394613aa63be5862a04ddb4700ee",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close alpine slope where granular spring snow slowly melts into a narrow rivulet flowing around exposed stones. Evergreen trees farther downslope, soft morning light. Focus on snow holding water and releasing it over time.",
+    "seed": 908107,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:43.152260+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close alpine slope where granular spring snow slowly melts into a narrow rivulet flowing around exposed stones.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-blue-glacier-record",
+    "pointId": "blue-glacier-record",
+    "file": "olympic-blue-glacier-record.jpg",
+    "masterFile": "olympic-blue-glacier-record.png",
+    "sha256": "9a6f7d0af62c5d052f7622b027f4098bfd21bf39d5afad1873207c5c95dbbd2b",
+    "masterSha256": "824b9f700b722db023276a0a0c5241233d69251c90066a4ecc8128d76c96ba0f",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An oblique imagined glacier study scene: long pale blue glacier flowing between dark rocky ridges, visible crevasses, an observer-free surveying tripod on safe foreground rock. Convey length, area and thickness as different aspects, no data curves, no claim of an actual survey.",
+    "seed": 908108,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:47.201393+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An oblique imagined glacier study scene: long pale blue glacier flowing between dark rocky ridges, visible crevasses, an observer-free surveying tripod on safe foreground rock.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-mass-balance",
+    "pointId": "mass-balance",
+    "file": "diagram-mass-balance.svg",
+    "sha256": "93215e6aa6a6eb924070c947acaff1feceee200311d66949285aed5103dc0975",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "An account of glacier gains and losses. A snowy winter can still be followed by a negative annual balance.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-mass-balance.png",
+      "reason": "The generated ice cliff obscured the mass-balance mechanism.",
+      "sha256": "b1defadd07550b0a3cc39be5323acd5cb410703a7ba29c6be63e9fb9684f279e"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-summer-streamflow",
+    "pointId": "summer-streamflow",
+    "file": "olympic-summer-streamflow.jpg",
+    "masterFile": "olympic-summer-streamflow.png",
+    "sha256": "a01059a8d0d198f8be7080b0d4e2148123fde6f24e0c0c820cbcba7853768a79",
+    "masterSha256": "d06538d662f538e31303cb783da14180aa871d5939b6fa346bd19b9f597abc44",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A mountain stream gathering water from a small snow patch, a distant glacier and a moist rocky spring along its bank. Warm late-summer light with shaded cold blue water. Multiple sources share a stream; no quantitative contribution implied.",
+    "seed": 908110,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:51.317245+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A mountain stream gathering water from a small snow patch, a distant glacier and a moist rocky spring along its bank.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-treeline-patterns",
+    "pointId": "treeline-patterns",
+    "file": "olympic-treeline-patterns.jpg",
+    "masterFile": "olympic-treeline-patterns.png",
+    "sha256": "299719cf72eb1dae6a6771fffd07d05896a48f97897e63de42792e4ee88f0c2b",
+    "masterSha256": "7b1825a50e19faf4246058ad3f2fc8b42c3ad8dfaa352aee9abd83e501d38f4a",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A mountain meadow at treeline with scattered small conifers sheltered beside boulders and denser trees lower on the slope, lingering snow in a hollow. Show patchy establishment rather than a straight line of trees. Clear detailed foreground vegetation.",
+    "seed": 908111,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:53.492935+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A mountain meadow at treeline with scattered small conifers sheltered beside boulders and denser trees lower on the slope, lingering snow in a hollow.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-meadow-phenology",
+    "pointId": "meadow-phenology",
+    "file": "olympic-meadow-phenology.jpg",
+    "masterFile": "olympic-meadow-phenology.png",
+    "sha256": "06797e640f5f823208711eb774cc05a373973c72cb0c989cba4550cc7a9bd9e0",
+    "masterSha256": "b000cd587dc856a0c85c6928077ae973fe0e8df216ef5cf3b6010689b6222d7d",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A low view of alpine meadow plants emerging at the edge of a retreating patch of spring snow, small buds and green shoots, some flowers in a nearby snow-free patch. Focus on different local stages of growth; no seasonal composite or invented species labels.",
+    "seed": 908112,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:12:55.542217+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A low view of alpine meadow plants emerging at the edge of a retreating patch of spring snow, small buds and green shoots, some flowers in a nearby snow-free patch.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-island-evolution",
+    "pointId": "island-evolution",
+    "file": "diagram-island-evolution.svg",
+    "sha256": "88523e12faa917ba11aa68d0c2a0e598697a39180dd3fbcc661d60e16e69ba3e",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "An ecological island need not be an ocean island. For some high-country species, intervening lowlands can limit connections.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-island-evolution.png",
+      "reason": "The generated scene incorrectly depicted a literal water-ringed island.",
+      "sha256": "949fe2d8f0daff39235a95d3026242f46d60b35e57a02a82db6f4a376dc51c53"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-marmot-hibernation",
+    "pointId": "marmot-hibernation",
+    "file": "olympic-marmot-hibernation.jpg",
+    "masterFile": "olympic-marmot-hibernation.png",
+    "sha256": "744d9511c8ce1ea2e09a492b323c2eaf8a2a6bb093ea21f44fa012e54475e119",
+    "masterSha256": "7199f84e518729a5f27fb0b75afd88cea191540a86102be5b4ff3fdfd6b68049",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A gentle natural-history cutaway of an underground burrow beneath a rocky alpine meadow, one stocky tawny-gray marmot curled asleep in a dry chamber. Surface shows stones and low vegetation. Schematic burrow, no measured architecture or claims of observation.",
+    "seed": 908114,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:03.634030+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A gentle natural-history cutaway of an underground burrow beneath a rocky alpine meadow, one stocky tawny-gray marmot curled asleep in a dry chamber.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-canopy-epiphytes",
+    "pointId": "canopy-epiphytes",
+    "file": "olympic-canopy-epiphytes.jpg",
+    "masterFile": "olympic-canopy-epiphytes.png",
+    "sha256": "04e38b829d886f30482940885c18d6ad8d1d7e5aed9ac874ee39bd3f0d5230f3",
+    "masterSha256": "9b5575a20fc5b1885e3fab9e5c320a0cecc81ed8d2e53cca7e437ab01a74b5b2",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close detailed upward view of a thick temperate rainforest branch carrying moss cushions, lichens and small ferns, sunlight diffused through the canopy. Distinguish the woody host branch from the plants growing on its surface. No tropical flowers.",
+    "seed": 908115,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:07.682786+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close detailed upward view of a thick temperate rainforest branch carrying moss cushions, lichens and small ferns, sunlight diffused through the canopy.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-nurse-logs",
+    "pointId": "nurse-logs",
+    "file": "olympic-nurse-logs.jpg",
+    "masterFile": "olympic-nurse-logs.png",
+    "sha256": "cffec479d61e6a1ded68711465beb74cf51f747d253ce157d90414a46ac4b756",
+    "masterSha256": "f23d309d83664b21ffebbfa4a690afbf88024c3ff849299bf93c07ef0edc2a86",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A fallen decaying conifer trunk crossing the foreground, its soft mossy wood supporting several tiny conifer seedlings with fine roots settling into crevices. Deep temperate forest behind. Quiet side lighting emphasizes wood texture and new growth.",
+    "seed": 908116,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:11.713132+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A fallen decaying conifer trunk crossing the foreground, its soft mossy wood supporting several tiny conifer seedlings with fine roots settling into crevices.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-decay-and-soil",
+    "pointId": "decay-and-soil",
+    "file": "olympic-decay-and-soil.jpg",
+    "masterFile": "olympic-decay-and-soil.png",
+    "sha256": "b2e738066a332fb989f04f4203f4f9078a0c0e52807943b70031c7fc7aba5ec9",
+    "masterSha256": "30b6a5b0286cdf7650608bce3f3aaa696151b440ae00c4c61a49b9a85ce38124",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A ground-level naturalist view of decaying wood breaking into dark moist forest soil, fine fungal threads, a small fruiting mushroom and roots meeting the fragments. Precise texture, restrained scale, no glowing networks or oversized insects.",
+    "seed": 908117,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:15.775970+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A ground-level naturalist view of decaying wood breaking into dark moist forest soil, fine fungal threads, a small fruiting mushroom and roots meeting the fragments.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-fire-records",
+    "pointId": "fire-records",
+    "file": "diagram-fire-records.svg",
+    "sha256": "c7f4f1d81355eaa648d1c2d862f5ef7a6030a8800725742a94aa604ea517fddc",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Different clues, different reach. Compare dates, places and methods before reconstructing a fire history.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-fire-records.png",
+      "reason": "The generated radial split looked like a crack rather than a supported fire-scar interpretation.",
+      "sha256": "6d9ad0d97940c321dfb0bb1603d7e24781d4358d07762dca29796ea6ad368884"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-douglas-fir-pattern",
+    "pointId": "douglas-fir-pattern",
+    "file": "olympic-douglas-fir-pattern.jpg",
+    "masterFile": "olympic-douglas-fir-pattern.png",
+    "sha256": "ba143535e2301808dc3e4a6b1d38b438bfc96d529d20936318572134782cec30",
+    "masterSha256": "b23adefb996020daa7ad944ce1a087585cc11f1398209d0feae613e397b8893c",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A low upward view beside a mature Douglas-fir-like conifer with deeply furrowed bark and a high canopy, on a drier eastern Olympic-like valley floor. Ferns and coarse woody debris scattered between trunks. Emphasize bark texture and open understory; illustrative identification.",
+    "seed": 908119,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:19.867713+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A low upward view beside a mature Douglas-fir-like conifer with deeply furrowed bark and a high canopy, on a drier eastern Olympic-like valley floor.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-floodplain-channels",
+    "pointId": "floodplain-channels",
+    "file": "olympic-floodplain-channels.jpg",
+    "masterFile": "olympic-floodplain-channels.png",
+    "sha256": "28c84623c51358abda0120ed4a6b123dcaba317e30d78f699f4fa8ebef481978",
+    "masterSha256": "9294d6de1793c9f2a746c5c72cef6c52104cec2148bfcf68ac89fea7dc9afe75",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An elevated natural-history view of a forest river splitting around a gravel island, with a connected quiet side channel, fallen wood and a broad green floodplain. One coherent river scene, no road maps or labels. The river habitat extends beyond its fastest channel.",
+    "seed": 908120,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:23.926049+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An elevated natural-history view of a forest river splitting around a gravel island, with a connected quiet side channel, fallen wood and a broad green floodplain.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-stream-temperature",
+    "pointId": "stream-temperature",
+    "file": "olympic-stream-temperature.jpg",
+    "masterFile": "olympic-stream-temperature.png",
+    "sha256": "001b0c6ff91b2cda6824ca472223b0be80025d1f84ced4de2d7e1fe5e68485bf",
+    "masterSha256": "6d9e663bc2f688e434c7f677ec150e526d27edf056b19ac69f267434522cc665",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A shaded cool tributary entering a wider sunlit stream, dark riparian canopy over the tributary and gravel under clear water at the meeting point. A small unobtrusive water logger attached to a foreground rock. Temperature differences are conceptual, no false color data or numbers.",
+    "seed": 908121,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:27.984369+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A shaded cool tributary entering a wider sunlit stream, dark riparian canopy over the tributary and gravel under clear water at the meeting point.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-aquatic-insects",
+    "pointId": "aquatic-insects",
+    "file": "diagram-aquatic-insects.svg",
+    "sha256": "7fc22195f166c35cc8d44647e38958c9d51cfaff92ea7139fe784fdaec8560c7",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Small animals add a biological record. Immature stream insects are not interchangeable with winged adults.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-aquatic-insects.png",
+      "reason": "The model depicted winged adults for a passage about stream immature stages.",
+      "sha256": "479802f99cb630c3d16fa92e73cb30989c0c67b096b0d431a7ef12a8035805fd"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-salmon-redds",
+    "pointId": "salmon-redds",
+    "file": "diagram-salmon-redds.svg",
+    "sha256": "029d6d16a3d7f976765a022926e7d4d57e3c873e723e616493e75f06f1a5d717",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Occupied habitat beneath the streambed. Early salmon development occurs among gravel even after adults leave.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-salmon-redds.png",
+      "reason": "The model put oversized eggs on top of the streambed.",
+      "sha256": "9a2ab9dfc588f849a7b3d6b90ce885bf4aba874e2550fc93d5a93eb6d14614d8"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-smolt-transition",
+    "pointId": "smolt-transition",
+    "file": "olympic-smolt-transition.jpg",
+    "masterFile": "olympic-smolt-transition.png",
+    "sha256": "fa1a0188de306b40b19db46ebfda7beda9a3e24ea952889620edc17100819a05",
+    "masterSha256": "d892d0cd4f007f39809d295c1a8191c07d07e2c10bd14bae93ede562c8fae9ca",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A single small silver juvenile salmon swimming from a clear river toward a softly suggested estuary, rippled surface light, visible gill cover and streamlined body. Focus on the living fish in transition; do not draw invented internal organs or imply a literal instant change.",
+    "seed": 908124,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:40.184334+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A single small silver juvenile salmon swimming from a clear river toward a softly suggested estuary, rippled surface light, visible gill cover and streamlined body.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-tracing-marine-nutrients",
+    "pointId": "tracing-marine-nutrients",
+    "file": "olympic-tracing-marine-nutrients.jpg",
+    "masterFile": "olympic-tracing-marine-nutrients.png",
+    "sha256": "46ee23c94ae350d3698e3cf81ad890bf4e38c4c4dfa1d4e4b1f8248a9a3d647f",
+    "masterSha256": "3db79c63e9e5cb8f383379bc972925d233fbc46e2d94daa9e3341dcdcafe11ee",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A conceptual still life pairing a silver salmon silhouette reflected in stream water with a leaf and a clean sample vial on a neutral laboratory tray at the riverbank. Symbolic link between ocean-origin nutrients and land food webs, no molecular diagrams or results.",
+    "seed": 908125,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:42.217791+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A conceptual still life pairing a silver salmon silhouette reflected in stream water with a leaf and a clean sample vial on a neutral laboratory tray at the riverbank.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-lake-water-column",
+    "pointId": "lake-water-column",
+    "file": "olympic-lake-water-column.jpg",
+    "masterFile": "olympic-lake-water-column.png",
+    "sha256": "d9d50a12456136a62ecaf4c50bb64787e0f6ff6ef59d899cf273330fb6fe123a",
+    "masterSha256": "88c1599f52d6faab22edffb4da0e3f3ab34f035f0fdb35872c257bfa3a6cfa82",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An underwater cutaway-style view of a deep lake: bright surface layer with tiny suspended particles, dimmer blue water below and a dark lake bed. A single subtle vertical sampling cable emphasizes depth. Layers are illustrative, not measured temperature boundaries.",
+    "seed": 908126,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:44.259043+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An underwater cutaway-style view of a deep lake: bright surface layer with tiny suspended particles, dimmer blue water below and a dark lake bed.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-blueback-monitoring",
+    "pointId": "blueback-monitoring",
+    "file": "olympic-blueback-monitoring.jpg",
+    "masterFile": "olympic-blueback-monitoring.png",
+    "sha256": "ca9ec3c45146615a787752b46f08e718146694d0e2e3ec75993082e5f059c6e0",
+    "masterSha256": "30a0c3d95dab3ff98dfb0f59491d58ac53335ce5845099040a0fe14714046c7f",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An imagined fisheries fieldwork scene with an unattended fish-counting station beside a broad lake outlet, measuring board and blank waterproof notebook in foreground, forested hills across the lake. No invented fish abundance, uniforms, people, logos or named facility.",
+    "seed": 908127,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:46.435050+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An imagined fisheries fieldwork scene with an unattended fish-counting station beside a broad lake outlet, measuring board and blank waterproof notebook in foreground, forested hills across the lake.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-elwha-sediment-pulse",
+    "pointId": "elwha-sediment-pulse",
+    "file": "diagram-elwha-sediment-pulse.svg",
+    "sha256": "5a80c0789e78982d00ac7a0d4d7301bccb9661ce67f229ee5bbb239d3369cd9a",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Sediment changes clarity and substrate. Suspended particles and deposited material produce different effects.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-elwha-sediment-pulse.png",
+      "reason": "The generated plume formed a dam-like barrier instead of dispersed sediment.",
+      "sha256": "25c3e93465065621b25dba4ea26a0f04d13098e9fe96d657c41124f68a397d23"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-reservoir-revegetation",
+    "pointId": "reservoir-revegetation",
+    "file": "olympic-reservoir-revegetation.jpg",
+    "masterFile": "olympic-reservoir-revegetation.png",
+    "sha256": "7b2c0bd5f595ff87974672f7e65c5d373fcfcc7c5db9a5158105ef4827cc4560",
+    "masterSha256": "2c78725619fdd8c0b7845721e249a89f5b079bb75de92a536976c0abae22ceb0",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. An imagined recovering former reservoir surface with young native conifer saplings, low grasses and exposed patches of sediment between old stumps, a river now flowing freely through the valley. Overcast natural light, visible early succession rather than a finished mature forest.",
+    "seed": 908129,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:50.526334+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "An imagined recovering former reservoir surface with young native conifer saplings, low grasses and exposed patches of sediment between old stumps, a river now flowing freely through the valley.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-edna-sampling",
+    "pointId": "edna-sampling",
+    "file": "olympic-edna-sampling.jpg",
+    "masterFile": "olympic-edna-sampling.png",
+    "sha256": "fa4247172fb56de91c42392fca1ad4db282ec13d8d5b89393dedf2e9eec49f02",
+    "masterSha256": "a757a1804a5d735e9dd896b66e80f651a0f3f29ad61183315d134c71cd9e62ec",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close realistic illustration of gloved hands holding a sterile sample bottle just below the surface of a clear river, label blank, rippling water and stones visible below. Focus on collecting water as evidence, no glowing DNA helices or visible fish counts.",
+    "seed": 908130,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:52.560297+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close realistic illustration of gloved hands holding a sterile sample bottle just below the surface of a clear river, label blank, rippling water and stones visible below.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-fish-abundance",
+    "pointId": "fish-abundance",
+    "file": "olympic-fish-abundance.jpg",
+    "masterFile": "olympic-fish-abundance.png",
+    "sha256": "1d63b6703fc0ddc4f66efa3f031d997e82084a4e1ad78a88d9b3fb9a1caf4e9d",
+    "masterSha256": "4a15e527f1164a182b82562294eec8e00aaaaa9d428c9f68933ae3a0e2bac966",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A clear underwater stream scene with several salmon partly hidden by rippled light and submerged wood, one fish visible while others are hard to distinguish. A small remote camera housing sits at the edge. Illustrates why detection and counting differ, not a measured survey.",
+    "seed": 908131,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:54.617751+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A clear underwater stream scene with several salmon partly hidden by rippled light and submerged wood, one fish visible while others are hard to distinguish.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-estuary-nursery",
+    "pointId": "estuary-nursery",
+    "file": "olympic-estuary-nursery.jpg",
+    "masterFile": "olympic-estuary-nursery.png",
+    "sha256": "cac1f0fb83ecf810916c5942da09885de6a66d689bcc46b55ce3d4683f033ddc",
+    "masterSha256": "63d76f87c8dc2ed91ffa57bfbfb5b949394034e9c8f75f5673a6c4fe2cd621e3",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A quiet shallow estuary margin with sedges, fine sediment, submerged woody cover and several small juvenile fish near a sheltered bank. Brackish water opens toward a distant river mouth. Emphasize refuge and mixed habitats in one continuous scene.",
+    "seed": 908132,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:56.801132+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A quiet shallow estuary margin with sedges, fine sediment, submerged woody cover and several small juvenile fish near a sheltered bank.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-sea-stack-landscape",
+    "pointId": "sea-stack-landscape",
+    "file": "olympic-sea-stack-landscape.jpg",
+    "masterFile": "olympic-sea-stack-landscape.png",
+    "sha256": "8da100584b3ce44be1dd1691229c4b8cf3b3779255df4bbe3fe9ecaf68468a06",
+    "masterSha256": "79f60d0252de87a19690895d881a5de2952ef248fa02d5e31616d766e0bb3bec",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A sculptural offshore sea stack beside a wave-cut rocky headland, surf moving around the resistant pillar, stratified rock texture and a cool cloudy Pacific sky. Imagined Washington coastal illustration, not a documentary view of a named stack.",
+    "seed": 908133,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:13:58.826283+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A sculptural offshore sea stack beside a wave-cut rocky headland, surf moving around the resistant pillar, stratified rock texture and a cool cloudy Pacific sky.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-coastal-upwelling",
+    "pointId": "coastal-upwelling",
+    "file": "olympic-coastal-upwelling.jpg",
+    "masterFile": "olympic-coastal-upwelling.png",
+    "sha256": "fbc333b97357397e5d70469fd7a5e3e1e9edf2a2f5f24ac86684d9f87cef3844",
+    "masterSha256": "a04a57f58911465466b1db69df6737768073edbd05cab5dab87430d8620162c1",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A clean conceptual ocean cutaway beside a sloping coast, with deep cool blue water curving upward toward a sunlit green-blue surface layer and wind suggested by fine surface ripples. No arrows, measurements or labels; an imagined process view, not field data.",
+    "seed": 908134,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:14:00.859577+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A clean conceptual ocean cutaway beside a sloping coast, with deep cool blue water curving upward toward a sunlit green-blue surface layer and wind suggested by fine surface ripples.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-kelp-forests",
+    "pointId": "kelp-forests",
+    "file": "diagram-kelp-forests.svg",
+    "sha256": "a9f2f956ab0166c6712efe7094e04699307fe1dde8a9e8377990847581dd8fb9",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Another kind of habitat-forming organism. A simplified bull-kelp form: holdfast, flexible stipe, float and blades.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-kelp-forests.png",
+      "reason": "The generated kelp resembled lily pads on straight stalks.",
+      "sha256": "d4fb1c3c24db58e57455b956f837a77a3e372f10a14a3066f82d70d8f4de6122"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-tidal-zonation",
+    "pointId": "tidal-zonation",
+    "file": "olympic-tidal-zonation.jpg",
+    "masterFile": "olympic-tidal-zonation.png",
+    "sha256": "7c1640e26ec0879522778dde91529ebdf10d4515d3dab7ec740ce62d24a36610",
+    "masterSha256": "40a30d53b0684dac68b46f81f1bc3ced38d78b12c7250fce4c14ec424725d654",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close sloping rocky intertidal shore at low tide, upper dry rock with barnacles, a mid zone with dark mussels, and lower water-filled pools with anemone-like forms. The slope and exposure gradient are clear; schematic assemblage, not a measured site.",
+    "seed": 908136,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:14:04.934774+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close sloping rocky intertidal shore at low tide, upper dry rock with barnacles, a mid zone with dark mussels, and lower water-filled pools with anemone-like forms.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-coastal-measurements",
+    "pointId": "coastal-measurements",
+    "file": "diagram-coastal-measurements.svg",
+    "sha256": "7b62c9ddd04e352bc20ef25b3c8c45390b5a643d6b56482e9161136568be743c",
+    "width": 1280,
+    "height": 720,
+    "kind": "illustration",
+    "credit": "ORB Journeys · Authored explanatory diagram",
+    "caption": "Keep the instrument’s setting with its record. Place, observation period and measurement type are part of the evidence.",
+    "reviewed": true,
+    "rejectedGeneration": {
+      "file": "olympic-coastal-measurements.png",
+      "reason": "The generated mechanical gauge was not a credible monitoring-instrument depiction.",
+      "sha256": "50eaa7c6302a8285b0e50b14da371d2b4e3f77e88b9517aab33a9aa1ca760fba"
+    },
+    "provenance": "Code-authored diagram replacing an unsuitable model illustration",
+    "mime": "image/svg+xml",
+    "fit": "contain",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-evidence-baselines",
+    "pointId": "evidence-baselines",
+    "file": "olympic-evidence-baselines.jpg",
+    "masterFile": "olympic-evidence-baselines.png",
+    "sha256": "57c0109fd0c64ef12cbe172b9dc80a417437b011e34df27df8a5bfcb48320a91",
+    "masterSha256": "f0e8d79edb6ff5c9387ae20ab9ecf5a97cf6c04ccb86f9f21162cdf4d2cf6253",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A pair of unmarked field notebooks beside a camera on a stable forest overlook, with a glacier valley framed in the distance. One open page shows a simple unlabelled sketch of the same horizon. A conceptual illustration of repeatable viewpoints, not historical records.",
+    "seed": 908138,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:14:09.168057+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A pair of unmarked field notebooks beside a camera on a stable forest overlook, with a glacier valley framed in the distance.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-research-design",
+    "pointId": "research-design",
+    "file": "olympic-research-design.jpg",
+    "masterFile": "olympic-research-design.png",
+    "sha256": "fac957d07bc6be87f90465eeab185502e0a2a709c16f7bfd666c7038640f257b",
+    "masterSha256": "d791751aa4dd38b25f4256fa049eae2024a17305e6b33ba97242311ec9b704e7",
+    "prompt": "Wide 16:9 natural-history editorial illustration, refined gouache and fine pencil detail, realistic material textures, forest green, slate blue and warm ivory palette, soft Pacific Northwest light, calm composition with a clear focal subject. Rich detail without fantasy. No typography, lettering, watermark, border, collage or UI. A close still life of simple field tools on a plain canvas cloth: clean water sample bottles, a thermometer, ruler, blank notebook and pencil, forest stream softly visible behind. Thoughtful measured observation, no equations, charts or invented experimental outcomes.",
+    "seed": 908139,
+    "width": 1280,
+    "height": 720,
+    "model": "FLUX.2 Klein 4B distilled FP8",
+    "modelFiles": [
+      {
+        "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+        "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+        "file": "flux-2-klein-4b-fp8.safetensors",
+        "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6"
+      },
+      {
+        "repo": "Comfy-Org/flux2-klein-4B",
+        "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+        "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+        "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a"
+      },
+      {
+        "repo": "Comfy-Org/flux2-dev",
+        "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+        "file": "split_files/vae/flux2-vae.safetensors",
+        "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5"
+      }
+    ],
+    "adapterSha256": "0b689457a83783f33ab443aa8736cbabe9759dbf9d43a77b6324b279040b79d1",
+    "steps": 4,
+    "cfg": 1,
+    "sampler": "euler",
+    "generatedAt": "2026-09-08T23:14:11.226322+00:00",
+    "kind": "illustration",
+    "credit": "AI-generated illustration · local FLUX.2 Klein",
+    "caption": "A close still life of simple field tools on a plain canvas cloth: clean water sample bottles, a thermometer, ruler, blank notebook and pencil, forest stream softly visible behind.",
+    "reviewed": true,
+    "displayTransform": "Crop bottom 55px margin; center-fit to 1280x720.",
+    "provenance": "AI-generated conceptual illustration",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-elk-browsing",
+    "pointId": "elk-browsing",
+    "url": "https://www.nps.gov/npgallery/GetAsset/4252DF2D-1DD8-B71B-0B7B-85E452EE7A55",
+    "source": "https://npgallery.nps.gov/AssetDetail/4252DF2D-1DD8-B71B-0B7B85E452EE7A55",
+    "caption": "Roosevelt elk resting on gravel in Olympic National Park.",
+    "credit": "National Park Service",
+    "rights": "NPGallery: Public domain, full granting rights.",
+    "file": "olympic-elk-browsing.jpg",
+    "masterFile": "olympic-elk-browsing.jpg",
+    "sha256": "408a9f345608abb9782d663492ea9a970af507bda3ce309b8366f7c5ae5a2c20",
+    "masterSha256": "80cadc27405765d02b7eb66ee328c59812e4de3d36d91adc2cba3f91229dea87",
+    "kind": "photograph",
+    "width": 800,
+    "height": 600,
+    "checked": "2026-09-08",
+    "reviewed": true,
+    "provenance": "Source-credited documentary photograph",
+    "reviewedAt": "2026-09-08"
+  },
+  {
+    "id": "olympic-mountain-goat-removal",
+    "pointId": "mountain-goat-removal",
+    "url": "https://www.nps.gov/olym/planyourvisit/images/Setting-goats-in-truck-9-13-18-NPS-photo-JB.JPG",
+    "source": "https://www.nps.gov/olym/planyourvisit/mountain-goat-capture-and-translocation.htm",
+    "caption": "Captured Olympic mountain goats arriving at a staging area for transport to the Cascades, September 2018.",
+    "credit": "NPS / J. Burger",
+    "rights": "NPS-credited photograph; no third-party restriction on source page. https://www.nps.gov/aboutus/disclaimer.htm",
+    "file": "olympic-mountain-goat-removal.jpg",
+    "masterFile": "olympic-mountain-goat-removal.jpg",
+    "sha256": "bf530662fde768e090984c7c5758071601f7418486b203c8a9b62bd9f8e47fab",
+    "masterSha256": "33dde6dbbc5f1e5fc6670ff1ec80b9e87ef76ebcd2426b4cbb2ccfd61cdfc562",
+    "kind": "photograph",
+    "width": 668,
+    "height": 1000,
+    "checked": "2026-09-08",
+    "reviewed": true,
+    "provenance": "Source-credited documentary photograph",
+    "reviewedAt": "2026-09-08"
+  }
+]

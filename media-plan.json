@@ -1,8 +1,8 @@
 {
   "contentRevision": "2026-09-08-expanded-72",
-  "status": "Planning only; production deferred until the reading edition is approved for adaptation.",
-  "narration": "Choose and author a continuous Active Journey or Rest Journey from a selected route before recording. Retain point IDs, sources, transitions and pronunciation review.",
-  "images": "Create distinct point-specific illustrations. Verify location, species and mechanism against the attached evidence. Label illustrations and preserve provenance.",
+  "status": "Both 72-point Spiral Courses recorded with local Bella; every point illustrated.",
+  "narration": "Two complete continuous 72-point scripts recorded locally with Kokoro Bella: ORB Learn and ORB Feel & Experience. Saved audio and measured paragraph cues are in courses.json.",
+  "images": "All 72 points illustrated: 30 retained assets, 31 new local FLUX.2 Klein illustrations, nine authored explanatory diagrams and two additional credited NPS photographs.",
   "music": "Develop original instrumental beds by landscape and sequence after narration pacing is established. Existing tracks have not been assigned to this edition.",
   "points": [
     {
@@ -20,7 +20,10 @@
       "existingMedia": [
         "mountains"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "mountains"
+      ]
     },
     {
       "id": "park-and-peninsula",
@@ -32,7 +35,10 @@
         "sanctuary"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-park-and-peninsula"
+      ]
     },
     {
       "id": "living-homelands",
@@ -45,7 +51,10 @@
       "existingMedia": [
         "tribal-canoes"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "tribal-canoes"
+      ]
     },
     {
       "id": "tribal-sovereignty",
@@ -58,7 +67,10 @@
         "elwha"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-tribal-sovereignty"
+      ]
     },
     {
       "id": "shared-stewardship",
@@ -73,7 +85,10 @@
       "existingMedia": [
         "native-plant-center"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "native-plant-center"
+      ]
     },
     {
       "id": "ozette-memory",
@@ -87,7 +102,10 @@
       "existingMedia": [
         "visual-ozette-memory"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-ozette-memory"
+      ]
     },
     {
       "id": "ozette-archaeology",
@@ -99,7 +117,10 @@
         "history"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-ozette-archaeology"
+      ]
     },
     {
       "id": "seafloor-to-summit",
@@ -113,7 +134,10 @@
       "existingMedia": [
         "visual-seafloor-to-summit"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-seafloor-to-summit"
+      ]
     },
     {
       "id": "crescent-basalt",
@@ -125,7 +149,10 @@
         "atlas"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-crescent-basalt"
+      ]
     },
     {
       "id": "accretion-and-uplift",
@@ -138,7 +165,10 @@
         "geo"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-accretion-and-uplift"
+      ]
     },
     {
       "id": "ice-carved-land",
@@ -153,7 +183,10 @@
       "existingMedia": [
         "place-crescent"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-crescent"
+      ]
     },
     {
       "id": "glacial-valleys",
@@ -165,7 +198,10 @@
         "crescent"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-glacial-valleys"
+      ]
     },
     {
       "id": "crescent-trout",
@@ -177,7 +213,10 @@
         "rivers"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-crescent-trout"
+      ]
     },
     {
       "id": "rain-shadow",
@@ -190,7 +229,10 @@
       "existingMedia": [
         "visual-rain-shadow"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-rain-shadow"
+      ]
     },
     {
       "id": "snowpack-storage",
@@ -203,7 +245,10 @@
         "ice-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-snowpack-storage"
+      ]
     },
     {
       "id": "glacier-budget",
@@ -217,7 +262,10 @@
       "existingMedia": [
         "ice"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "ice"
+      ]
     },
     {
       "id": "blue-glacier-record",
@@ -229,7 +277,10 @@
         "ice-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-blue-glacier-record"
+      ]
     },
     {
       "id": "mass-balance",
@@ -240,7 +291,10 @@
         "ice-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-mass-balance"
+      ]
     },
     {
       "id": "summer-streamflow",
@@ -252,7 +306,10 @@
         "ice-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-summer-streamflow"
+      ]
     },
     {
       "id": "forest-mosaic",
@@ -268,7 +325,10 @@
       "existingMedia": [
         "place-hurricane"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-hurricane"
+      ]
     },
     {
       "id": "treeline-patterns",
@@ -281,7 +341,10 @@
         "research"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-treeline-patterns"
+      ]
     },
     {
       "id": "meadow-phenology",
@@ -293,7 +356,10 @@
         "hurricane"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-meadow-phenology"
+      ]
     },
     {
       "id": "mountain-goat-removal",
@@ -304,7 +370,10 @@
         "goats"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-mountain-goat-removal"
+      ]
     },
     {
       "id": "olympic-marmot",
@@ -317,7 +386,10 @@
       "existingMedia": [
         "olympic-marmot"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-marmot"
+      ]
     },
     {
       "id": "island-evolution",
@@ -330,7 +402,10 @@
         "goats"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-island-evolution"
+      ]
     },
     {
       "id": "marmot-hibernation",
@@ -342,7 +417,10 @@
         "marmot-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-marmot-hibernation"
+      ]
     },
     {
       "id": "rainforest-layers",
@@ -356,7 +434,10 @@
       "existingMedia": [
         "place-hoh"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-hoh"
+      ]
     },
     {
       "id": "elk-browsing",
@@ -368,7 +449,10 @@
         "elk"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-elk-browsing"
+      ]
     },
     {
       "id": "canopy-epiphytes",
@@ -380,7 +464,10 @@
         "hoh"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-canopy-epiphytes"
+      ]
     },
     {
       "id": "fallen-wood",
@@ -394,7 +481,10 @@
       "existingMedia": [
         "place-queets"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-queets"
+      ]
     },
     {
       "id": "nurse-logs",
@@ -406,7 +496,10 @@
         "nurse-trail"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-nurse-logs"
+      ]
     },
     {
       "id": "decay-and-soil",
@@ -418,7 +511,10 @@
         "forest"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-decay-and-soil"
+      ]
     },
     {
       "id": "fire-in-wet-country",
@@ -431,7 +527,10 @@
       "existingMedia": [
         "montane-fire"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "montane-fire"
+      ]
     },
     {
       "id": "fire-records",
@@ -442,7 +541,10 @@
         "fire"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-fire-records"
+      ]
     },
     {
       "id": "river-continuum",
@@ -457,7 +559,10 @@
       "existingMedia": [
         "place-staircase"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-staircase"
+      ]
     },
     {
       "id": "douglas-fir-pattern",
@@ -470,7 +575,10 @@
         "fire"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-douglas-fir-pattern"
+      ]
     },
     {
       "id": "floodplain-channels",
@@ -483,7 +591,10 @@
         "queets"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-floodplain-channels"
+      ]
     },
     {
       "id": "wood-and-cold-water",
@@ -499,7 +610,10 @@
       "existingMedia": [
         "place-solduc"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "place-solduc"
+      ]
     },
     {
       "id": "stream-temperature",
@@ -512,7 +626,10 @@
         "cycle"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-stream-temperature"
+      ]
     },
     {
       "id": "aquatic-insects",
@@ -523,7 +640,10 @@
         "stream-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-aquatic-insects"
+      ]
     },
     {
       "id": "salmon-life",
@@ -539,7 +659,10 @@
       "existingMedia": [
         "visual-salmon-life"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-salmon-life"
+      ]
     },
     {
       "id": "salmon-redds",
@@ -551,7 +674,10 @@
         "salmon-eggs"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-salmon-redds"
+      ]
     },
     {
       "id": "smolt-transition",
@@ -563,7 +689,10 @@
         "salmon-smolt"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-smolt-transition"
+      ]
     },
     {
       "id": "ocean-in-the-forest",
@@ -578,7 +707,10 @@
       "existingMedia": [
         "visual-ocean-in-the-forest"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-ocean-in-the-forest"
+      ]
     },
     {
       "id": "tracing-marine-nutrients",
@@ -589,7 +721,10 @@
         "nutrients"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-tracing-marine-nutrients"
+      ]
     },
     {
       "id": "quinault-blueback",
@@ -602,7 +737,10 @@
       "existingMedia": [
         "lake"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "lake"
+      ]
     },
     {
       "id": "lake-water-column",
@@ -614,7 +752,10 @@
         "lake-stratification"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-lake-water-column"
+      ]
     },
     {
       "id": "blueback-monitoring",
@@ -627,7 +768,10 @@
         "lake-plan"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-blueback-monitoring"
+      ]
     },
     {
       "id": "elwha-reconnection",
@@ -641,7 +785,10 @@
       "existingMedia": [
         "elwha-dam-removal"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "elwha-dam-removal"
+      ]
     },
     {
       "id": "elwha-sediment-pulse",
@@ -652,7 +799,10 @@
         "sediment"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-elwha-sediment-pulse"
+      ]
     },
     {
       "id": "reservoir-revegetation",
@@ -664,7 +814,10 @@
         "revegetation-record"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-reservoir-revegetation"
+      ]
     },
     {
       "id": "tracking-return",
@@ -678,7 +831,10 @@
       "existingMedia": [
         "salmon-research"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "salmon-research"
+      ]
     },
     {
       "id": "edna-sampling",
@@ -689,7 +845,10 @@
         "edna"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-edna-sampling"
+      ]
     },
     {
       "id": "fish-abundance",
@@ -701,7 +860,10 @@
         "edna"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-fish-abundance"
+      ]
     },
     {
       "id": "sediment-to-sea",
@@ -716,7 +878,10 @@
       "existingMedia": [
         "visual-sediment-to-sea"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-sediment-to-sea"
+      ]
     },
     {
       "id": "estuary-nursery",
@@ -728,7 +893,10 @@
         "estuary"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-estuary-nursery"
+      ]
     },
     {
       "id": "rocky-edge",
@@ -741,7 +909,10 @@
       "existingMedia": [
         "coast"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "coast"
+      ]
     },
     {
       "id": "sea-stack-landscape",
@@ -753,7 +924,10 @@
         "coastal-landforms"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-sea-stack-landscape"
+      ]
     },
     {
       "id": "coastal-upwelling",
@@ -765,7 +939,10 @@
         "oceanography"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-coastal-upwelling"
+      ]
     },
     {
       "id": "kelp-forests",
@@ -778,7 +955,10 @@
         "invertebrates"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-kelp-forests"
+      ]
     },
     {
       "id": "between-the-tides",
@@ -792,7 +972,10 @@
       "existingMedia": [
         "intertidal-life"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "intertidal-life"
+      ]
     },
     {
       "id": "tidal-zonation",
@@ -805,7 +988,10 @@
         "invertebrates"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-tidal-zonation"
+      ]
     },
     {
       "id": "coastal-measurements",
@@ -818,7 +1004,10 @@
         "tides"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-coastal-measurements"
+      ]
     },
     {
       "id": "reading-the-evidence",
@@ -832,7 +1021,10 @@
       "existingMedia": [
         "glacier-fieldwork"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "glacier-fieldwork"
+      ]
     },
     {
       "id": "evidence-baselines",
@@ -845,7 +1037,10 @@
         "ice-monitor"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-evidence-baselines"
+      ]
     },
     {
       "id": "research-design",
@@ -858,7 +1053,10 @@
         "science"
       ],
       "existingMedia": [],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "olympic-research-design"
+      ]
     },
     {
       "id": "floor-ice",
@@ -872,7 +1070,10 @@
       "existingMedia": [
         "visual-floor-ice"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-ice"
+      ]
     },
     {
       "id": "floor-forest",
@@ -886,7 +1087,10 @@
       "existingMedia": [
         "visual-floor-forest"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-forest"
+      ]
     },
     {
       "id": "floor-marmot",
@@ -900,7 +1104,10 @@
       "existingMedia": [
         "visual-floor-marmot"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-marmot"
+      ]
     },
     {
       "id": "floor-salmon",
@@ -915,7 +1122,10 @@
       "existingMedia": [
         "visual-floor-salmon"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-salmon"
+      ]
     },
     {
       "id": "floor-coast",
@@ -929,7 +1139,10 @@
       "existingMedia": [
         "visual-floor-coast"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-coast"
+      ]
     },
     {
       "id": "floor-quinault",
@@ -943,7 +1156,35 @@
       "existingMedia": [
         "visual-floor-quinault"
       ],
-      "productionStatus": "not started"
+      "productionStatus": "image and both narration modes ready",
+      "selectedMedia": [
+        "visual-floor-quinault"
+      ]
     }
-  ]
+  ],
+  "courses": [
+    {
+      "id": "learn",
+      "style": "active",
+      "name": "ORB Learn — Spiral Audio Course",
+      "url": "courses.html?mode=learn",
+      "durationSeconds": 3110.85125,
+      "voice": "Kokoro Bella",
+      "pointCount": 72,
+      "scriptRevision": "2026-09-08-learn-64ec2fa8de35",
+      "narrationReady": true
+    },
+    {
+      "id": "feel",
+      "style": "rest",
+      "name": "ORB Feel & Experience — Guided Audio Journey",
+      "url": "courses.html?mode=feel",
+      "durationSeconds": 2736.9415,
+      "voice": "Kokoro Bella",
+      "pointCount": 72,
+      "scriptRevision": "2026-09-08-feel-88ac29f19321",
+      "narrationReady": true
+    }
+  ],
+  "musicStatus": "No new music generated for this course request."
 }
