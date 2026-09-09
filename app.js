@@ -88,7 +88,17 @@ function draw(now){
 let last=performance.now();function frame(now){const dt=Math.min(now-last,60)/1000;last=now;if(!reduced.matches&&Math.abs(targetYaw-yaw)>.0008)yaw+=(targetYaw-yaw)*(1-Math.exp(-dt*4));else if(motion&&!reduced.matches&&!drag&&!pointerOver&&now-lastInteraction>3500){yaw+=dt*.07;targetYaw=yaw}draw(now);requestAnimationFrame(frame)}
 function hit(x,y){const label=labelBoxes.find(b=>x>=b.x&&x<=b.x+b.w&&y>=b.y&&y<=b.y+b.h);if(label)return label.i;return projected.filter(p=>(mapDensity==='all'||P[p.i].tier===mapDensity||p.i===current)&&Math.hypot(p.x-x,p.y-y)<14).sort((a,b)=>b.z-a.z)[0]?.i??-1}
 canvas.addEventListener('pointerenter',()=>{pointerOver=true;lastInteraction=performance.now()});
-canvas.addEventListener('keydown',e=>{const nav={ArrowUp:'up',ArrowDown:'down',ArrowLeft:'left',ArrowRight:'right','[':'backward',']':'forward'};if(nav[e.key]){e.preventDefault();const edge=P[current].links[nav[e.key]];if(edge.to)select(ids.get(edge.to),{focus:false});else message(edge.label)}else if(e.code==='Space'){e.preventDefault();$('#motion').click()}else if(e.key==='Escape'){setMapExpanded(false)}});
+// Physical rotation is independent of the authored six-direction compass.
+document.addEventListener('keydown',e=>{
+ if(e.defaultPrevented||e.isComposing||e.altKey||e.ctrlKey||e.metaKey||e.shiftKey||e.target.closest?.('input, textarea, select, [contenteditable]:not([contenteditable="false"]), [role="textbox"], [role="slider"], [role="combobox"], audio, video')||document.querySelector('dialog[open]'))return;
+ if(e.key==='ArrowLeft'||e.key==='ArrowRight'){
+  e.preventDefault();targetYaw+=(e.key==='ArrowLeft'?-1:1)*.24;lastInteraction=performance.now();if(reduced.matches)yaw=targetYaw;return;
+ }
+ const nav={ArrowUp:'up',ArrowDown:'down','[':'backward',']':'forward'};
+ if(nav[e.key]){e.preventDefault();const edge=P[current].links[nav[e.key]];if(edge.to)select(ids.get(edge.to),{focus:false});else message(edge.label)}
+ else if(e.target===canvas&&e.code==='Space'){e.preventDefault();$('#motion').click()}
+ else if(e.target===canvas&&e.key==='Escape'){setMapExpanded(false)}
+});
 canvas.addEventListener('pointerdown',e=>{const r=canvas.getBoundingClientRect();drag={x:e.clientX,y:e.clientY,yaw,moved:false};lastInteraction=performance.now();canvas.setPointerCapture(e.pointerId)});
 canvas.addEventListener('pointermove',e=>{const r=canvas.getBoundingClientRect();if(drag&&Math.abs(e.clientX-drag.x)>7){drag.moved=true;yaw=drag.yaw+(e.clientX-drag.x)*.012;targetYaw=yaw;lastInteraction=performance.now()}else{hover=hit(e.clientX-r.left,e.clientY-r.top);canvas.style.cursor=hover>=0?'pointer':'grab'}});
 canvas.addEventListener('pointerup',e=>{if(drag&&!drag.moved){const r=canvas.getBoundingClientRect(),i=hit(e.clientX-r.left,e.clientY-r.top);if(i>=0)select(i)}drag=null});canvas.addEventListener('pointercancel',()=>{drag=null});canvas.addEventListener('pointerleave',()=>{hover=-1;pointerOver=false;lastInteraction=performance.now()});

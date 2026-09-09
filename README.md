@@ -4,7 +4,7 @@
 
 An expanded field guide with **72 connected readings**, including **42 new detail points**, **59 evidence sources**, and **six open investigations**. The reading paragraphs contain approximately 8,800 words, before decks, research questions, methods, and transitions.
 
-The rotating sphere displays clickable place and topic names. Drag to turn it, pause rotation, expand the map, or select a map-density filter. All readings remain accessible through search regardless of the visible density. Arrow keys on the focused sphere follow UP/DOWN/LEFT/RIGHT; square brackets follow the logical thread. Visit history remains separate from conceptual BACKWARD.
+The rotating sphere displays clickable place and topic names. Drag to turn it, pause rotation, expand the map, or select a map-density filter. All readings remain accessible through search regardless of the visible density. Up follows the authored broader connection and Down follows the deeper connection. Left/Right rotate the sphere without changing the reading. Square brackets follow the logical thread. These shortcuts work on the sphere and while reading; native form controls and dialogs keep their own keyboard behavior. Visit history remains separate from conceptual BACKWARD.
 
 ## Reading edition
 
@@ -27,7 +27,7 @@ Run `python build.py` to rebuild `index.html` from `orb.json`, `shell.html`, `st
 - [ORB Learn — Spiral Audio Course](https://visualizationcreation.github.io/olympic-national-park/courses.html?mode=learn): **51:50**, a connected educational account of all 72 points.
 - [ORB Feel & Experience — Guided Audio Journey](https://visualizationcreation.github.io/olympic-national-park/courses.html?mode=feel): **45:36**, an imagined first-person journey through the same sourced landscape.
 
-Both use **Kokoro ONNX Bella (`af_bella`)**, generated locally at speed 0.9 with natural pitch. Each course has twelve saved MP3 chapters, a continuous transcript and measured paragraph cues. No local model is required to play them. The chapter files load ahead; the rotating word spiral, image, passage and paragraph highlight follow actual narration time. Start always begins at zero. Resume is a separate control with an independent bookmark for each mode. Changing mode pauses playback and keeps the same point.
+Both use **Kokoro ONNX Bella (`af_bella`)**, generated locally at speed 0.9 with natural pitch. Each course has twelve saved MP3 chapters, a continuous transcript and measured paragraph cues. No local model is required to play them. The chapter files load ahead; the rotating word spiral, image, passage and paragraph highlight follow actual narration time. Start always begins at zero. Resume is a separate control with an independent bookmark for each mode. Changing mode pauses playback and keeps the same point. In the course player, Up/Down follow the same broader/deeper links as the original ORB and pause at the destination; Left/Right only rotate the sphere, leaving playback alone. Brackets [ / ] select the previous/next course point. At an authored edge, the player explains the limit without jumping to an unrelated point.
 
 A local Dolphin 3.0 Llama 3.1 8B model supplied preliminary drafts. Those drafts required substantial correction and were rewritten and reviewed against the ORB's sourced readings before recording. The public course records describe that authorship accurately. The two styles have separately authored scripts rather than identical speech at different speeds.
 

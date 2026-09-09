@@ -8759,5 +8759,727 @@
       "url": "https://www.nps.gov/subjects/geology/coastal-landforms.htm",
       "checked": "2026-09-08"
     }
+  },
+  "navigation": {
+    "one-peninsula": {
+      "up": {
+        "to": null,
+        "label": "This edition is anchored on Olympic. Broader geography can continue in Orbiverse."
+      },
+      "down": {
+        "to": "river-continuum",
+        "label": "Deepen how the landscape is connected"
+      }
+    },
+    "park-and-peninsula": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of this place or explanation: One peninsula, many worlds"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "living-homelands": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "shared-stewardship",
+        "label": "Examine contemporary coordination"
+      }
+    },
+    "tribal-sovereignty": {
+      "up": {
+        "to": "living-homelands",
+        "label": "Part of this place or explanation: Living homelands"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "shared-stewardship": {
+      "up": {
+        "to": "living-homelands",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "elwha-reconnection",
+        "label": "A concrete restoration example"
+      }
+    },
+    "ozette-memory": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "reading-the-evidence",
+        "label": "Examine how evidence supports interpretation"
+      }
+    },
+    "ozette-archaeology": {
+      "up": {
+        "to": "ozette-memory",
+        "label": "Part of this place or explanation: Ozette and the care of memory"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "seafloor-to-summit": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "ice-carved-land",
+        "label": "Examine how raised terrain is sculpted"
+      }
+    },
+    "crescent-basalt": {
+      "up": {
+        "to": "seafloor-to-summit",
+        "label": "Part of this place or explanation: From seafloor to summit"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "accretion-and-uplift": {
+      "up": {
+        "to": "seafloor-to-summit",
+        "label": "Part of this place or explanation: From seafloor to summit"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "ice-carved-land": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "glacier-budget",
+        "label": "Examine the ice process"
+      }
+    },
+    "glacial-valleys": {
+      "up": {
+        "to": "ice-carved-land",
+        "label": "Part of this place or explanation: Lake Crescent: a basin with a history"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "crescent-trout": {
+      "up": {
+        "to": "ice-carved-land",
+        "label": "Part of this place or explanation: Lake Crescent: a basin with a history"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "rain-shadow": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "rainforest-layers",
+        "label": "Examine a resulting forest environment"
+      }
+    },
+    "snowpack-storage": {
+      "up": {
+        "to": "rain-shadow",
+        "label": "Part of this place or explanation: The mountains divide the weather"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Deepen the limits of this explanation: How will declining glacier storage change late-summer flow and temperature in individual Olympic watersheds?"
+      }
+    },
+    "glacier-budget": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Investigate downstream effects of ice loss"
+      }
+    },
+    "blue-glacier-record": {
+      "up": {
+        "to": "glacier-budget",
+        "label": "Part of this place or explanation: A glacier keeps a water budget"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Deepen the limits of this explanation: How will declining glacier storage change late-summer flow and temperature in individual Olympic watersheds?"
+      }
+    },
+    "mass-balance": {
+      "up": {
+        "to": "glacier-budget",
+        "label": "Part of this place or explanation: A glacier keeps a water budget"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Deepen the limits of this explanation: How will declining glacier storage change late-summer flow and temperature in individual Olympic watersheds?"
+      }
+    },
+    "summer-streamflow": {
+      "up": {
+        "to": "glacier-budget",
+        "label": "Part of this place or explanation: A glacier keeps a water budget"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Deepen the limits of this explanation: How will declining glacier storage change late-summer flow and temperature in individual Olympic watersheds?"
+      }
+    },
+    "forest-mosaic": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Investigate causes of vegetation change"
+      }
+    },
+    "treeline-patterns": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Part of this place or explanation: Hurricane Ridge: where forest opens into meadow"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "meadow-phenology": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Part of this place or explanation: Hurricane Ridge: where forest opens into meadow"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "mountain-goat-removal": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Part of this place or explanation: Hurricane Ridge: where forest opens into meadow"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "olympic-marmot": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Broaden from a mountain animal to its high-country setting"
+      },
+      "down": {
+        "to": "floor-marmot",
+        "label": "Investigate causes of occupancy change"
+      }
+    },
+    "island-evolution": {
+      "up": {
+        "to": "olympic-marmot",
+        "label": "Part of this place or explanation: A life found only here"
+      },
+      "down": {
+        "to": "floor-marmot",
+        "label": "Deepen the limits of this explanation: When a meadow loses marmots, how much is explained by habitat conditions, predation, dispersal or imperfect detection?"
+      }
+    },
+    "marmot-hibernation": {
+      "up": {
+        "to": "olympic-marmot",
+        "label": "Part of this place or explanation: A life found only here"
+      },
+      "down": {
+        "to": "floor-marmot",
+        "label": "Deepen the limits of this explanation: When a meadow loses marmots, how much is explained by habitat conditions, predation, dispersal or imperfect detection?"
+      }
+    },
+    "rainforest-layers": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Broaden from a western rainforest to the whole Olympic landscape"
+      },
+      "down": {
+        "to": "fallen-wood",
+        "label": "Finer scale: regeneration on a log"
+      }
+    },
+    "elk-browsing": {
+      "up": {
+        "to": "rainforest-layers",
+        "label": "Part of this place or explanation: Hoh: the forest above the forest"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "canopy-epiphytes": {
+      "up": {
+        "to": "rainforest-layers",
+        "label": "Part of this place or explanation: Hoh: the forest above the forest"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "fallen-wood": {
+      "up": {
+        "to": "rainforest-layers",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the question of forest change"
+      }
+    },
+    "nurse-logs": {
+      "up": {
+        "to": "fallen-wood",
+        "label": "Part of this place or explanation: Queets: the life of a fallen tree"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "decay-and-soil": {
+      "up": {
+        "to": "fallen-wood",
+        "label": "Part of this place or explanation: Queets: the life of a fallen tree"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "fire-in-wet-country": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Investigate interacting influences"
+      }
+    },
+    "fire-records": {
+      "up": {
+        "to": "fire-in-wet-country",
+        "label": "Part of this place or explanation: Even wet forests have fire histories"
+      },
+      "down": {
+        "to": "floor-forest",
+        "label": "Deepen the limits of this explanation: Where do changes in moisture, snow duration and disturbance alter Olympic plant communities, and which processes explain the differences?"
+      }
+    },
+    "river-continuum": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "wood-and-cold-water",
+        "label": "Examine habitat-forming processes"
+      }
+    },
+    "douglas-fir-pattern": {
+      "up": {
+        "to": "river-continuum",
+        "label": "Part of this place or explanation: Staircase: a different side of Olympic"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "floodplain-channels": {
+      "up": {
+        "to": "river-continuum",
+        "label": "Part of this place or explanation: Staircase: a different side of Olympic"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "wood-and-cold-water": {
+      "up": {
+        "to": "river-continuum",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "salmon-life",
+        "label": "Deepen how river structure meets different life-stage needs"
+      }
+    },
+    "stream-temperature": {
+      "up": {
+        "to": "wood-and-cold-water",
+        "label": "Part of this place or explanation: Sol Duc: falls, forest and river habitat"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "aquatic-insects": {
+      "up": {
+        "to": "wood-and-cold-water",
+        "label": "Part of this place or explanation: Sol Duc: falls, forest and river habitat"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "salmon-life": {
+      "up": {
+        "to": "river-continuum",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "quinault-blueback",
+        "label": "A particular population and habitat"
+      }
+    },
+    "salmon-redds": {
+      "up": {
+        "to": "salmon-life",
+        "label": "Part of this place or explanation: One life, several habitats"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "smolt-transition": {
+      "up": {
+        "to": "salmon-life",
+        "label": "Part of this place or explanation: One life, several habitats"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "ocean-in-the-forest": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "fallen-wood",
+        "label": "Deepen the decomposition route through a forest habitat"
+      }
+    },
+    "tracing-marine-nutrients": {
+      "up": {
+        "to": "ocean-in-the-forest",
+        "label": "Part of this place or explanation: Food webs carry the ocean inland"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "quinault-blueback": {
+      "up": {
+        "to": "salmon-life",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "floor-quinault",
+        "label": "Investigate lake data gaps"
+      }
+    },
+    "lake-water-column": {
+      "up": {
+        "to": "quinault-blueback",
+        "label": "Part of this place or explanation: Blueback and Lake Quinault"
+      },
+      "down": {
+        "to": "floor-quinault",
+        "label": "Deepen the limits of this explanation: Which information would most improve decisions about lake habitat, water quality and resilience for blueback?"
+      }
+    },
+    "blueback-monitoring": {
+      "up": {
+        "to": "quinault-blueback",
+        "label": "Part of this place or explanation: Blueback and Lake Quinault"
+      },
+      "down": {
+        "to": "floor-quinault",
+        "label": "Deepen the limits of this explanation: Which information would most improve decisions about lake habitat, water quality and resilience for blueback?"
+      }
+    },
+    "elwha-reconnection": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "tracking-return",
+        "label": "Examine evidence of fish response"
+      }
+    },
+    "elwha-sediment-pulse": {
+      "up": {
+        "to": "elwha-reconnection",
+        "label": "Part of this place or explanation: The Elwha reconnects"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "reservoir-revegetation": {
+      "up": {
+        "to": "elwha-reconnection",
+        "label": "Part of this place or explanation: The Elwha reconnects"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "tracking-return": {
+      "up": {
+        "to": "elwha-reconnection",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Investigate sustained recovery"
+      }
+    },
+    "edna-sampling": {
+      "up": {
+        "to": "tracking-return",
+        "label": "Part of this place or explanation: How do we know fish returned?"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "fish-abundance": {
+      "up": {
+        "to": "tracking-return",
+        "label": "Part of this place or explanation: How do we know fish returned?"
+      },
+      "down": {
+        "to": "floor-salmon",
+        "label": "Deepen the limits of this explanation: Which newly accessible habitats support sustained reproduction and survival across generations of returning fish?"
+      }
+    },
+    "sediment-to-sea": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Investigate changes in coastal communities"
+      }
+    },
+    "estuary-nursery": {
+      "up": {
+        "to": "sediment-to-sea",
+        "label": "Part of this place or explanation: Where rivers meet the coast"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "rocky-edge": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "between-the-tides",
+        "label": "Finer scale: the intertidal environment"
+      }
+    },
+    "sea-stack-landscape": {
+      "up": {
+        "to": "rocky-edge",
+        "label": "Part of this place or explanation: Rialto: rock, waves and coastal wildlife"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "coastal-upwelling": {
+      "up": {
+        "to": "rocky-edge",
+        "label": "Part of this place or explanation: Rialto: rock, waves and coastal wildlife"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "kelp-forests": {
+      "up": {
+        "to": "rocky-edge",
+        "label": "Part of this place or explanation: Rialto: rock, waves and coastal wildlife"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "between-the-tides": {
+      "up": {
+        "to": "rocky-edge",
+        "label": "Return to the containing ecological or explanatory context"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Investigate interacting coastal stressors"
+      }
+    },
+    "tidal-zonation": {
+      "up": {
+        "to": "between-the-tides",
+        "label": "Part of this place or explanation: Life between immersion and air"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "coastal-measurements": {
+      "up": {
+        "to": "between-the-tides",
+        "label": "Part of this place or explanation: Life between immersion and air"
+      },
+      "down": {
+        "to": "floor-coast",
+        "label": "Deepen the limits of this explanation: How can researchers separate natural variability from warming, acidification and local disturbance at Olympic intertidal sites?"
+      }
+    },
+    "reading-the-evidence": {
+      "up": {
+        "to": "one-peninsula",
+        "label": "Part of the connected Olympic landscape"
+      },
+      "down": {
+        "to": "floor-ice",
+        "label": "Enter a concrete open investigation"
+      }
+    },
+    "evidence-baselines": {
+      "up": {
+        "to": "reading-the-evidence",
+        "label": "Part of this place or explanation: How to read a changing park"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "research-design": {
+      "up": {
+        "to": "reading-the-evidence",
+        "label": "Part of this place or explanation: How to read a changing park"
+      },
+      "down": {
+        "to": null,
+        "label": "Finer local evidence is not authored here. Carry this point and its sources into Orbiverse."
+      }
+    },
+    "floor-ice": {
+      "up": {
+        "to": "glacier-budget",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    },
+    "floor-forest": {
+      "up": {
+        "to": "forest-mosaic",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    },
+    "floor-marmot": {
+      "up": {
+        "to": "olympic-marmot",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    },
+    "floor-salmon": {
+      "up": {
+        "to": "tracking-return",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    },
+    "floor-coast": {
+      "up": {
+        "to": "between-the-tides",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    },
+    "floor-quinault": {
+      "up": {
+        "to": "quinault-blueback",
+        "label": "Return to the established basis for this question"
+      },
+      "down": {
+        "to": null,
+        "label": "A detailed study design is beyond this edition. The proposed method above and Orbiverse continuation provide a starting point."
+      }
+    }
   }
 }

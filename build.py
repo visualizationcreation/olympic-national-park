@@ -19,5 +19,10 @@ assert len({hashlib.sha256((p/d['media'][key]['file']).read_bytes()).hexdigest()
 for m in d['media'].values():m['data']='data:'+m.get('mime','image/jpeg')+';base64,'+base64.b64encode((p/m['file']).read_bytes()).decode()
 s=(p/'shell.html').read_text(encoding='utf-8').replace('/*STYLE*/',(p/'style.css').read_text(encoding='utf-8')).replace('/*HERO*/',d['media']['mountains']['data']).replace('/*DATA*/',json.dumps(d,ensure_ascii=False).replace('</','<\\/')).replace('/*APP*/',(p/'app.js').read_text(encoding='utf-8'))
 (p/'index.html').write_text(s,encoding='utf-8')
+if (p/'courses.json').exists():
+ courses=json.loads((p/'courses.json').read_text(encoding='utf-8'))
+ courses['navigation']={point['id']:{direction:point['links'][direction] for direction in ('up','down')} for point in d['points']}
+ (p/'courses.json').write_text(json.dumps(courses,ensure_ascii=False,indent=2),encoding='utf-8')
+ (p/'courses-data.js').write_text('window.OLYMPIC_COURSES='+json.dumps(courses,ensure_ascii=False).replace('</','<\\/')+';\n',encoding='utf-8')
 (p/'.nojekyll').write_text('')
 print('Self-contained index:',len(s.encode()),'bytes')
